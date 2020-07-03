@@ -1,0 +1,164 @@
+#+TITLE: PHIL 971 - Kant & Kantianism on Rational Agency
+#+DATE: July 2, 2020
+#+AUTHOR: Colin McLear
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport archive nohugo
+#+TODO: TODO NEXT | DONE CANCELED
+#+TODO: DRAFT | DONE CANCELED
+#+LANGUAGE: en
+#+LATEX_HEADER: \usepackage[English]{babel}
+#+OPTIONS: '":t
+
+* Course Outline
+
+* Website
+** Pages
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: ./
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :toc false
+:END:
+*** Welcome!
+:PROPERTIES:
+:EXPORT_FILE_NAME: home
+:END:
+
+This is the homepage for *PHIL 971* – Kant (and kantianism) on Rational Agency
+
+Kant famously considers moral agency to consist in acting from a grasp of rational principles as such. But what is a rational principle and what is it to act from such a principle? In this seminar we'll look at how Kant answers these questions, and evaluate the theory of rational agency that results. We'll also look at the reception of Kant's position in contemporary Anglophone philosophy, particularly in the work of Frankfurt, Korsgaard, Velleman, Reath, and Herman. Some related questions we'll be trying to find answers to include:
+
+- How does Kant conceive of the connection between rational action and free action? 
+- What kind of metaphysical commitments does Kant build into his conception of
+  rational action? Do any of these commitments seem plausible today? 
+- What is the importance of the capacity for self-consciousness with respect to being rational?
+
+*** Schedule
+:PROPERTIES:
+:EXPORT_FILE_NAME: schedule
+:EXPORT_HUGO_MENU: :menu main
+:END:
+
+This is a tentative schedule. Check the [[https://phil971.colinmclear.net/assignments][assignments]] page for the most current
+information.
+
+| Week | Date  | Topic                            |
+|------+-------+----------------------------------|
+|    1 | 8/18  | Problem Setup/Kant's Agent       |
+|    2 | 8/25  | Kant's Free Agent                |
+|    3 | 9/1   | Enkratic Rationality             |
+|    4 | 9/8   | Inference & Agency               |
+|    5 | 9/15  | Reason & Principles              |
+|    6 | 9/22  | A Compatibilist Kant?            |
+|    7 | 9/29  | The Frankfurtian Background      |
+|    8 | 10/6  | Other Kantian Compatibilists     |
+|    9 | 10/13 | Paper Meetings                   |
+|   10 | 10/20 | Self-Consciousness & Rationality |
+|   11 | 10/27 | Rational Teleology               |
+|   12 | 11/3  | Is Rationality Transformative?   |
+|   13 | 11/10 | Prep for Karl Schafer            |
+|   14 | 11/17 | Karl Schafer (guest)             |
+|------+-------+----------------------------------|
+
+
+
+*** Paper Topics
+:PROPERTIES:
+:EXPORT_FILE_NAME: paper-topics
+:EXPORT_HUGO_MENU: :menu main
+:END:
+
+Here are some possible topics for papers. You are welcome to write on something else (or on some modified topic related to one of the options below), but please discuss this with me first. The first draft of the paper is due *Friday, November 16th*. The final draft is due *Friday, December 7th*.  
+
+*** Resources
+:PROPERTIES:
+:EXPORT_FILE_NAME: resources
+:EXPORT_HUGO_MENU: :menu main
+:END:
+
+**** Philosophy Links
+- [[http://plato.stanford.edu][Stanford Encyclopedia of Philosophy]]
+- [[http://www.iep.utm.edu/][Internet Encyclopedia of Philosophy]]
+- [[http://philpapers.org][PhilPapers]]
+  
+**** Reading & Writing Philosophy
+- [[http://www.jimpryor.net/teaching/vocab/index.html][Philosophical Terms & Methods]]
+- [[http://www.jimpryor.net][Jim Pryor's]] guides to [[http://www.jimpryor.net/teaching/guidelines/reading.html][reading]] and [[http://www.jimpryor.net/teaching/guidelines/writing.html][writing]] philosophy
+- [[http://philosophy.hku.hk/think/][Critical Thinking]]
+- [[http://owl.english.purdue.edu/owl/][Purdue Online Writing Lab]] 
+- [[http://writingproject.fas.harvard.edu/files/hwp/files/philosophical_writing.pdf][A Guide to Philosophical Writing]]
+- [[https://www.dropbox.com/s/lyods0bt22x8u6l/ThesisOverview.pdf?dl=0][Writing a Thesis Statement]]
+- [[https://www.dropbox.com/s/eaggc570nfu6nqa/PaperStructure.pdf?dl=0][Philosophy Paper Structure]]
+
+**** Kant Related Links
+- [[http://kantpapers.org][KantPapers]]
+- [[http://www.manchester.edu/kant/Home/index.htm][Kant in the Classroom]] (Steve Naragon)
+- [[http://staffweb.hkbu.edu.hk/ppp/Kant.html][Kant on the Web]] (Steve Palmquist)
+- [[http://publish.uwo.ca/~cdyck5/UWOKRG/kantsbooks.html][Kant's Books]] (UWO Kant Research Group)
+- [[https://dspace.ut.ee/handle/10062/42108][Kants Handexemplar von Meiers Auszug aus der Vernunftlehre]] (University of Tartu)
+- [[https://www.philosophie.fb05.uni-mainz.de/forschungsstellen-und-weitere-einrichtungen/fs_kant/][Kant-Forschungsstelle]]
+- [[http://earlymoderntexts.com][Early Modern Philosophy Texts]]
+- [[https://korpora.zim.uni-duisburg-essen.de/Kant/verzeichnisse-gesamt.html][Kant Akademieausgabe (Courtesy of Universität Duisburg-Essen)]]
+- [[http://knb.mpiwg-berlin.mpg.de/kant/home][Database of Kant's concepts for a theory of nature]]
+
+**** Sources for online German texts
+- [[http://gso.gbv.de/DB=1.28/SET=1/TTL=1/][VD17]]
+- [[http://www.zvdd.de/startseite/][ZVDD]]
+- [[http://kvk.bibliothek.kit.edu/?digitalOnly=0&embedFulltitle=0&newTab=0][KVK]]
+- [[http://digital-beta.staatsbibliothek-berlin.de][Digitalisierte Sammlungen (Berlin)]]
+- [[https://www.deutsche-digitale-bibliothek.de][Deutsche Digitale Bibliothek]]
+
+  
+
+*** Contact
+:PROPERTIES:
+:EXPORT_FILE_NAME: contact
+:EXPORT_HUGO_MENU: :menu main
+:END:
+
+Dr. Colin McLear\\
+Office: Working Remotely\\
+Office Hours: Th 1:00-3:00 and by appointment\\
+Email: [[mailto:mclear@unl.edu][mclear@unl.edu]]
+
+Email is the best way to reach me. I answer emails as soon as I can, but
+primarily only on /weekdays/. 
+
+** Assignments
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :toc false :type post
+:EXPORT_HUGO_WEIGHT: -100
+:EXPORT_HUGO_SECTION: assignments
+:END:
+
+** Notes
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :toc false :type post
+:EXPORT_HUGO_SECTION: notes
+:EXPORT_HUGO_PANDOC_CITATIONS: t
+:EXPORT_HUGO_PAIRED_SHORTCODES: %mdshortcode myshortcode
+:EXPORT_BIBLIOGRAPHY: /Users/roambot/Dropbox/Work/bibfile.bib
+:EXPORT_HUGO_WEIGHT: 0
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :link-citations true
+:END:
+
+
+* Configuration                                                                 :noexport:
+#+HUGO_BASE_DIR: ./ 
+#+STARTUP: nologdone
+#+OPTIONS: H:4 author:nil date:nil
+#+OPTIONS: prop:t preamble:nil
+#+PANDOC_METADATA: numbersections:t secnumdepth:4 
+#+PANDOC_METADATA: link-citations:t colorlinks:t toc:false 
+#+PANDOC_METADATA: "lhead:"
+#+PANDOC_METADATA: "mainfont:Optima"
+#+PANDOC_METADATA: spacing:singlespacing 
+#+PANDOC_METADATA: noindent: parskip:.85em
+#+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufteII.tex
+#+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
+#+EXCLUDE_TAGS: notes scrap todo
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
+
+* Footnotes
+* COMMENT Local Variables                          :ARCHIVE:
+# Local Variables:
+# eval: (org-hugo-auto-export-mode)
+# End

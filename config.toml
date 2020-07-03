@@ -1,0 +1,70 @@
+baseurl         = "https://phil971.colinmclear.net/"
+title           = "PHIL 971"
+theme           = "hugo-bootstrap-premium"
+paginate        = 10
+copyright       = "Colin McLear"
+DisqusShortname = ""
+enableRobotsTXT = true
+googleAnalytics = "UA-30497236-1"
+
+[permalinks]
+  post = "/:section/:year/:month/:title/"
+
+[taxonomies]
+tag = "tags"
+
+[author]
+  name = ""
+
+[params]
+canonifyURLs = true 
+hello = ""
+description = ""
+paginate_sections = 20
+switchlang = false
+showRightSidebar = true
+BrandImage = ""
+footline = "Powered by [Hugo](http://gohugo.io/) with a customized [bootstrap-premium](https://github.com/appernetic/hugo-bootstrap-premium/) theme · Hosted by [Netlify](https://netlify.com) & [Github](https://github.com)"
+mailmunchid = ""
+sumomeid = ""
+mathjax = ""
+googleplus = ""
+twitter = ""
+customCSS = [ "/css/custom.css" ]
+bigfootnotes = true
+
+[params.popover]
+# This is a highly configurable popover form.
+enablepopover = false #enable or disable popover: true/false.
+
+
+[params.theme]
+# bootswatch theme name, select one: cerulean, cosmo, cyborg, darkly,
+  # default, flatly, journal,  lumen, paper, readable, sandstone, simplex,
+  # slate, spacelab, superhero, united, yeti.
+name = "cosmo"  # default, flatly, united, cosmo
+inverse = "navbar-default"  # choose between navbar-inverse and navbar-default
+
+[menu]
+  [[menu.main]]
+  identifier = "Assignments"
+  name       = "Assignments"
+  url        = "/assignments/"
+  weight     = -100
+
+  [[menu.main]]
+  identifier = "Notes"
+  name       = "Notes"
+  url        = "/Notes/"
+  weight     = 1
+
+  [[menu.main]]
+  identifier = "rss"
+  name       = "RSS"
+  url        = "/assignments/index.xml"
+
+
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+  fractions = false

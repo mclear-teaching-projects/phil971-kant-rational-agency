@@ -123,7 +123,7 @@ be free.
 :EXPORT_HUGO_WEIGHT: -100
 :EXPORT_HUGO_SECTION: assignments
 :END:
-*** DONE Week 1 - Kant’s Agent
+*** DONE Week 1 – Kant’s Agent
 SCHEDULED: <2020-08-18 Tue>
 :PROPERTIES:
 :EXPORT_HUGO_TAGS: action agency causality metaphysics substance
@@ -143,7 +143,7 @@ change in itself or other beings.
 - Stang, [[/materials/readings/stang-ground.pdf][Guide to Ground in the /Lectures on Metaphysics/]]
 
 
-*** DRAFT Week 2 - Freedom & Agency
+*** DRAFT Week 2 – Freedom & Agency
 SCHEDULED: <2020-08-25 Tue>
 :PROPERTIES:
 :EXPORT_HUGO_TAGS: action agency causality freedom metaphysics substance
@@ -161,7 +161,7 @@ former might depend on the latter.
    - CPrR: Critical Elucidation of the Analytic of Pure Practical Reason (excerpt, 5:94-102)
 
 
-*** DRAFT Week 3 - Freedom & Control
+*** DRAFT Week 3 – Freedom & Control
 SCHEDULED: <2020-09-01 Tue>
 :PROPERTIES:
 :EXPORT_HUGO_TAGS: action agency causality control freedom 
@@ -173,9 +173,27 @@ try and get clearer as to the notion of ‘control’ that lies behind this conc
 free action. 
 
 **** Readings
-- McLear, Control
+- McLear, [[/materials/readings/mclear-control.pdf][Control]]
 
   
+*** DRAFT Week 4 – Inference & Agency
+SCHEDULED: <2020-09-08 Tue>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: action agency animals control inference reasoning 
+:EXPORT_FILE_NAME: week4
+:END:
+
+Kant’s account of rational agency concerns not only our moral actions, but our
+rational actions generally, including the characteristic activity of making
+inferences. This week we’ll discuss various issues surrounding Kant’s conception of
+inference, and why he thinks it is so metaphysically demanding. 
+
+**** Readings
+- Kant
+   + Review of Schultz
+   + Groundwork III (excerpt)
+- McLear, [[/materials/readings/mclear-inference.pdf][Inference]]
+
 ** Notes
 :PROPERTIES:
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :toc false :type post

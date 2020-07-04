@@ -1,5 +1,5 @@
 +++
-title = "Week 1 - Kant’s Agent"
+title = "Week 1 – Kant’s Agent"
 publishDate = 2020-08-18T00:00:00-04:00
 tags = ["action", "agency", "causality", "metaphysics", "substance"]
 draft = false

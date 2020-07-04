@@ -1,5 +1,5 @@
 +++
-title = "Week 2 - Freedom & Agency"
+title = "Week 2 – Freedom & Agency"
 publishDate = 2020-08-25T00:00:00-04:00
 tags = ["action", "agency", "causality", "freedom", "metaphysics", "substance"]
 draft = true

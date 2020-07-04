@@ -1,5 +1,5 @@
 +++
-title = "Week 3 - Freedom & Control"
+title = "Week 3 – Freedom & Control"
 publishDate = 2020-09-01T00:00:00-04:00
 tags = ["action", "agency", "causality", "control", "freedom"]
 draft = true
@@ -16,4 +16,4 @@ free action.
 
 ## Readings {#readings}
 
--   McLear, Control
+-   McLear, [Control](/materials/readings/mclear-control.pdf)

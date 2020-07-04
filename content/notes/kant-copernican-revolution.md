@@ -1,5 +1,5 @@
 ---
-title: "Kant's ‘Copernican Revolution’"
+title: "Notes on  Kant's ‘Copernican Revolution’"
 publishDate: 2020-08-18T00:00:00-04:00
 tags: ["idealism", "cognition"]
 draft: false

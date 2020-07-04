@@ -1,5 +1,5 @@
 ---
-title: "Kant on the Synthetic A Priori"
+title: "Notes on Kant on the Synthetic A Priori"
 publishDate: 2020-08-18T00:00:00-04:00
 tags: ["judgment", "analytic/synthetic", "truth", "a priori"]
 draft: false

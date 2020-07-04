@@ -8,6 +8,8 @@
 html {
     position: relative;
     min-height: 100%;
+    background-color: #fdfcfa;
+
 }
 
 body {
@@ -58,7 +60,6 @@ a:hover {
 }
 
 a:active {color: #afaeae;}
-
 
 .col-sm-9 a:hover {
     color: black;
@@ -115,6 +116,7 @@ a:active {color: #afaeae;}
     width:100%;
     height:100px;   /* Height of the footer */
     padding-bottom: 1rem;
+    background-color: #fdfcfa;
 
 }
 
@@ -122,7 +124,7 @@ body > .container {
     padding: 75px 15px 0;
     height: 100%;
     padding-bottom:90px;   /* Height of the footer */
-
+    background-color: #fdfcfa;
 }
 
 nav > ul > li {
@@ -138,7 +140,7 @@ nav > ul > li {
 
 #sidebar a {
     color: black;
-    border-bottom: 0px; 
+    border-bottom: 0px;
     text-decoration: none;
 }
 

@@ -45,4 +45,3 @@ hugo*
 # End of https://www.gitignore.io/api/hugo
 /*.archive.org
 *.bak
-/content/

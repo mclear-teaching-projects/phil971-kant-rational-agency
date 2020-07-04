@@ -150,26 +150,26 @@ nav > ul > li {
 
 /* avoid padding for page title on the simple content pages */
 header.hat {
-  padding: 0px;
+    padding: 0px;
 }
 
-/* navbar */
-
+/* Navbar */
+/**********/
+/**********/
 /* align */
 .navbar-title {
     vertical-align: baseline;
 }
-
 /* pad correctly  */
 .navbar-brand {
     padding: 15px;
     vertical-align: baseline;
 }
-
 .navbar-brand-img {
     padding: 0;
 }
 
+/* Navbar colors */
 .navbar-default {
     background-color: #daa520;
     border-color: #c4941c;
@@ -272,58 +272,7 @@ img {
     margin-right: 10px;
 }
 
-p {
-    text-align: left;
-}
-
 /* Responsive video? */
 iframe {
     max-width: 100%;
 }
-
-/* Popover */
-/* .modal.ng-enter { */
-/*   transition: opacity 1.5s ease-out; */
-/*   opacity: 0; */
-/* } */
-/* .modal.ng-enter.ng-enter-active { */
-/*   opacity: 1; */
-/* } */
-/* .modal.ng-leave { */
-/*   transition: opacity 1.5s ease-out; */
-/*   opacity: 1; */
-/* } */
-/* .modal.ng-leave.ng-leave-active { */
-/*   opacity: 0; */
-/* } */
-
-/* #Email.fieldValid { */
-/*   border: 1px solid #00ff00; */
-/* } */
-/* #Email.fieldInvalid { */
-/*   border: 1px solid #ff0000; */
-
-/* code.has-jax {font: inherit; */
-/*   font-size: 100%; */
-/*   background: inherit; */
-/*   border: inherit;} */
-
-
-/*   nav.navbar.navbar-default.navbar-fixed-top { */
-/*   background-color: #FF0000; */
-/* } */
-
-/* /\* Change navbar color *\/ */
-
-/*     /\* light blue *\/ */
-/*     /\* background-color: #39B3DD;  *\/ */
-/*     /\* border-color: #39B3DD; *\/ */
-
-/*     /\* Yellow *\/ */
-/*     /\* background-color: #F7D708; *\/ */
-/*     /\* border-color: #F7D708: *\/ */
-
-/*     /\* Green *\/ */
-/*     /\* background-color: #21B6A8; *\/ */
-/*     /\* border-color: #21B6A8; *\/ */
-/* } */

@@ -30,8 +30,8 @@ sumomeid = ""
 mathjax = ""
 googleplus = ""
 twitter = ""
-customCSS = [ "/css/custom.css" ]
-bigfootnotes = true
+customCSS = [ "/css/style_custom.css" ]
+bigfootnotes = false
 
 [params.popover]
 # This is a highly configurable popover form.
@@ -58,13 +58,14 @@ inverse = "navbar-default"  # choose between navbar-inverse and navbar-default
   url        = "/Notes/"
   weight     = 1
 
-  [[menu.main]]
-  identifier = "rss"
-  name       = "RSS"
-  url        = "/assignments/index.xml"
+  # [[menu.main]]
+  # identifier = "rss"
+  # name       = "RSS"
+  # url        = "/assignments/index.xml"
 
 
-[blackfriday]
+[markup.goldmark.renderer]
+  unsafe = true
   plainIDAnchors = true
   hrefTargetBlank = true
   fractions = false

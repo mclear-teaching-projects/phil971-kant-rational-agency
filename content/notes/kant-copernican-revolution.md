@@ -1,6 +1,6 @@
 +++
-title = "Notes on  Kant's ‘Copernican Revolution’"
-date = 2020-07-04T00:00:00-04:00
+title = "Notes on  Kant’s ‘Copernican Revolution’"
+date = 2020-08-18T00:00:00-04:00
 tags = ["idealism", "cognition"]
 draft = false
 weight = 0

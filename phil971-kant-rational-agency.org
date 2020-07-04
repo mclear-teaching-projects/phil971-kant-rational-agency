@@ -194,7 +194,7 @@ and to raise questions for discussion.
 
 *** DONE Notes on Kant on the Synthetic A Priori
 :PROPERTIES:
-:EXPORT_DATE: <2020-07-04>
+:EXPORT_DATE: <2020-08-18>
 :EXPORT_HUGO_TAGS: judgment analytic/synthetic truth "a priori"
 :EXPORT_FILE_NAME: kant-on-synthetic-a-priori
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type post :nocite '(@allison1973 @allison2004 @beck1955 @beck1956 @beck1978d @beck1969 @gardner1999 @lovejoy1906a @vancleve1999 @proops2005 @hogan2013)
@@ -543,9 +543,9 @@ including /very large/ numbers (e.g. any numbers /m/ and /n/ which might yield 
 This certainly doesn't reflect our experience when calculating such sums,
 which may yield further evidence that the judgment isn't analytically true.
 
-*** DONE Notes on  Kant's ‘Copernican Revolution’
+*** DONE Notes on  Kant’s ‘Copernican Revolution’
 :PROPERTIES:
-:EXPORT_DATE: <2020-07-04>
+:EXPORT_DATE: <2020-08-18>
 :EXPORT_HUGO_TAGS: idealism cognition
 :EXPORT_FILE_NAME: kant-copernican-revolution
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type post :nocite '(@guyer2014 @allison2004 @gardner1999 @vancleve1999 @hogan2010)

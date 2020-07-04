@@ -1,6 +1,6 @@
 +++
 title = "Notes on Kant on the Synthetic A Priori"
-date = 2020-07-04T00:00:00-04:00
+date = 2020-08-18T00:00:00-04:00
 tags = ["judgment", "analytic/synthetic", "truth", "a priori"]
 draft = false
 weight = 0

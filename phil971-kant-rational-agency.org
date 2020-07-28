@@ -1,4 +1,4 @@
-#+TITLE: PHIL 971 - Kant & Kantianism on Rational Agency
+#+TITLE: PHIL 971 - Kantian Conceptions of Rational Agency
 #+DATE: July 2, 2020
 #+AUTHOR: Colin McLear
 #+SELECT_TAGS: export
@@ -10,6 +10,132 @@
 #+OPTIONS: '":t
 
 * Course Outline
+:PROPERTIES:
+:EXPORT_TITLE: PHIL 971 Course Outline
+:EXPORT_OPTIONS: toc:nil
+:END:
+
+The course aims to elucidate Kant's conception of rational agency, in both its
+theoretical and practical forms. Kant's view is then compared and contrasted with
+contemporary, broadly kantian, approaches. We'll read various parts of Kant's
+Critical works, alongside contemporary figures like Neta, Malmgren, Pereboom,
+Korsgaard, Frankfurt, Velleman, Bratman, Boyle, Wolf, and Schafer. I'm also working on a
+book manuscript on these issues, so we'll read parts from the manuscript as well.
+
+Below is a rough plan of topics and readings (all subject to change). We'll end the
+course with a guest appearance by Karl Schafer, to discuss his book manuscript on
+Kant's conception of reason. 
+
+
+| Date  | Topic                                | Content                                                                                          | Readings                              |
+|-------+--------------------------------------+--------------------------------------------------------------------------------------------------+---------------------------------------|
+| 8/18  | Course setup/Kant's agent            | Rational Conditions/Kant on Substance & Powers                                                   | Neta, Malmgren, McLear, ch. 1         |
+| 8/25  | Kant's free agent                    | Kant’s conception of freedom/spontaneity                                                         | Third Antinomy & Groundwork, Pereboom |
+| 9/1   | Enkratic rationality                 | Control as the key component of Kant’s conception of rationality                                 | McKenna, McLear, ch. 2                |
+| 9/8   | Inference & agency                   | Kant on rational inference & agency                                                              | Neta, McLear, ch. 4                   |
+| 9/15  | Reason & principles                  | Kant on laws & their representation                                                              | Groundwork II, Reath                  |
+| 9/22  | A Compatibilist Kant?                | Does Kant need his incompatibilism for his theory of rationality?                                | Korsgaard, Ameriks                    |
+| 9/29  | Frankfurt & hierarchy                | Contemporary Kantianism & mesh theory                                                            | Frankfurt, Bratman                    |
+| 10/6  | Agency without agents?               | The 'agent' role & responsibility, bundles vs. substances                                        | Wolf, Velleman, Franklin              |
+| 10/20 | Self-consciousness I                 | What's the connection between self-consciousness & rationality?                                  | Korsgaard, Hieronymi, McLear ch. 6    |
+| 10/13 | Self-consciousness II/Paper Meetings | More on self-consciousness/Help students with their papers                                       | Burge, Soteriou                       |
+| 10/27 | Transformation & the unity of reason | Is rationality just one of many of one’s capacities or does it ‘transform’ the mind in some way? | Boyle, McLear ch. 7                   |
+| 11/3  | Teleology                            | Must the activity of reason have a purpose?                                                      | Kant, Longuenesse,                    |
+| 11/10 | Prep for Karl Schafer                | Rationality as a form of understanding                                                           | Excerpts from Karl’s book             |
+| 11/17 | Karl Schafer (guest)                 | Karl Schafer on Kant on reason & rationality                                                     |                                       |
+|-------+--------------------------------------+--------------------------------------------------------------------------------------------------+---------------------------------------|
+
+* Handouts :noexport:
+** TODO Handout 1 Kant's Agent :noexport:
+:PROPERTIES:
+:EXPORT_TITLE: Rationally Determinable Conditions & Kant's Agent
+:EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil971-kant-rational-agency/static/materials/handouts/1-kants-agent.pdf
+:END:
+:Pandoc:
+#+PANDOC_METADATA: "author:PHIL 971" "date:August 18, 2020" 
+#+PANDOC_METADATA: "lfoot:Colin McLear | August 18, 2020"
+#+PANDOC_METADATA: "lhead: Kant's Agent"
+#+LANGUAGE: en
+#+OPTIONS: ':t
+:END:
+
+#+begin_src latex
+\epigraph{Everything in nature works in accordance with laws. Only a rational being has the capacity to act in accordance with the representation of law}{Kant, Groundwork II}
+#+end_src
+
+*** The Question
+- *Q*: How should we understand the notion of rational activity, or perhaps more broadly,
+  of what it is to be a rational being? 
+- *A*: A rational being is one capable of acting in light of reasons 
+
+*** Rationally Determinable Conditions
+
+| A                                                | B                                                                     |
+|--------------------------------------------------+-----------------------------------------------------------------------|
+| Intending to knock John to the ground            | John's falling to the ground as the result of an earthquake           |
+| Knowing that one is 41                           | Being 41                                                              |
+| Judging that one has a headache                  | Having a headache                                                     |
+| Experiencing the ball's shattering the window    | Having sensory consciousness of the ball's passage through the window |
+| Attending to the evidential ground of a judgment | Having one's attention drawn by a loud noise                          |
+
+- These lists include acts, events, and states of various kinds; Let’s use the term “condition” to denote any act, event, or state.
+- All of the entries in (A) have  reason in light of which they occur, while those in
+  (B) have only a reason why they occur. What explains this difference?[fn:3]
+
+[fn:3] All of the items on the left-hand list are conditions that have the following
+property: there can be a reason in light of which the agent is in that condition. But
+none of the items on the right-hand list have that property: there can be a reason
+why the agent suffers from tinnitus, or feels tired, but no reason in light of which
+she suffers from tinnitis, or feels tired, etc. I will henceforth use the phrase
+“rationally determinable conditions” to denote all of the conditions that go on the
+left-hand list, i.e., all those conditions which are such that there can be a reason
+in light of which the agent is in them. [@neta2018, 289] 
+
+*** Kant --- Biographical Overview
+  :PROPERTIES:
+  :CUSTOM_ID: kant-biographical-overview
+  :END:
+
+- Lived & died in Königsberg, Prussia (1724-1804)
+- Attained professorship at the University of Königsberg in 1770
+- Wrote the "critical" philosophical works relatively late in his career
+  (c. 1781-1790)[fn:1]
+- Some relevant contemporaries
+  - John Locke (1632--1704)
+  - G. W. Leibniz (1646--1716)
+  - Christian Wolff (1679--1750)
+  - David Hume (1711--1776)
+  - Jean-Jacques Rousseau (1712--1778)
+  - Alexander Gottlieb Baumgarten (1714--1762)
+  - Christian August Crusius (1715--1775)
+
+[fn:1] *Kant's Major Critical Works*:
+
+       - /Critique of Pure Reason/ (1781/87)
+       - /Prolegomena to Any Future Metaphysics That Will Be Able to
+         Come Forward as a Science/ (1783)
+       - 'Idea for a Universal History With a Cosmopolitan Aim' (1784)
+       - 'What is Enlightenment?' (1784)
+       - /Groundwork of the Metaphysics of Morals/ (1785)
+       - /Metaphysical Foundations of Natural Science/ (1786)
+       - 'Conjectural Beginning of Human History' (1786)
+       - 'What Does it Mean to Orient Oneself in Thinking?' (1786)
+       - /Critique of Practical Reason/ (1788)
+       - /Critique of (the Power of) Judgment/ (1790)
+       - /Religion Within the Boundaries of Mere Reason/ (1793)
+       - /Metaphysics of Morals/ (1797)
+       - /Anthropology From a Pragmatic Point of View/ (1798)
+  
+
+*** Kant’s Critical Project
+1. Set metaphysics on the "secure path of science"
+2. Explain how rational or "proper" science is, in general, possible
+3. Explain how propositions making claims of universality and necessity about
+   the empirical world could be known to be true  
+
+- Kant's strategy is answer (1) and (2) by means of (3)
+    
+
 
 * Website
 ** Pages
@@ -22,8 +148,7 @@
 :EXPORT_FILE_NAME: home
 :END:
 
-This is the homepage for *PHIL 971* – Kant (and kantianism) on Rational Agency
-
+This is the homepage for *PHIL 971* – Kantian Conceptions of Rational Agency
 
 Kant famously considers moral agency to consist in acting from a grasp of rational
 principles as such. But what is a rational principle and what is it to act from such
@@ -69,7 +194,6 @@ information.
 |   13 | 11/10 | Prep for Karl Schafer            |
 |   14 | 11/17 | Karl Schafer (guest)             |
 |------+-------+----------------------------------|
-
 
 
 *** Resources
@@ -134,24 +258,36 @@ be free.
 :EXPORT_HUGO_WEIGHT: -100
 :EXPORT_HUGO_SECTION: assignments
 :END:
-*** DONE Week 1 – Kant’s Agent
+*** DONE Week 1 – Rationally Determinable Conditions & Kant’s Agent
 SCHEDULED: <2020-08-18 Tue>
 :PROPERTIES:
-:EXPORT_HUGO_TAGS: action agency causality metaphysics substance
+:EXPORT_HUGO_TAGS: action agency causality metaphysics rationality substance
 :EXPORT_FILE_NAME: week1
 :END:
 
 This week we’ll go over the basic structure and themes of the course and then sketch 
-Kant’s view of agency. We’ll look in particular at his conception of causation and
-the way in which an agent is understood as a substance with causal powers to effect
-change in itself or other beings. 
+Kant’s view of agency. We start with a question: how should we understand the notion
+of rationality, and relatedly, of engaging in rational activity? This course is
+structured around one group of broadly ‘Kantian’ answers to this question, according
+to which rationality is the capacity to act /in light of/ a reason, rather than merely
+acting in a manner that admits of (or not) of /explanation/ by reasons. We’ll look at
+Ram Neta’s setup of this issue, before turning to Kant’s. 
+
+We’ll spend the rest of the meeting looking at some of Kant’s basic metaphysical
+commitments regarding agency, specifically his conception of causation and the way in
+which he construes an agent as a substance with causal powers to effect change in
+itself or other beings.
 
 **** Readings
+- Neta, [[/materials/readings/neta-RDCs.pdf][Rationally Determinable Conditions]]
 - Kant’s Critical project
-   - CPR: [[/materials/readings/CPR-preface-and-introduction.pdf][Preface & Introduction]] (Second edition)
-   - CPJ: [[/materials/readings/CPJ-FI-III.pdf][First Introduction, §3]]
-- Watkins, [[/materials/readings/watkins-action.pdf][Kant on Action]]
-- Stang, [[/materials/readings/stang-ground.pdf][Guide to Ground in the /Lectures on Metaphysics/]]
+   + CPR: [[/materials/readings/CPR-preface-and-introduction.pdf][Preface & Introduction]] (Second edition)
+   + CPJ: [[/materials/readings/CPJ-FI-III.pdf][First Introduction, §3]]
+- Kant on Action 
+   + (Optional) CPR: [[/materials/readings/kant-second-analogy.pdf][Second Analogy]]
+   + Watkins, [[/materials/readings/watkins-action.pdf][Kant on Action]]
+   + Stang, [[/materials/readings/stang-ground.pdf][Guide to Ground in the /Lectures on Metaphysics/]]
+  
 
 
 *** DRAFT Week 2 – Freedom & Agency
@@ -205,7 +341,7 @@ inference, and why he thinks it is so metaphysically demanding.
    + Groundwork III (excerpt)
 - McLear, [[/materials/readings/mclear-inference.pdf][Inference]]
 
-** Notes
+** Course Notes
 :PROPERTIES:
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :toc false :type post
 :EXPORT_HUGO_SECTION: notes
@@ -669,6 +805,102 @@ we can know that those concepts are applied legitimately, since he is
 taking it as obvious that we have experience.
 
 
+
+*** DONE The Analogies & Kant's Defense of Causation
+SCHEDULED: <2020-08-18 Tue>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: categories causation time hume skepticism
+:EXPORT_FILE_NAME: second-analogy
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type post :nocite '(@guyer1987 @allison2004 @watkins2010 @watkins2004 @watkins2005 @chignell2010b @vancleve1973 @vancleve1999-ch9 @lovejoy1906 @callanan2008 @bennett1966 @strawson1966 @buchdahl1969 @dicker2004 @dicker2003 @friedman1992a @friedman1992b)
+:END:
+
+**** The Analogies   
+Kant entitles the section of the System of All Principles discussing the relational categories the "Analogies of Experience." Kant discusses the category of /cause/ in the second of his three ‘Analogies'. The Analogies are part of the ‘Analytic of Principles' in which Kant discusses each of the twelve categories and their relation to the objects of experience at much greater length than he does in the argument of the Transcendental Deduction, where he is concerned with the categories' general relation to objects of experience. Before we go on to discuss Kant's view of causality in detail let's start with a few background issues. First, what does Kant mean here by an "analogy"?
+
+Kant distinguishes between analogy in mathematics and analogy in philosophy (B221) and defines analogy in philosophy as
+
+#+begin_quote
+not the identity of two *quantitative* [relations, as in mathematical analogy] but [the identity] of two *qualitative* relations, where from three given members I can cognize and give /a priori/ only the *relation* to a fourth member but not *this* fourth *member* itself, although I have a rule for seeking it in experience and a mark for discovering it there (B222)
+#+end_quote
+
+It is not clear from this remark what the fundamental difference is between
+mathematical and philosophical analogy.[fn:2] He goes on to say that
+
+#+begin_quote
+An analogy of experience will therefore be only a rule in accordance with which unity of experience is to arise from perceptions (not as a perception itself, as empirical intuition in general), and as a principle it will not be valid of the objects (of the appearances) *constitutively* but merely *regulatively*. (B222)
+#+end_quote
+
+Though Kant's position here is complicated, and interpretations contested, at least this much is clear. First, the paragraph immediately above points out that the relational categories are not constitutive of appearances, intuition, or the perception thereof. That is, they are not the conditions of the possibility of such representations. Instead they are constitutive only of experience, insofar as it can be constructed from the connected series of intuitions in a perception. Second, that there is supposed to be a general structure to the analogies such that a is to b as c is to /x/, where /x/ is that which is to be sought in an experience.
+
+Fortunately, for our purposes, we need not have an exact conception of what an analogy is to appreciate the basic points of his argument in the Second Analogy. But we do need to understand the exact relation between the category <cause-effect> and the representation of time.
+
+Kant distinguishes three different kinds of temporality (B219): persistence, succession, and simultaneity. He then claims that each kind of temporality is connected with each of the relational categories (i.e. persistence with <substance-inherence>, succession with <cause-effect>, and simultaneity with <community>).  
+
+Kant therefore prefaces his discussion of the three Analogies of Experience with a single principle, which, in the first edition, reads: “As regards their existence, all appearances stand a priori under rules of the determination of their relation to each other in one time” (A176) and in the second, reads: “Experience is possible only through the representation of a necessary connection of perceptions” (B218). The basic idea here is that each of the three relational categories represents a necessary connection that is required for the possibility of /experience/ (not intuition or perception!) of (i) a single time and (ii) of objects existing and being temporally related to each other within a single time.
+
+Two further points of background are worth discussing before proceeding to the Second Analogy itself. First, Kant denies that we can perceive time itself (B219), which is to say that Kant denies that we have conscious awareness of /time/, as opposed to the persistence, succession, or simultaneity of representations that occur /in/ time.
+
+Second, Kant assumes a distinction between an objective temporal order between states of objects (and between objects) and the subjective temporal appearance of such order, construed merely as the subjective succession of representations in a particular empirical mind. Much of Kant's discussion is then aimed at answering the question "how do I manage to cognize and know anything about an objective temporal order if all I have access to is the subjective temporal succession of my own representations?"
+
+[fn:2] See [@callanan2008] for extensive discussion and citations. 
+
+
+**** The Second Analogy
+
+The Second Analogy concerns the /cause-effect/ relation. The "unschematized" (i.e. the "pure" and non-temporal) version of the category says that given the existence of some ground, its consequence necessarily exists. But this says nothing further about the relata, the relation between ground and consequence, or the nature of the relation of necessity that holds between them. In the Second Analogy we see the schematized version of the category, and thus the elaboration of the necessary relation as a /temporal/ one. He states this as follows:
+
+#+begin_quote
+  All alterations occur in accordance with the law of the connection of cause
+  and effect (B232)
+#+end_quote
+
+In other words, all alterations occur lawfully, such that all alterations occur due to causes from which they necessarily follow. 
+
+What is an "alteration"? Kant says that "the concept of alteration presupposes one and the same subject as existing with two opposed determinations, and thus as persisting" (B233). This indicates that Kant is primarily concerned with a change of state in a substance. An alteration is the change of a substance from one state (or the possession of a property) to another, e.g. from hot to cold, thin to fat, black to white, etc. Kant thus seeks to validate the principle that there can be no alteration in a substance that is not due to some cause.   
+
+Kant conceives of all change in terms of alteration. So the Second Analogy ends up being an argument concerned with our ability to cognize change with respect to the objects of experience. Kant's view is that all change with respect to such objects must be understood temporally, and as requiring that the change be the effect of some cause. 
+
+One issue related to this way of setting up the problem of causation is that it is unclear whether the success of the Second Analogy is supposed to show that no alteration takes place except as the result of /some/ cause, or that no alteration takes place except as the result of the /same type/ of cause. The phrasing of the principle supports only the first, weaker reading, but lawful causation is often taken to require that the same type of cause always yields the same type of effect (e.g. fire causes heat). 
+
+A further issue is whether the argument Kant presents for the causal principle ends up being one that engages in any way with Hume's skeptical position concerning causation. Recall that according to Hume we have no impression of necessary connection, and so there cannot be any legitimacy to the use of the concept of necessary connection in our experience of objects. For Hume, casual judgments are the result of being habituated to expect the occurrence of one event given the occurrence of another (e.g. to expect that heat will accompany fire). 
+
+***** The Argument
+
+Much of Kant's argument in the Second Analogy proceeds by way of the following starting point or assumption: We are able to represent (and ultimately come to know) the difference between the subjective succession or simultaneity of our own states, and the objective succession or simultaneity of states in an object. How is this so much as possible?
+
+Understanding Kant's argument in this way suggests that he is engaged in a manner of argumentation that we've termed a "transcendental" argument. That is, an argument that starts from an assumption concerning some actual phenomenon and regresses to the conditions of that actual phenomenon's possibility. Kant provides two examples to motivate this assumption, that of the visual experience of (the parts of) a house, and the experience of a ship moving downriver. We distinguish the representation of a persisting object, such as a house, from a series of events, such as a ship moving downriver. But in both cases there is no difference subjectively in what occurs (at least at a certain level of abstraction), namely a succession of subjective perceptions. As Kant says,
+
+#+begin_quote
+The apprehension of the manifold of appearance is always successive. The representations of the parts succeed one another. Whether they also succeed in the object is a second point for reflection, which is not contained in the first (B234)
+#+end_quote
+
+So how is it that we can distinguish in the ship case that we have an objective /succession/ of events, while in the house case we have objective /simultaneity/---one persisting object, whose parts (e.g. roof, walls, windows, etc.) we perceive successively but are in fact simultaneous?
+
+Kant rules out several possibilities. We can't distinguish objective succession from objective simultaneity by the intuition or perception of any necessary connection because (and here Kant agrees with Hume) experience “to be sure tells us what is, but not that it must necessarily be so and not otherwise” (B3). Second, the supposed irreversibility of our perception of successive events (such as with the riverboat case) cannot tell us anything because one can only be aware of the relevant contrast between 'reversible' and 'irreversible' perceptions if one is /already/ aware that there is an irreversible order (e.g. that B's following A and not vice versa) to what one is perceiving, such that one's perceptions must be in accord with it. Third, one cannot appeal to some independently perceivable temporal succession (‘absolute' time), because Kant has already ruled out the possibility of perceiving time itself (B 245). Fourth, one cannot appeal to the perception of any mind-independent object (a ‘thing in itself'), since these too have been ruled out as wholly inaccessible to our conscious awareness.
+
+So Kant has issued a challenge: granted that a subject of experience has a grasp of the distinction between objective succession of alterations in an object (e.g. in the motion of a ship downstream) and the objective simultaneity of the features of an object (e.g. the various features of a house), what account for such awareness? This is a problem for the Humean as well, since that view presupposes that we at least sometimes make causal judgments based on a grasp of a determinate temporal sequence (i.e. of some event B following event A).[fn:57] Hence the Humean account of habituation and causal judgment presupposes that we can distinguish the objective sequence of events from our subjective train of sense experiences.
+
+Kant's claim then, is that it is only if there is a rule ordering our representations, such that what makes it possible for us to grasp two events as related by objective temporal succession is that one event /caused/ the other. Here is a reconstruction of the whole argument, as articulated by Georges Dicker (@dicker2004, 173).
+
+1. We cannot know by observation that an event---that is, a transition from a state A to a state B---is occurring by knowing that the perceptions of A and B occur in the order A, B; by knowing that the perceptions of A and B are irreversible; by knowing that A precedes B by reference to absolute time; or by knowing that these perceptions are of successive states of things-in-themselves.
+2. If (1), then the only way we can know by perception that an event---that
+   is, a transition from a state A to a state B---is occurring is by knowing
+   that B follows A according to a rule, that is, that the event has a cause.
+3. If the only way we can know by perception that an event---that is, a
+   transition from a state A to a state B---is occurring is by knowing that B
+   follows A according to a rule, that is, that the event has a cause, then
+   any event such that we can know of its occurrence by perception must have a
+   cause.
+4. \therefore Any event such that we can know of its occurrence by perception must
+   have a cause.
+
+Kant's conclusion here is limited in several ways. First, it concerns only knowledge that empirical events have causes. It does not say, e.g., that similar events always have similar causes. Second, it presupposes that we have knowledge of the objective succession of events. Third, it presupposes that we correctly grasp the distinction between objective succession and objective simultaneity. But, despite these presuppositions, the argument seems an effective answer to the Humean, for the Humean analysis of causation requires that we have a grasp of objective succession (as well as the distinction between objective simultaneity and succession), for this is used by the Humean to explain how our associative powers get their grip on causal judgment. Hence, while Kant's argument concerning causation may not be effective against all comers, particularly against the skeptic who might deny that we have any cognitive grasp of objective succession, it nevertheless seems effective against Hume's argument.
+
+[fn:57] Note that Kant's argument doesn't obviously affect a version of the Humean view that regards causal judgment as based on habituation due to there /being/ a temporal order amongst our representations. Kant's argument only affects the more robust view that we must /represent/ the temporal order amongst our representations for causal judgment to occur.
+
+
+
+
 * Configuration                                                                 :noexport:
 #+HUGO_BASE_DIR: ./ 
 #+STARTUP: nologdone
@@ -680,7 +912,7 @@ taking it as obvious that we have experience.
 #+PANDOC_METADATA: "mainfont:Optima"
 #+PANDOC_METADATA: spacing:singlespacing 
 #+PANDOC_METADATA: noindent: parskip:.85em
-#+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufteII.tex
+#+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufte.tex
 #+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
 #+EXCLUDE_TAGS: notes scrap todo
 #+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
@@ -689,4 +921,5 @@ taking it as obvious that we have experience.
 * COMMENT Local Variables                          :ARCHIVE:
 # Local Variables:
 # eval: (org-hugo-auto-export-mode)
+# eval: (org-export-initial-scope 'subtree)
 # End:

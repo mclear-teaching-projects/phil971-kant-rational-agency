@@ -112,12 +112,19 @@
 </script>
 {{ end }}
 
-<!-- Bigfoot footnotes -->
-{{ if ne .Site.Params.bigfootnotes "" }}
-<link rel="stylesheet" type="text/css" href="/css/bigfoot-number.css">
-<script type="text/javascript" src="/js/jquery.min.js"></script>
-<script type="text/javascript" src="/js/bigfoot.js"></script>
-<script type="text/javascript">
- $.bigfoot();
-</script>
+<!-- Littlefoot footnotes  -->
+{{ if eq .Site.Params.fancyfootnotes true }}
+<link rel="stylesheet" href="https://unpkg.com/littlefoot/dist/littlefoot.css" />
+<script src="https://unpkg.com/littlefoot/dist/littlefoot.js" type="application/javascript" ></script>
+<script type="application/javascript"> littlefoot.default() </script>
 {{ end }}
+
+<!-- Bigfoot footnotes -->
+<!-- {{ if ne .Site.Params.bigfootnotes "" }}
+     <link rel="stylesheet" type="text/css" href="/css/bigfoot-number.css">
+     <script type="text/javascript" src="/js/jquery.min.js"></script>
+     <script type="text/javascript" src="/js/bigfoot.js"></script>
+     <script type="text/javascript">
+     $.bigfoot();
+     </script>
+     {{ end }} -->

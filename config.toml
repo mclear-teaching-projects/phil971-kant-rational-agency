@@ -31,7 +31,7 @@ mathjax = ""
 googleplus = ""
 twitter = ""
 customCSS = [ "/css/style_custom.css" ]
-bigfootnotes = false
+fancyfootnotes = true
 
 [params.popover]
 # This is a highly configurable popover form.

@@ -10,12 +10,11 @@ type = "post"
 +++
 
 This week we’ll go over the basic structure and themes of the course and then sketch
-Kant’s view of agency. We start with a question: how should we understand the notion
-of rationality, and relatedly, of engaging in rational activity? This course is
-structured around one group of broadly ‘Kantian’ answers to this question, according
-to which rationality is the capacity to act _in light of_ a reason, rather than merely
-acting in a manner that admits of (or not) of _explanation_ by reasons. We’ll look at
-Ram Neta’s setup of this issue, before turning to Kant’s.
+Kant’s view of agency. We start with a question: some conditions that an agent may be
+in are rationally determinable. Others are not. How should we understand this
+difference? More generally, how should we understand the notion of rationality, and
+relatedly, of engaging in rational activity? We’ll look at Ram Neta’s setup of this
+issue, before turning to Kant’s.
 
 We’ll spend the rest of the meeting looking at some of Kant’s basic metaphysical
 commitments regarding agency, specifically his conception of causation and the way in

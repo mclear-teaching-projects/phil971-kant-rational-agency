@@ -319,14 +319,32 @@ itself or other beings.
 
 **** Readings
 - Neta, [[/materials/readings/neta-RDCs.pdf][Rationally Determinable Conditions]]
+   + We won’t discuss Neta’s positive view in much detail, but the opening pages are
+     useful in setting up the issues we’ll be discussing.
+- (Optional) Malmgren, [[/materials/readings/malmgren-responsibility.pdf][On Fundamental Responsibility]]
+   + Likewise, we won’t look to closely at this point at Malmgren’s positive view,
+     but her conception of “fundamental responsibility” is also useful for getting at
+     issues central to the course.
 - Kant’s Critical project
    + CPR: [[/materials/readings/CPR-preface-and-introduction.pdf][Preface & Introduction]] (Second edition)
+      - If you need an overview (or refresher) of Kant’s project, this is one of his more useful statements.
    + CPJ: [[/materials/readings/CPJ-FI-III.pdf][First Introduction, §3]]
-- Kant on Action 
+      - What’s of interest to us here is Kant’s conception of the connection between
+        the Critical philosophy and the capacities of the rational mind.
    + (Optional) CPR: [[/materials/readings/kant-second-analogy.pdf][Second Analogy]]
-   + Watkins, [[/materials/readings/watkins-action.pdf][Kant on Action]]
-   + Stang, [[/materials/readings/stang-ground.pdf][Guide to Ground in the /Lectures on Metaphysics/]]
-  
+      - There’s much more here than we can discuss in seminar, but directly relevant
+        to his theory of causation.
+- Kant on Action & Agent
+   + McLear, “[[https://www.dropbox.com/s/8d6ar03pwhbstz6/substance.pdf?dl=0][Substance, Capacity, & Act]]”
+      - This is my attempt to get clear on the some of the basic elements of Kant’s
+        conception of an agent, and of activity. We’ll discuss issues relevant to
+        §§1-2 in particular. 
+   + (Optional) Watkins, [[/materials/readings/watkins-action.pdf][Kant on Action]]
+      - A helpful discussion of how Kant’s conception of action fits in with his
+        overall theory of substantial causality.
+   + (Optional) Stang, [[/materials/readings/stang-ground.pdf][Guide to Ground in the /Lectures on Metaphysics/]]
+      - A helpful discussion of Kant’s conception of “ground” (/Grund/), which is a
+        central notion in his epistemology and metaphysics.
 
 
 *** DRAFT Week 2 – Freedom & Agency

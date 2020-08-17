@@ -275,6 +275,10 @@ information.
 
   
 
+**** PHIL 971 Listserv
+- The listserv name is phil971-2020
+- You can sign up for the listserv [[https://listserv.nebraska.edu/signup-anon][here]]
+
 *** Contact
 :PROPERTIES:
 :EXPORT_FILE_NAME: contact

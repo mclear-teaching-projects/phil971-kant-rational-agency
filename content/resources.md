@@ -18,7 +18,7 @@ toc = false
 ## Reading & Writing Philosophy {#reading-and-writing-philosophy}
 
 -   [Philosophical Terms & Methods](http://www.jimpryor.net/teaching/vocab/index.html)
--   [Jim Pryor's](http://www.jimpryor.net) guides to [reading](http://www.jimpryor.net/teaching/guidelines/reading.html) and [writing](http://www.jimpryor.net/teaching/guidelines/writing.html) philosophy
+-   [Jim Pryor&rsquo;s](http://www.jimpryor.net) guides to [reading](http://www.jimpryor.net/teaching/guidelines/reading.html) and [writing](http://www.jimpryor.net/teaching/guidelines/writing.html) philosophy
 -   [Critical Thinking](http://philosophy.hku.hk/think/)
 -   [Purdue Online Writing Lab](http://owl.english.purdue.edu/owl/)
 -   [A Guide to Philosophical Writing](http://writingproject.fas.harvard.edu/files/hwp/files/philosophical%5Fwriting.pdf)
@@ -31,12 +31,12 @@ toc = false
 -   [KantPapers](http://kantpapers.org)
 -   [Kant in the Classroom](http://www.manchester.edu/kant/Home/index.htm) (Steve Naragon)
 -   [Kant on the Web](http://staffweb.hkbu.edu.hk/ppp/Kant.html) (Steve Palmquist)
--   [Kant's Books](http://publish.uwo.ca/~cdyck5/UWOKRG/kantsbooks.html) (UWO Kant Research Group)
+-   [Kant&rsquo;s Books](http://publish.uwo.ca/~cdyck5/UWOKRG/kantsbooks.html) (UWO Kant Research Group)
 -   [Kants Handexemplar von Meiers Auszug aus der Vernunftlehre](https://dspace.ut.ee/handle/10062/42108) (University of Tartu)
 -   [Kant-Forschungsstelle](https://www.philosophie.fb05.uni-mainz.de/forschungsstellen-und-weitere-einrichtungen/fs%5Fkant/)
 -   [Early Modern Philosophy Texts](http://earlymoderntexts.com)
 -   [Kant Akademieausgabe (Courtesy of Universität Duisburg-Essen)](https://korpora.zim.uni-duisburg-essen.de/Kant/verzeichnisse-gesamt.html)
--   [Database of Kant's concepts for a theory of nature](http://knb.mpiwg-berlin.mpg.de/kant/home)
+-   [Database of Kant&rsquo;s concepts for a theory of nature](http://knb.mpiwg-berlin.mpg.de/kant/home)
 
 
 ## Sources for online German texts {#sources-for-online-german-texts}
@@ -46,3 +46,9 @@ toc = false
 -   [KVK](http://kvk.bibliothek.kit.edu/?digitalOnly=0&embedFulltitle=0&newTab=0)
 -   [Digitalisierte Sammlungen (Berlin)](http://digital-beta.staatsbibliothek-berlin.de)
 -   [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de)
+
+
+## PHIL 971 Listserv {#phil-971-listserv}
+
+-   The listserv name is phil971-2020
+-   You can sign up for the listserv [here](https://listserv.nebraska.edu/signup-anon)

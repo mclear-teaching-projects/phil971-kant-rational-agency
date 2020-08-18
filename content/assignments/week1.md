@@ -21,6 +21,8 @@ commitments regarding agency, specifically his conception of causation and the w
 which he construes an agent as a substance with causal powers to effect change in
 itself or other beings.
 
+-   [Handout](/materials/handouts/1-kants-agent.pdf) for week 1
+
 
 ## Readings {#readings}
 

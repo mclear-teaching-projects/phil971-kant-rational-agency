@@ -320,6 +320,8 @@ commitments regarding agency, specifically his conception of causation and the w
 which he construes an agent as a substance with causal powers to effect change in
 itself or other beings.
 
+- [[/materials/handouts/1-kants-agent.pdf][Handout]] for week 1
+
 **** Readings
 - Neta, [[/materials/readings/neta-RDCs.pdf][Rationally Determinable Conditions]]
    + We won’t discuss Neta’s positive view in much detail, but the opening pages are

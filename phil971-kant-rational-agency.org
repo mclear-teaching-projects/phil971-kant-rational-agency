@@ -352,22 +352,42 @@ itself or other beings.
         central notion in his epistemology and metaphysics.
 
 
-*** DRAFT Week 2 – Freedom & Agency
+*** DONE Week 2 – Freedom & Agency
 SCHEDULED: <2020-08-25 Tue>
 :PROPERTIES:
 :EXPORT_HUGO_TAGS: action agency causality freedom metaphysics substance
 :EXPORT_FILE_NAME: week2
 :END:
 
-This week we’ll start looking more closely at Kant’s conception of free action. We’ll
-discuss the differences between 'practical’ and 'transcendental’ freedom and why the
+This week we’ll start with discussion of Kant’s general commitments concerning substantial
+activity and agency. Then we’ll look more closely at Kant’s conception of free action. We’ll
+discuss the differences between ‘practical’ and ‘transcendental’ freedom and why the
 former might depend on the latter. 
 
 **** Readings
 - From Kant:
-   - CPR: The Third Antinomy (excerpt, A532/B560–A558/B586)
-   - CPR: The Canon of Pure Reason (excerpt, A800/B828–A804/B832)
-   - CPrR: Critical Elucidation of the Analytic of Pure Practical Reason (excerpt, 5:94-102)
+   - CPR: [[/materials/readings/kant-antinomies.pdf][The Third Antinomy]] (excerpt, A532/B560–A558/B586)
+      + Note that an “antinomy” here is a conflict of reason with itself. We’ll
+        discuss the general issues at stake in the antinomies but the focus will be
+        on Kant’s positive conception of “transcendental freedom” in the Third
+        Antinomy
+   - CPR: [[/materials/readings/kant-canon.pdf][The Canon of Pure Reason]] (excerpt, A800/B828–A804/B832)
+      + Here we see Kant discussing “practical freedom”, seemingly in isolation from
+        any discussion of freedom in the Antinomies. What is practical freedom and
+        what is its relationship to transcendental freedom?
+   - CPrR: [[/materials/readings/kant-elucidation.pdf][Critical Elucidation of the Analytic of Pure Practical Reason]] (excerpt, 5:94-102)
+      + Here we see a clear argument that freedom of any kind the grounds
+        responsibility depends on transcendental freedom – why?
+   - MM: [[/materials/readings/kant-mm-intro.pdf][Metaphysics of Morals]] (excerpt,
+     §§II-III, 6:211-14, 6:221-28)
+      - A useful rundown of what Kant means by various terms (e.g. desire, choice,
+        will, person, deed, imputation) 
+- Secondary readings (While it is not necessary to read all three of these, I encourage you to read at least one):
+   - Wood, “[[file:/materials/readings/wood-compatibilism.pdf][Kant’s Compatibilism]]”
+   - Pereboom, “[[/materials/readings/pereboom-freedom.pdf][Kant on Transcendental Freedom]]”
+   - Allison, “[[/materials/readings/allison-freewill.pdf][Kant on Freedom of the Will]]”
+     
+     
 
 
 *** DRAFT Week 3 – Freedom & Control

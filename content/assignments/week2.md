@@ -17,6 +17,9 @@ former might depend on the latter.
 
 ## Readings {#readings}
 
+Please note that while I’ve provided whole sections for context, you’re only expected
+to read the specified pages.
+
 -   From Kant:
     -   CPR: [The Third Antinomy](/materials/readings/kant-antinomies.pdf) (excerpt, A532/B560–A558/B586)
         -   Note that an “antinomy” here is a conflict of reason with itself. We’ll

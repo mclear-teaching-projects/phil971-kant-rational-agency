@@ -402,10 +402,33 @@ SCHEDULED: <2020-09-01 Tue>
 
 Last week we started talking about Kant’s conception of free action. This week we’ll
 try and get clearer as to the notion of ‘control’ that lies behind this conception of
-free action. 
+free action. In terms of readings from Kant we’ll be focusing on much of the same
+material. 
+
+I want to focus our discussion around the following questions:
+
+1. Is Kant’s conception of absolute spontaneity made more intelligible by appeal to
+   his view of control? 
+2. What is the connection, for Kant, between control and responsibiilty?
+3. If rational acts are all and only those that are under one’s control, how does
+   Kant avoid (if he does) an implausibly voluntaristic position?
 
 **** Readings
-- McLear, [[/materials/readings/mclear-control.pdf][Control]]
+- Kant:
+   + /Groundwork of the Metaphysics of Morals/: II, 4:412-4:414; III, 4:446-9
+   + /[[/materials/readings/kant-review-schulz.pdf][Review of Schultz]]/
+      - Read the whole thing, but focus on the argument starting from the first full
+        paragraph on 8:13 to the end. 
+   + /Critique of Practical Reason/: 5:94-100 
+- Secondary readings:
+   + McLear, [[https://www.dropbox.com/s/4pp80jgue6mejwh/control.pdf?dl=0]["Control"]]
+   + Kohl, "[[/materials/readings/kohl-kant-free-thought.pdf][Kant on Freedom of Empirical Thought]]"
+   + Cohen, “[[/materials/readings/cohen-dox.pdf][Kant on Doxastic Voluntarism and its Implications for Epistemic Responsibility]]”
+   + Korsgaard, “[[/materials/readings/korsgaard-self-constitution.pdf][Self-Constitution in the Ethics of Plato and Kant]]”
+     
+  
+     
+# Feldman or Audi papers? What about Hieronymi? Korsgaard on self-constitution?
 
   
 *** DRAFT Week 4 – Inference & Agency

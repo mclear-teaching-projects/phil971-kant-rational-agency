@@ -1,0 +1,440 @@
+#+STARTUP: fnadjust
+#+TITLE: Kant on Freedom & Agency
+#+DATE: August 22, 2020
+#+AUTHOR: Colin McLear | PHIL 971
+#+EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil971-kant-rational-agency/static/materials/handouts/2-kant-freedom.pdf
+#+pandoc-emphasis-pre: "-\t ('\"{["
+#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]" 
+#+PANDOC_METADATA: numbersections:t secnumdepth:2 
+#+PANDOC_METADATA: "lfoot:PHIL 971 | August 25, 2020"
+#+PANDOC_METADATA: "lhead:Kant on Agency & Freedom"
+#+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufte.tex
+#+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
+#+PANDOC_EXTENSIONS: org+raw_tex
+#+EXCLUDE_TAGS: noexport notes scrap todo
+#+LANGUAGE: en
+#+OPTIONS: ':t
+#+OPTIONS: prop:t
+
+
+* Kant's Critical Project
+  :PROPERTIES:
+  :CUSTOM_ID: kants-critical-project
+  :END:
+
+1. Set metaphysics on the "secure path of science"
+2. Explain how rational or "proper" science is, in general, possible
+3. Explain how propositions making claims of universality and necessity
+   about the empirical world could be known to be true
+4. Explain knowledge of universality & necessity by virtue of knowledge
+   concerning our own mental faculties of cognition, desire, and
+   feeling[fn:1][fn:2]
+
+   
+- Kant's strategy is answer (1) and (2) by means of (3), and (3) by (4)
+  
+
+- Rationality-Self-Consciousness Link: :: Necessarily, any being with the capacity for rational determination is a being with the capacity for non-observational self-consciousness, and the two capacities are non-accidentally linked[fn:3]
+
+- Why are rationality and self-consciousness non-accidentally linked?
+   - Self-consciousness explains rationality?
+   - Self-consciousness explains the possibility of Critical philosophy, i.e.,
+     explains the epistemology of our access to a priori laws/principles/grounds
+
+ 
+     
+
+[fn:1] all human insight is at an end as soon as we have arrived at
+       basic powers or basic faculties for there is nothing through
+       which their possibility can be conceived, and yet it may not be
+       invented and assumed at one's discretion. (CPrR 5:46-7)
+
+[fn:2] there are three faculties of the mind: the faculty of cognition, the faculty
+       of feeling pleasure and displeasure, and the faculty of desire. In the
+       Critique /of Pure/ (theoretical) /Reason/, I found a priori principles for the
+       first of these, and in the Critique /of Practical Reason/, a priori principles
+       for the third. I tried to find them for the second as well…the analysis of the
+       previously mentioned faculties of the human mind allowed me to discover a
+       systematicity...This systematicity put me on the path to recognizing the three
+       parts of philosophy, each of which has its a priori principles, which can be
+       enumerated and for which one can delimit precisely the knowledge that may be
+       based on them: theoretical philosophy, teleology, and practical philosophy
+       (Letter to Reinhold, C 10:514-15 [December 28 and 31, 1787])
+
+[fn:3] the human being, who is otherwise acquainted with the whole of nature solely
+       through sense, cognizes himself also through pure apperception, and indeed in actions
+       and inner determinations which cannot be counted at all among impressions of
+       sense; he obviously is in one part phenomenon, but in another part, namely in regard
+       to certain faculties, he is a merely intelligible object, because the actions of this
+       object cannot at all be ascribed' to the receptivity o f sensibility. We call these
+       faculties understanding and reason (A546-7/B574-5)
+
+* The Agent & Its Powers
+   :PROPERTIES:
+   :CUSTOM_ID: the-agent-its-powers
+   :END:
+
+- Substance: :: A metaphysical or 'final' subject in which properties
+  inhere
+
+   - Substances 'substand' in the sense of being subjects of properties
+   - Substances 'subsist' or are 'independent', in the sense of not
+     inhering in anything else
+
+- Capacity/Power/Faculty: :: The substantial ground of the "real" possibility of the
+  actualization of a force (/Kraft/) to bring about an effect (i.e. an accident); every
+  capacity has a /conatus/ or “tendency” to actualize itself
+
+- Force: :: The relation (/respectus/) that a substance bears to the
+  accidents whose existence it causes[fn:4]
+
+- Act: :: The realization of substantial force (through the exercise of
+  a substance's causal power(s)) through which some 'accident'
+  (i.e. 'property' or 'determination') is the effect[fn:5]
+   + In order for an accident to actually exist in a substance, a ground of its /real/ 
+     /possibility/ (the capacity of that substance to receive the accident) and a
+     ground of its /actual/ existence (a force) must be present.
+   + Kant's basic conception of activity is that of a substance whose causal
+     capacities/powers allow it to bring about, through an exertion of force, change in
+     itself or another being. /Agency/ is that causal power of a substance to bring about
+     change in oneself or another specifically through (or via) its /representational/ /faculties/ 
+  
+
+[fn:4] Among the different kinds of unity according to concepts of the understanding
+       belongs the causality of a substance, which is called "force" [/Kraft/]. (A648/B676)
+
+[fn:5] Action [/Handeln/] and effect [/Wirkung/] can only be ascribed to
+       substance. Action is the determination of the force [Kraft] of a
+       substance as a cause of a certain accident [/accidentis/].
+       Causality [/Causalitas/] is the characteristic of a substance
+       insofar as it is considered as the cause of an accident
+       [/accidentis/] (/Metaphysik Pölitz/ 28:564-5 (1790/1)).
+
+
+** Kant's Anatomy of the Rational Mind
+   :PROPERTIES:
+   :CUSTOM_ID: kants-anatomy-of-the-rational-mind
+   :END:
+
+- Two Fundamental Mental Capacities: [fn:6]
+
+   + Receptivity: :: Capacity of the mind to receive representations via
+     affection from something distinct from itself
+   + Spontaneity: :: Capacity of the mind to generate representations from
+     itself without any external influence
+
+- Three Forms of Mental Activity:
+
+   + Cognition: :: Objective representational capacity that depends on the
+     existence (or reality) of its object
+   + Desire: :: Objective representational capacity that brings about the
+     existence (or reality) of its object
+   + Feeling: :: Non-objective (representational?) capacity to promote or
+     hinder the representational acts of the other capacities
+
+[fn:6] Our cognition arises from two basic sources of the mind, of which
+       the first is to receive the representations (the receptivity of
+       impressions), the second the faculty of cognizing an object
+       through these representations (spontaneity of concepts); through
+       the first an object is given to us, through the second it is
+       thought in relation to that representation (as mere determination
+       of the mind). (A50/B74)
+
+* Freedom
+** What Do We Mean by Freedom?
+- Freedom: :: The capacity to act such that one is the origin or author of the act
+  (the act is 'imputed' to the agent) in a way that makes the agent fundamentally
+  responsible for the act and thereby the appropriate target of (non-proleptic)
+  reactive attitudes such as praise, blame, love, or forgiveness
+  
+** Two Ways of Conceiving of Free Action
+- Source Requirement: :: An agent's volition to act is free only if she
+  is the proper source of the volition
+- Leeway Requirement: :: An agent's volition to act is free only if it
+  is (really) possible that the agent could either $\phi$ or $\neg\phi$
+
+**  Kant's Combination of The Requirements
+- 'Source' requirement is necessary for free action and imputability
+  - Structure of the phenomenal world is incompatible with an agent's
+    being the proper source of her actions[fn:10]
+- 'Leeway' requirement is necessary for a system of 'oughts' to apply
+  - The possibility of leeway depends on our satisfying the source
+    requirement[fn:11]
+    
+
+[fn:10] For from the [necessity in causal relations] it follows that
+       every event, and consequently every action that takes place at a
+       point in time, is necessary under the condition of what was in
+       the preceding time. Now, since time past is no longer within my
+       control, every action that I perform must be necessary by
+       determining grounds /that are not within my control/, that is, I
+       am never free at the point of time in which I act. (CPrR:
+       Critical Elucidation of the Analytic, 5:94)
+
+[fn:11] Now that this reason has causality, or that we can at least
+       represent something of the sort in it, is clear from the
+       /imperatives/ that we propose as rules to our powers of execution
+       in everything practical...It is impossible that something in
+       [nature] /ought to be/ other than what, in all these
+       time-relations, it in fact is; indeed the ought, if one merely
+       has the course of nature before one's eyes, has no significance
+       whatever. (A547/B575).
+
+[fn:14] *Freedom in the practical sense* is the independence of the power
+       of choice from *necessitation* by impulses of sensibility...in
+       the human being there is a faculty of determining oneself from
+       oneself, independently of necessitation by sensible impulses.
+       (A534/B562)
+
+[fn:13] [practical freedom] presupposes that although something has not
+       happened, it ought to have happened, and that its cause in
+       appearance is not therefore so determining that it excludes a
+       causality of our will---a causality which, independently of those
+       natural causes, and even contrary to their force and influence,
+       can produce something that is determined in the time-order in
+       accordance with empirical laws, and which can therefore begin a
+       series of events /entirely of itself/. (CPR: Resolution of the
+       Cosmological Idea, A534/B562)
+
+[fn:12] not only will a series begin absolutely through this
+        spontaneity, but the determination of this spontaneity itself to
+        produce the series, i.e., its causality, will begin absolutely,
+        so that nothing precedes it through which this occurring action
+        is determined in accordance with constant laws. (A446/B474)
+** Two Kinds of Freedom
+
+- Practical Freedom: :: the capacity to act in accordance with ends
+  distinct from those dictated by one's immediate sensible
+  impulses\sidenote[][]{we have a capacity to
+     overcome impressions on our sensory faculty of desire by representations of
+     that which is useful or injurious even in a more remote way (Canon,
+     A802/B830)}\footnote[][]{We thus cognize practical freedom through
+     experience, as one of the natural causes, namely a causality of reason in
+     the determination of the will, whereas transcendental freedom requires an
+     independence of this reason itself (with regard to its causality for
+     initiating a series of appearances) from all determining causes of the
+     world of the senses (Canon, A803/B831)}
+- Transcendental Freedom: :: the power to (i) initiate a causal series from oneself
+  (ii) without being determined to do so by any temporally structured causal
+  ground\sidenote[][]{the power of beginning a state \emph{of itself} [\emph{von
+  selbst}]--the causality of which does not in turn stand under another cause
+  determining it in time in accordance with the law of nature. (A533/B561); cf.
+  (A446/ B474)}
+
+   - Why does Kant conceive of Transcendental Freedom (or "absolute spontaneity") as
+     incompatible with natural causation?
+      - Natural causation is incompatible with having an action under one’s control
+         
+
+** Control & Freedom
+- Control Condition: :: One is in control just in case one is the
+  ultimate causal source of some effect, without being causally
+  determined either by (i) temporally antecedent conditions or (ii)
+  one's own nature\footnote[][-.5in]{Since the
+  past is no longer in my control, every action that I perform must be
+  necessary by determining grounds \emph{that are not within my control},
+  that is, I am never free at the point in time in which I act. (CPrR
+  5:94)}\footnote[][]{One might raise the objection that God cannot decide
+  otherwise than he does, and so he does not act freely but from the
+  necessity of his nature.\ldots{}but in God it is not due to the necessity
+  of his nature that he can decide only as he does, but rather it is true
+  freedom in God that he decides only what is in conformity with his highest
+  understanding. (\emph{Pölitz Religion}, PR132/28:1068 (1783/4); cf. Rel
+  5:50n)}
+
+- Why is natural causation (i.e. causation in time) incompatible with control?
+   1. Natural causation is incompatible with leeway
+       a. True but is leeway necessary for control?
+   2. Natural causation is incompatible with being the source of an action
+       a. Why?
+   3. Natural causation is deterministic and freedom is indeterministic
+       a. But if indeterministic events just ‘happen’ how can they be under the
+          agent’s control?
+   4. ???
+  
+  
+* The Cosmological Ideas & the Antinomies of Reason 
+
+- Four cosmological ideas corresponding to the four classes of the table
+  of categories
+   1. Composition (quantity/the totality of appearances)
+   2. Division (quality/reality of matter in space)
+   3. Generation (relation/causation)
+   4. Dependence (modality/of the contingent on the necessary)
+- Each cosmological idea concerns the unconditioned condition of a given
+  '/regressive/' series[fn:100]
+- Consideration of each idea yields two possible answers concerning the
+  relation of conditioned to condition[fn:200]
+   - *Thesis*: the series of conditioned conditions terminates in a first
+     member of the series which is itself unconditioned:
+      1. There is a first event/largest quantity of matter
+      2. There is simple substance
+      3. There is a first (free) cause
+      4. There is a necessary being
+   - *Antithesis*: the series of conditioned conditions goes on to
+     infinity, with every member presupposing a further given condition
+     in the series
+- Kant considers both thesis and antithesis to be valid arguments, which he
+  thinks indicates a problem with how reason approaches these topics[fn:500]
+   - Which was more important to the 'critical' Kant's development---the
+     antinomies or Hume's arguments concerning the concept =<cause>=?
+    
+
+[fn:100] I will call the synthesis of a series on the side of the
+       conditions, thus proceeding from the condition proximate to the
+       given appearance toward the more remote conditions, the
+       *regressive* synthesis
+
+[fn:200] Each of these two competing answers gives us a different
+       interpretation of the more basic rational idea of a
+       /world-whole/, and thus two incompatible interpretations of the
+       constitution of a world (or nature) as a whole, between which we
+       apparently have to choose. The choice, moreover, seems an
+       impossible one, since whichever way we respond to each of the
+       cosmological questions, our answer seems open to insuperable
+       objections...The impossibility of each alternative can be
+       represented by an argument for and against the existence of an
+       object corresponding to each cosmological idea. This threatens us
+       with a set of contradictions: There /must/ be, yet there also
+       /cannot/ be, a first event in time, a largest quantity of the
+       world in space, a simple substance, a first or free cause, a
+       necessary being. (@wood2010, 248)
+
+[fn:500] [the Antinomies] first aroused me from my dogmatic slumber and
+       drove me to the critique of reason itself, in order to resolve
+       the scandal of ostensible contradiction of reason with itself
+       (Letter to Christian Garve, 1798; 12:258).
+
+
+
+** The Conditioning Relation
+
+- x conditions y: :: y depends on x for its existence, reality, or properties
+- x R-conditions y: :: There is an asymmetric, irreflexive, and transitive relation R
+  such that for all x and for all y, if xRy, then x 'conditions' y in the sense that xRy.
+
+- *Thesis*: Something that is not R-conditioned must exist as the first
+  member of the R-conditions of any given φ.
+- *Antithesis*: All the R-conditions of any given φ are themselves φs,
+  hence R-conditioned by further φs to infinity.
+
+| Antinomy        | φ                      | R                                       |
+|-----------------+------------------------+-----------------------------------------|
+| First (time)    | state of the world     | precedes                                |
+| First (space)   | spatial world region   | properly encloses                       |
+| Second          | composite body         | is a (proper) part of                   |
+| Third           | alteration             | grounds the causal power producing      |
+| Fourth          | alteration             | grounds the (contingent) existence of   |
+
+** Questionable Presuppositions:
+
+- Why must the 'conditions' relation be transitive?
+  - If A conditions B and B conditions C, why must it be the case that A
+    thereby conditions C?
+    - Assumption of transitivity is required to articulate the
+      antithesis, but is not itself argued for.
+- Why is there a problem with the existence of an infinite series?
+  - Three notion of 'infinite series'
+    - Infinite in progression (no end)
+    - Infinite in regression (no beginning)
+    - Infinite /simpliciter/ (no beginning or end)[fn:600]
+  - Isn't the existence of the conditioned entity enough to provide
+    evidence that the requisite conditions have been fulfilled?
+
+[fn:600] Why should we worry about the infinity of an "ascending" or
+       "regressive" series - in the direction of the condition - any
+       more than we worry about the infinity of a "descending" or
+       "progressive" series - from each condition to what it
+       conditions?...The antinomies work on us because there is a
+       philosophical inclination, having a profound grip on us, that
+       some things depend on other things in a systematic series, and
+       that the connectedness among things that makes them constitute a
+       single world, or a whole of nature, involves the transitivity of
+       these essentially /asymmetrical/ relations of conditioning or
+       dependency. (@wood2010, 250)
+
+* The Third Antinomy 
+** The Thesis Argument
+
+- Thesis: :: Causality in accordance with laws of nature is not the only
+  one from which all the appearances of the world can be derived. It is
+  also necessary to assume another causality through freedom in order to
+  explain them. (A444/B472)
+  
+
+1. The only form of causation is natural causation. [Assumption for
+   reductio]
+2. $\therefore$ Every event has a cause. [1, definition of natural causation]
+3. $\therefore$ There is no /first/ cause of events and thus no complete regression
+   of the causal series. [1, 2]
+4. However, the content of the causal law demands that there /be/ a complete regression
+   if the causal series is to exist. [definition of natural causation][fn:700]
+5. $\therefore$ Contradiction. [3, 4]
+6. $\therefore$ There must exist a spontaneous cause---one that is not determined by a
+   prior ground. [Negation of 1][fn:800]
+
+[fn:700] the law of nature consists just in this, that nothing happens
+       without a cause sufficiently determined /a priori/ (A446/B474)
+
+[fn:800] a causality must be assumed through which something happens
+        without its cause being further determined by another previous
+        cause, i.e., an *absolute* causal *spontaneity* beginning *from
+        itself* a series of appearances that runs according to natural
+        laws, hence transcendental freedom, without which even in the
+        course of nature the series of appearances is never complete on
+        the side of the causes. (A446/B474)
+
+** The Antithesis Argument
+
+- Antithesis: :: There is no freedom, but everything in the world
+  happens solely in accordance with laws of nature. (A445/B473)
+  
+  
+1. There is an uncaused beginning (i.e. a free or ‘spontaneous’ beginning) to the
+   causal series of appearances. [Assumption for reductio]
+2. For every event, there must a previous state from which it is causally determined
+   according to a natural law.[fn:900] [definition of natural causation]
+3. $\therefore$ If a spontaneous causal event occurs, there must be a previous state from which it
+   follows (causally) in accordance with a natural law [from 2]
+4. $\therefore$ The action of a spontaneous cause follows a previous state (causally) in
+   accordance with a natural law [1, 3]
+5. $\therefore$ Contradiction [1, 4]
+6. $\therefore$ There can be no freedom or first cause. [Negation of 1]
+
+[fn:900] Every beginning of action, however, presupposes a state of the
+        not yet acting cause, and a dynamically first beginning of
+        action presupposes a state that has no causal connection at all
+        with the cause of the previous one, i.e., in no way follows from
+        it. (A446/B474)
+
+* Resolving the Antinomy 
+** The General Solution: Transcendental Idealism
+- The Antinomies are /generated/ because Kant holds that (i) for any given conditioned thing (e.g. appearance) the whole set of conditions must also be given; (ii) in each instance the Thesis and Antithesis present arguments showing that the series of conditions of the object that is given both can and cannot be complete\sidenote[][]{The entire antinomy of pure reason rests on this dialectical argument: If the conditioned is given, then the whole series of all conditions for it is also given; now objects of the senses are given as conditioned; consequently, etc. (A497/B525)}
+- The Antinomies are /resolved/ because the condition-conditioned relationship applies differently to appearances than to things in themselves.\sidenote[][]{If the conditioned as well as its condition are things in themselves, then when the first is given,\ldots{}the latter is thereby really already given along with it (A498/B526) {[}In contrast{]} if I am dealing with appearances\ldots{}then I cannot say with the same meaning that if the conditioned is given, then all the conditions (as appearances) for it are also given. \ldots{} For the \textbf{appearances}, in their apprehension, are themselves nothing other than an empirical synthesis (in space and time) and thus are given only \textbf{in this synthesis} (A498-99/B527)}
+  - The condition(s) of appearances are set as a "task" for reason to resolve, rather than as a given totality\sidenote[][]{{[}for appearances{]} if the conditioned is given, then through it a regress in the series of all conditions for it is \textbf{given} to us \textbf{as a problem} (A497--498/B526)}
+  - The appearance of an object is indeterminate in a way that things in themselves are not
+    - Things in themselves are completely determinate in the sense that for every pair of contradictory predicates one of them must be truly ascribed to each thing in itself (A571–576/B599–604).
+    - Appearances are /representations/ and so must be apprehended and synthesized to
+      become determinate appearances of /objects/ – they depend on synthesis and are
+      thus, at least in this sense, ideal
+    
+
+
+** Resolving the Third Antinomy
+
+- The Thesis & Antithesis are (possibly) true of different subject matter
+   - The Thesis’s assertion of freedom is possible for things in themselves---but not for appearances---while the Antithesis’s assertion of determinism is true for appearances---but may be false for things in themselves (see A531–532/B559–560)
+- Premise (3) of Antithesis argument assumes temporal determinacy of the cause but the spontaneity of a thing in itself is atemporal, and so needn't entail the problematic conclusion in (4)\sidenote[][]{the argument holds for appearances, which are necessarily temporally determinate, but not for things in themselves, since they are, in some sense, atemporal and thus not temporally determinate, either. By thus distinguishing between temporal appearances and atemporal things in themselves, Transcendental Idealism creates room for the possibility that things in themselves could be free. (Watkins 2005, 316)}
+
+* References & Further Reading
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
+#+nocite: @allison2004; @wood1984a; @wood2010; @watkins2005-ch5; @al-azm1972; @allison1990; @allison1996-ch9; @allison2006; @beck1987; @pereboom2006a; @mclear2020a;
+
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
+
+

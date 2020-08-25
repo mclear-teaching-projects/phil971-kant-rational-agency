@@ -66,97 +66,18 @@ Kant's conception of reason.
 - The problem with time
 - Difference between Kant’s view and the “Consequence Argument”
      
-* Handouts :noexport:
-** TODO Handout 1 Kant's Agent :noexport:
-:PROPERTIES:
-:EXPORT_TITLE: Rationally Determinable Conditions & Kant's Agent
-:EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil971-kant-rational-agency/static/materials/handouts/1-kants-agent.pdf
-:END:
-:Pandoc:
-#+PANDOC_METADATA: "author:PHIL 971" "date:August 18, 2020" 
-#+PANDOC_METADATA: "lfoot:Colin McLear | August 18, 2020"
-#+PANDOC_METADATA: "lhead: Kant's Agent"
-#+LANGUAGE: en
-#+OPTIONS: ':t
-:END:
+* Class Notes
+** Week 2 
+*** General Comments 
+- Note that we’ll be discussing several of these points in further detail in their
+  own class sessions over the course of the semester, e.g.:
 
-#+begin_src latex
-\epigraph{Everything in nature works in accordance with laws. Only a rational being has the capacity to act in accordance with the representation of law}{Kant, Groundwork II}
-#+end_src
+   + The metaphysical status of the agent (substance vs. bundle)
+   + Epistemic access to one’s capacities 
 
-*** The Question
-- *Q*: How should we understand the notion of rational activity, or perhaps more broadly,
-  of what it is to be a rational being? 
-- *A*: A rational being is one capable of acting in light of reasons 
-
-*** Rationally Determinable Conditions
-
-| A                                                | B                                                                     |
-|--------------------------------------------------+-----------------------------------------------------------------------|
-| Intending to knock John to the ground            | John's falling to the ground as the result of an earthquake           |
-| Knowing that one is 41                           | Being 41                                                              |
-| Judging that one has a headache                  | Having a headache                                                     |
-| Experiencing the ball's shattering the window    | Having sensory consciousness of the ball's passage through the window |
-| Attending to the evidential ground of a judgment | Having one's attention drawn by a loud noise                          |
-
-- These lists include acts, events, and states of various kinds; Let’s use the term “condition” to denote any act, event, or state.
-- All of the entries in (A) have  reason in light of which they occur, while those in
-  (B) have only a reason why they occur. What explains this difference?[fn:3]
-
-[fn:3] All of the items on the left-hand list are conditions that have the following
-property: there can be a reason in light of which the agent is in that condition. But
-none of the items on the right-hand list have that property: there can be a reason
-why the agent suffers from tinnitus, or feels tired, but no reason in light of which
-she suffers from tinnitis, or feels tired, etc. I will henceforth use the phrase
-“rationally determinable conditions” to denote all of the conditions that go on the
-left-hand list, i.e., all those conditions which are such that there can be a reason
-in light of which the agent is in them. [@neta2018, 289] 
-
-*** Kant --- Biographical Overview
-  :PROPERTIES:
-  :CUSTOM_ID: kant-biographical-overview
-  :END:
-
-- Lived & died in Königsberg, Prussia (1724-1804)
-- Attained professorship at the University of Königsberg in 1770
-- Wrote the "critical" philosophical works relatively late in his career
-  (c. 1781-1790)[fn:1]
-- Some relevant contemporaries
-  - John Locke (1632--1704)
-  - G. W. Leibniz (1646--1716)
-  - Christian Wolff (1679--1750)
-  - David Hume (1711--1776)
-  - Jean-Jacques Rousseau (1712--1778)
-  - Alexander Gottlieb Baumgarten (1714--1762)
-  - Christian August Crusius (1715--1775)
-
-[fn:1] *Kant's Major Critical Works*:
-
-       - /Critique of Pure Reason/ (1781/87)
-       - /Prolegomena to Any Future Metaphysics That Will Be Able to
-         Come Forward as a Science/ (1783)
-       - 'Idea for a Universal History With a Cosmopolitan Aim' (1784)
-       - 'What is Enlightenment?' (1784)
-       - /Groundwork of the Metaphysics of Morals/ (1785)
-       - /Metaphysical Foundations of Natural Science/ (1786)
-       - 'Conjectural Beginning of Human History' (1786)
-       - 'What Does it Mean to Orient Oneself in Thinking?' (1786)
-       - /Critique of Practical Reason/ (1788)
-       - /Critique of (the Power of) Judgment/ (1790)
-       - /Religion Within the Boundaries of Mere Reason/ (1793)
-       - /Metaphysics of Morals/ (1797)
-       - /Anthropology From a Pragmatic Point of View/ (1798)
-  
-
-*** Kant’s Critical Project
-1. Set metaphysics on the "secure path of science"
-2. Explain how rational or "proper" science is, in general, possible
-3. Explain how propositions making claims of universality and necessity about
-   the empirical world could be known to be true  
-
-- Kant's strategy is answer (1) and (2) by means of (3)
-    
-
+*** Agents & Powers
+- Note the way in which Kant’s conception of a substance is modally suffused or inflected
+- Note the issue of power vs. capacity vs. faculty
 
 * Website
 ** Pages
@@ -363,6 +284,8 @@ This week we’ll start with discussion of Kant’s general commitments concerni
 activity and agency. Then we’ll look more closely at Kant’s conception of free action. We’ll
 discuss the differences between ‘practical’ and ‘transcendental’ freedom and why the
 former might depend on the latter. 
+
+- [[/materials/handouts/2-kant-freedom.pdf][Handout]] for week 2
 
 **** Readings
 Please note that while I’ve provided whole sections for context, you’re only expected

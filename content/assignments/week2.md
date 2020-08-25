@@ -14,6 +14,8 @@ activity and agency. Then we’ll look more closely at Kant’s conception of fr
 discuss the differences between ‘practical’ and ‘transcendental’ freedom and why the
 former might depend on the latter.
 
+-   [Handout](/materials/handouts/2-kant-freedom.pdf) for week 2
+
 
 ## Readings {#readings}
 

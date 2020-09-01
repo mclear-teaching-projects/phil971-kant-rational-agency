@@ -1,0 +1,164 @@
+#+STARTUP: fnadjust
+#+TITLE: Kant on Freedom & Control
+#+DATE: Sept 1, 2020
+#+AUTHOR: Colin McLear | PHIL 971
+#+EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil971-kant-rational-agency/static/materials/handouts/3-kant-control.pdf
+#+pandoc-emphasis-pre: "-\t ('\"{["
+#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]" 
+#+PANDOC_METADATA: numbersections:t secnumdepth:2 
+#+PANDOC_METADATA: "lfoot:PHIL 971 | Sept 1, 2020"
+#+PANDOC_METADATA: "lhead:Kant on Freedom & Control"
+#+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufte.tex
+#+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
+#+PANDOC_EXTENSIONS: org+raw_tex
+#+EXCLUDE_TAGS: noexport notes scrap todo
+#+LANGUAGE: en
+#+OPTIONS: ':t
+#+OPTIONS: prop:t
+
+* Two Kinds of Freedom
+   :PROPERTIES:
+   :CUSTOM_ID: two-kinds-of-freedom
+   :END:
+
+- Practical Freedom: :: the capacity to act in accordance with ends
+  distinct from those dictated by one's immediate sensible
+  impulses\sidenote[][-.5in]{we have a capacity to
+  overcome impressions on our sensory faculty of desire by representations
+  of that which is useful or injurious even in a more remote way (CPR: Canon,
+  A802/B830)}\sidenote[][]{We thus cognize practical freedom through
+  experience, as one of the natural causes, namely a causality of reason in
+  the determination of the will, whereas transcendental freedom requires an
+  independence of this reason itself (with regard to its causality for
+  initiating a series of appearances) from all determining causes of the
+  world of the senses (CPR: Canon, A803/B831)}
+- Transcendental Freedom: :: the power to (i) initiate a causal series from oneself
+  (ii) without being determined by any temporal ground\sidenote[][]{the power of
+  beginning a state \emph{of itself} {[}\emph{von selbst}{]}--the causality of which
+  does not in turn stand under another cause determining it in time in accordance
+  with the law of nature. (CPR: Resolution of the cosmological idea, A533/B561);
+  cf.~(A446/ B474)}
+
+- Transcendental freedom is a condition of practical freedom, and more
+  generally, of the (i) imputability of action and the (ii)
+  applicability of 'ought' statements
+   1. *Why* is transcendental freedom necessary for practical freedom?
+   2. *Why* does imputability require being a first-cause?
+   3. *Why* must transcendental freedom be atemporal? 
+   4. *Why* do ’oughts’ require transcendental freedom? 
+
+
+* Imputation vs. Ascription
+
+- An action is /imputable/ just in case it is free, and thus the kind of
+  act for which one can be responsible, and thus the proper object of
+  (non-proleptic) praise, blame, and "reactive" attitudes such as
+  resentment, gratitude, or forgiveness
+- An action is /ascribable/ just in case it is performed by an
+  agent\sidenote[][]{All imputation is the judgement of an action, insofar as
+  it has arisen from personal freedom, in relation to certain practical laws. In
+  imputation, therefore, there must be a free action and a law. We can ascribe a
+  thing to someone, yet not impute it to him; the actions, for example, of a madman
+  or drunkard can be ascribed, though not imputed to them. In imputation the action
+  must spring from freedom. The drunkard cannot, indeed, be held accountable for his
+  actions, but he certainly can, when sober, for the drunkenness itself.
+  (\emph{Moralphilosophie Collins} 27:288 (1774/75-1776/77); see also MS 6:223, 227)}
+
+
+\newthought{What are the conditions} under which an act is imputable rather than
+merely ascribable?  
+
+- Kant’s answer seems to be that an act is imputable just in case we have control
+  over it
+
+* Voluntarism
+
+- Direct Doxastic Voluntarism: :: We have voluntary (i.e. "at will") control over our
+  doxastic attitudes (e.g. believing)
+
+- *Objection*: If Kant's position that the rational mind is free entails that we have
+  control over our doxastic attitudes then we should reject his position, because we
+  cannot, e.g., believe at will
+   - Beliefs necessarily aim at the truth and the acquisition of an
+     attitude at will means that the attitude can be acquired regardless
+     of its truth, and so cannot be belief (see, e.g., @williams1973, 148)
+- *Reply*: Kant explicitly denies that the will can directly control the adoption or
+  rejection of a doxastic attitude\sidenote[][]{The will does not have any influence
+  immediately on holding-to-be-true; this would be quite absurd. […] the will cannot
+  struggle \emph{against} convincing proofs of truths that are contrary to its wishes
+  and inclinations. (\emph{Logik Jäsche} 9:74 (1800); see also \emph{Logik Blomberg}
+  24:156 (c. 1771)}
+
+* Kant's Combination of Source & Leeway Requirements
+   :PROPERTIES:
+   :CUSTOM_ID: kants-combination-of-source-leeway-requirements
+   :END:
+
+- Source Requirement: :: An agent's volition to act is free only if she
+  is the proper source of the volition
+- Leeway Requirement: :: An agent's volition to act is free only if it
+  is (really) possible that the agent could either $\phi$ or $\neg\phi$
+
+
+- Satisfaction of the Source requirement is necessary for free action and
+  imputability
+   - Structure of the phenomenal world is incompatible with an agent's
+     being the proper source of her actions
+- Leeway is *not* necessary for imputability or freedom – Kant characterizes divine
+  actions as lacking leeway but nevertheless being
+  free/controlled\sidenote[][-.5in]{One might raise the objection that God cannot
+  decide otherwise than he does, and so he does not act freely but from the necessity
+  of his nature\ldots{}.but in God it is not due to the necessity of his nature that
+  he can decide only as he does, but rather it is true freedom in God that he decides
+  only what is in conformity with his highest understanding. (\emph{Pölitz Religion},
+  PR132/28:1068 (1783/4)}\sidenote[][]{freedom does not consist in the contingency of
+  an action (in its not being determined through any ground at all), i.e. not in
+  indeterminism ([the thesis] that God must be equally capable of doing good or evil,
+  if his action is to be called free) but in absolute spontaneity. The latter is at
+  risk only with predeterminism, where the determining ground of an action lies in
+  antecedent time, so that the action is no longer in my power but in the hands of
+  nature, which determines me irresistibly; since in God no temporal sequence is
+  thinkable, this difficulty has no place. (Rel 6:50n (1793))}
+- Leeway requirement *is* necessary for a system of 'oughts' to apply
+   - The possibility of leeway depends on our satisfying the source
+     requirement\sidenote[][]{Now that this reason has causality, or that we can at
+     least represent something of the sort in it, is clear from the
+     \emph{imperatives} that we propose as rules to our powers of execution in
+     everything practical\ldots{}It is impossible that something in {[}nature{]}
+     \emph{ought to be} other than what, in all these time-relations, it in fact is;
+     indeed the ought, if one merely has the course of nature before one's eyes, has
+     no significance whatever. (CPR: Clarification of the cosmological idea
+     of\ldots{}freedom, A547/B575)}
+
+
+* Control & Time
+
+- Imputability requires control, and control is incompatible with temporal
+  determination, but *why* is it incompatible?
+   1. +Natural causation is incompatible with leeway+
+       a. God lacks leeway but has control
+   2. +Natural causation is deterministic and freedom is indeterministic+
+       a. Indeterministic events are indistinguishable from those that just ‘happen’
+          and so cannot be under the agent’s control\sidenote[][.05in]{If, then, one wants
+          to attribute freedom to a being whose existence is determined in time, one
+          cannot, so far at least, except this being from the law of natural
+          necessity as to all events in its existence and consequently as to its
+          actions as well; for, that would be tantamount to handing it over to blind
+          chance. (CPrR 5:95)}
+   3. Natural causation (NC) is incompatible with being the source of an action
+       a. NC entails the existence of a causal ground distinct from and independent of the agent?
+       b. NC entails the existence of a ground over which the agent can exert no causal influence?
+       c. NC entails the operation of a form of causality that is not characteristic of the activity of the agent’s intellectual/rational faculty?
+
+- The best explanation of (3) is (c), which also explains why Kant endorses (a)-(b)
+          
+* References & Further Reading
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
+#+nocite:  @allison1996-ch9; @allison2006; @allison2020; @beck1987; @pereboom2006a; @mclear2020a; @sellars1971; @pippin1987; @kitcher2011-ch14; @kosch2006;
+
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent

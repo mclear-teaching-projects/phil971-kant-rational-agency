@@ -24,6 +24,10 @@ I want to focus our discussion around the following questions:
     is dependent on choice how does Kant avoid (if he does) an implausibly
     voluntaristic position?
 
+<!--listend-->
+
+-   [Handout](/materials/handouts/3-kant-control.pdf) for week 3
+
 
 ## Readings {#readings}
 

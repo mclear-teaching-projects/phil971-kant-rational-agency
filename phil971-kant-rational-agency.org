@@ -165,6 +165,35 @@ up” we have a true two-way power, to cause either event A or event B.
 
 - OK - so what is it to “truly determine what happens”? 
 - But fair question: why think we have anything more than ‘relative spontaneity’?
+  
+** Week 3
+*** Logisitics
+**** Precis questions
+- in general paraphrase over quotation
+- remember that these should be *shortentails the existence of a ground over which the agent can exert no causal inﬂuence*!
+
+*** Reading Responses
+
+**** Trevor
+1. How can Kant say that practical and speculative freedom have nothing to do with
+   one another?
+2. what’s the difference between a practical presupposition and a presupposition more generally?
+   
+**** Eunhong
+
+
+*** General Comments
+**** Why ‘Transcendental’ Freedom?
+- 'transcendental' usually means ‘condition of the possibility of’; so here we can
+  think of it as designating the conditions of imputation 
+**** What is the relation between T and P freedom?
+- It isn’t really clear why T freedom is presupposed by P freedom. Seems like they
+  are really just independent of each other. Perhaps Kant’s idea is that what we are
+  interested in are beings capable of rationally structuring/shaping their lives in a way
+  such that the choices they make in such structuring are imputable to them. So the
+  whole discussion runs through the notion of imputation/authorship of action 
+
+
 * Website
 ** Pages
 :PROPERTIES:
@@ -423,6 +452,10 @@ I want to focus our discussion around the following questions:
 4. If rational acts are all and only those that are under one’s control, and control
    is dependent on choice how does Kant avoid (if he does) an implausibly
    voluntaristic position?
+
+   
+- [[/materials/handouts/3-kant-control.pdf][Handout]] for week 3
+
 
 **** Readings
 - Kant:

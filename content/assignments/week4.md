@@ -1,5 +1,5 @@
 +++
-title = "Week 4 – Reflection, Inference & Agency"
+title = "Week 4 – Reflection, Inference, & Agency"
 publishDate = 2020-09-08T00:00:00-04:00
 tags = ["action", "agency", "animals", "control", "inference", "reasoning"]
 draft = false
@@ -21,7 +21,7 @@ account of inference.
 
 ## Readings {#readings}
 
--   Kant (most of these are the same as last week)
+-   Kant (these are the same as last week)
     -   _Groundwork of the Metaphysics of Morals_: part II, 4:412-4:414; part III, 4:446-9
     -   _[Review of Schultz](/materials/readings/kant-review-schulz.pdf)_
         -   Read the whole thing, but focus on the argument starting from the first full

@@ -177,11 +177,114 @@ up” we have a true two-way power, to cause either event A or event B.
 **** Trevor
 1. How can Kant say that practical and speculative freedom have nothing to do with
    one another?
-2. what’s the difference between a practical presupposition and a presupposition more generally?
+   - As I said in class this is a controversial issue, and it points to the
+     possibility that Kant had different competing conceptions of free action in his
+     theory, some that were broadly compatibilist and some that were broadly
+     incompatibilist. It is also possible that Kant simply changed his mind about
+     certain core issues. 
+2. What’s the difference between a practical presupposition and a presupposition more generally?
+   - Kant is aiming to distinguish between presuppositions of acting in the world
+     (i.e. what the world ought to be), vs. those that might be presuppositions of
+     theoretical inquiry (i.e. inquiry as to what the world is). Kant’s view seems to
+     be that the ‘speculative’ issue of whether we are absolutely
+     spontaneous/transcendentally free is an issue that we can never give a
+     satisfying answer, because we lack the right relationship to reality to be able
+     to cognize the truth of our freedom. Nevertheless it may be the case that we
+     “presuppose” our freedom in our actions in various ways. For example, if
+     determinism is true, I’m not responsible for anything I do. However, if
+     determinism is true I still have to deliberate as to what to do (it’s just that
+     it turns out that my deliberations are temporally necessitated). However, in
+     order to make sense of my activity of deliberation, I have to assume that my
+     activity matters with respect to its result and that it isn’t a foregone
+     conclusion what I’m to do (if it were a foregone conclusion then I would’t need
+     to deliberate). So it seems that I need to presuppose my freedom to make sense
+     “from the inside” of my activity of deliberation when I deliberate, even if in
+     actuality I was never free at any point. In this sense the practical question of
+     what I ought to believe or do is independent of the metaphysical (or speculative
+     theoretical) question of what is really the case (or at least so Korsgaard has
+     argued). We’ll look at this kind of reading of Kant in much more detail in
+     week 6. 
    
 **** Eunhong
+- How are natural causation and freedom supposed to be compatible?
+   + I talked around this in seminar but didn’t quite get all the way to discussing
+     it. Kant’s view is that if time were fundamentally real then reality would be deterministically temporally structured and we could not be free/responsible. However, if his transcendental idealism is true, then space and time are not fundamentally real, but only ways in which what is real must appear to beings like us (i.e. as creatures with what he calls ‘forms of sensibility’). Since time is no longer an independent feature of reality, it is logically/epistemically possible that reality is structured in some other non-temporal causal way. This means that it is logically/epistemically possible that we could act as absolutely spontaneous causes. This is thus the sense in which Kant combines freedom and (pre-)determinism. There is determinism at the level of the objects of experience (whose ontological status depends in some sense “on us”) and, at least the possibility of, freedom at the level of things as they really are “in themselves”, i.e. things whose existence and nature don’t in any sense depend on our forms of sensibility (or our mind more generally).
 
+**** Chen
+- In what sense does Kant think there is a universal morality (case of elders in the mountains)?
+   + Kant thinks that moral demands or requirements are all the “demands” that reason
+     makes on finite rational beings. But that is just to say that if we were all
+     rational then we would just act in the way that reason describes. In that sense,
+     all moral requirements are requirements of rational beings, insofar as they are
+     rational. Another way of putting this is that there cannot be a reason for me to
+     \phi or \neg\phi that is not (in relevantly similar contexts) also a reason for you to \phi
+     or \neg\phi. The universality of such reasons is not due to what you or I or society
+     at large /decides/ or otherwise agrees to, but due to the nature of reason itself.
+     So in Kant’s view there are going to be right and wrong answers about what
+     morality requires, and these answers are right and wrong even if some people at
+     some time or place act differently.
 
+    Regarding the action-guiding nature of Kant’s conception of the categorical
+    imperative, there’s a lot to say here both for and against. But I take one way
+    of reading Kant’s discussion of the formula of the imperative as a universal law
+    or law of nature and the ‘universalization’ procedure or thought experiment,
+    universalization concerns a necessary constraint on moral ‘maxims’ (i.e.
+    principles for action) that they not contradict themselves either in conception
+    or practice. However, lack of contradiction is not /sufficient/ for a maxim’s
+    status as moral. So even if it were true that there is no contradiction in the
+    proposed example of society whose elderly go to die in the mountains, it could
+    nevertheless still be true that maxims to act in such ways are morally
+    wrong/defective for some further reason (e.g. for reasons stated by the third
+    version of the moral law as valuing humanity, or the fourth version regarding
+    membership in a “kingdom of ends”). 
+
+**** John
+1. How are we to understand the relationship between Freedom and Choice when one is not conceived as temporally grounded and the other is? I think I am having a little difficulty imagining how these two concepts of spontaneity are to be both causally relevant but not both temporally construable.
+    + We didn’t really get into this issue in class, but Kant makes a distinction
+      between the “will” (/Wille/) and the power of choice (/Willkür/). The power of
+      choice brings about, or makes actual, some object or state of affairs through
+      its exercise. The will is the principle by which the power of choice operates.
+      Kant often however just speaks of “the will” without making this distinction. In
+      any case, one’s choice is free just in the case that one chooses according to
+      rational principles, and the capacity to choose (or the power of choice) is free
+      just in case one can choose according to rational principles and is necessitated
+      by sensible impulses. Since Kant strictly distinguishes between sensible
+      impulses and rational causes, the only way one can choose freely is if one’s
+      power of choice can be determined by a non-temporal causal ground, which in
+      Kant’s view would be practical reason. 
+2. Second, somewhere in the readings I got a sense that Choice seems to be exemplified
+   as a power. If it were a power, could it be that it co-exists with other “powers”?
+   I feel like this is not Kantian. But if Kant does in fact affirm the force of
+   sensory impulses on Choice, then it sounds like there are competing powers at play
+   in the human psyche…[and then what exactly is the question]?
+    + As discussed in seminar this is exactly the right way to think about Kant’s
+      view. He makes some clear statements to this effect at the beginning of the
+      Dialectic in the /Critique of Pure Reason/. There he says
+
+      #+begin_quote
+      No force of nature can of itself depart from its own laws. Hence neither the
+      understanding by itself (without the influence of another cause), nor the senses
+      by themselves, can err; the first cannot, because while it acts merely according
+      to its own laws, its effect (the judgment) must necessarily agree with these laws
+      (Transcendental illusion, A294/B350; see also JL 9:53-4, /Wiener/ /Logik/ 24:824-5, /Refl./ 
+      R2142 16:250 (1776-1781))
+      #+end_quote
+
+      Kant construes error as the result of the deviation of a capacity’s activity from its characteristic laws in a kind of “geometry of error”, and which, since the issue is always one of causality, must be construed in terms of the causal interaction of different capacities upon one another.32  As he puts it in the Vienna Logic:
+
+      #+begin_quote
+      Error is neither in the understanding alone, then, nor in the senses alone; instead,
+      it always lies in the influence of the senses on the understanding, when we do not
+      distinguish well the inﬂuence of sensibility on the understanding. (24:825)
+      #+end_quote
+     
+      Hence errors in thinking—i.e. the use of the capacities of understanding and judgment—arise as a product of the influence of sensibility on the intellect. More generally, the laws constitutive of the intellect produce particular effects unless interfered with by some external or ‘alien’ causal power.
+
+**** Janelle
+I think we answered Janelle’s question in seminar. To reiterate, Kant’s view seems to
+be that rational beings are responsible, even if they act in habitually vicious ways,
+since they nevertheless have a capacity to do the right/rational thing. Whether this
+position is fully defensible is another story. 
 *** General Comments
 **** Why ‘Transcendental’ Freedom?
 - 'transcendental' usually means ‘condition of the possibility of’; so here we can
@@ -482,16 +585,27 @@ SCHEDULED: <2020-09-08 Tue>
 :EXPORT_FILE_NAME: week4
 :END:
 
-Kant’s account of rational agency concerns not only our moral actions, but our
-rational actions generally, including the characteristic activity of making
-inferences. This week we’ll discuss various issues surrounding Kant’s conception of
-inference, and why he thinks it is so metaphysically demanding. 
+We’ll finish up our discussion of control and time this week. We then move on to look
+at how Kant conceives of the freedom of the rational subject (in all its metaphysical
+demandingness) includes even the activity of making inferences. We’ll discuss various
+issues surrounding Kant’s conception of inference, and why he thinks it is so
+metaphysically demanding. I’ve also linked two recent articles. The first, by Ram
+Neta, on the “basing relation”, has a variety of points of connection with
+Kant’s own view. The second, by Paul Boghossian, is on the “taking condition” as an
+account of inference. 
 
 **** Readings
-- Kant
-   + Review of Schultz
-   + Groundwork III (excerpt)
-- McLear, [[/materials/readings/mclear-inference.pdf][Inference]]
+- Kant (most of these are the same as last week)
+   + /Groundwork of the Metaphysics of Morals/: part II, 4:412-4:414; part III, 4:446-9
+   + /[[/materials/readings/kant-review-schulz.pdf][Review of Schultz]]/
+      + Read the whole thing, but focus on the argument starting from the first full
+        paragraph on 8:13 to the end. 
+   + /Critique of Practical Reason/: 5:94-101 
+- Secondary readings:
+   + McLear, [[https://www.dropbox.com/s/d3v0qnnc2nqt45f/inference.pdf?dl=0][Inference]]
+   + McLear (Optional), “[[https://philpapers.org/rec/MCLOTT][On the Transcendental Freedom of the Intellect]]” (just §§4.2-4.3)
+- Neta, “[[/materials/readings/neta-basing.pdf][The Basing Relation]]”
+- Boghossian (Optional), “[[/materials/readings/boghossian-inference.pdf][What is Inference?]]”  
 
 ** Course Notes
 :PROPERTIES:

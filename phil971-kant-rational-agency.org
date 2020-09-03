@@ -578,7 +578,7 @@ I want to focus our discussion around the following questions:
 # Feldman or Audi papers? What about Hieronymi? Korsgaard on self-constitution?
 
   
-*** DRAFT Week 4 – Inference & Agency
+*** DONE Week 4 – Reflection, Inference & Agency
 SCHEDULED: <2020-09-08 Tue>
 :PROPERTIES:
 :EXPORT_HUGO_TAGS: action agency animals control inference reasoning 

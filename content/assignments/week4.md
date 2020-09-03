@@ -1,8 +1,8 @@
 +++
-title = "Week 4 – Inference & Agency"
+title = "Week 4 – Reflection, Inference & Agency"
 publishDate = 2020-09-08T00:00:00-04:00
 tags = ["action", "agency", "animals", "control", "inference", "reasoning"]
-draft = true
+draft = false
 weight = -100
 author = false
 toc = false

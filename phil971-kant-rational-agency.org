@@ -590,9 +590,9 @@ at how Kant conceives of the freedom of the rational subject (in all its metaphy
 demandingness) includes even the activity of making inferences. We’ll discuss various
 issues surrounding Kant’s conception of inference, and why he thinks it is so
 metaphysically demanding. I’ve also linked two recent articles. The first, by Ram
-Neta, on the “basing relation”, has a variety of points of connection with
-Kant’s own view. The second, by Paul Boghossian, is on the “taking condition” as an
-account of inference. 
+Neta, on the “basing relation”, has a variety of points of connection with Kant’s own
+view. The second, by Paul Boghossian, is on the “taking condition” more generally as
+an account of inference.
 
 **** Readings
 - Kant (these are the same as last week)

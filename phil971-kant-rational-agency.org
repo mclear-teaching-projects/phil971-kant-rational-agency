@@ -346,8 +346,8 @@ information.
 | 6 - 9/22    | A Compatibilist Kant?                     | Does Kant need his incompatibilism for his theory of rationality?                                | Korsgaard, Ameriks                    |
 | 7 - 9/29    | Frankfurt & hierarchy                     | Contemporary Kantianism & mesh theory                                                            | Frankfurt, Bratman                    |
 | 8 - 10/6    | Agency without agents?                    | The 'agent' role & responsibility, bundles vs. substances                                        | Wolf, Velleman, Franklin              |
-| 9 - 10/20   | Self-consciousness I                      | What's the connection between self-consciousness & rationality?                                  | Korsgaard, Hieronymi, McLear ch. 6    |
-| 10 - 10/13  | Self-consciousness II/Paper Meetings      | More on self-consciousness/Help students with their papers                                       | Engstrom, Schafer, Burge, Soteriou    |
+| 9 - 10/13   | Self-consciousness I                      | What's the connection between self-consciousness & rationality?                                  | Korsgaard, Hieronymi, McLear ch. 6    |
+| 10 - 10/20  | Self-consciousness II/Paper Meetings      | More on self-consciousness/Help students with their papers                                       | Engstrom, Schafer, Burge, Soteriou    |
 | 11 - 10/27  | Transformation & the unity of reason      | Is rationality just one of many of one’s capacities or does it ‘transform’ the mind in some way? | Boyle, McLear ch. 7                   |
 | 12 - 11/3   | Teleology (guest: Sasha Mudd)             | Must the activity of reason have a purpose?                                                      | Kant, Longuenesse, Mudd               |
 | 13 - 11/10  | Control or Understanding?                 | Rationality as a form of understanding                                                           | Schafer (book excerpt)                |

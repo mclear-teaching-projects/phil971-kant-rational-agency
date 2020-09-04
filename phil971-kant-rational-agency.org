@@ -341,7 +341,7 @@ information.
 | 8/18  | Course setup/Kant's agent                 | Rational Conditions/Kant on Substance & Powers                                                   | Neta, Malmgren, McLear, ch. 1         |
 | 8/25  | Kant's free agent                         | Kant’s conception of freedom/spontaneity                                                         | Third Antinomy & Groundwork, Pereboom |
 | 9/1   | Enkratic rationality                      | Control as the key component of Kant’s conception of rationality                                 | McKenna, McLear, ch. 2                |
-| 9/8   | Inference & agency                        | Kant on rational inference & agency                                                              | Neta, McLear, ch. 4                   |
+| 9/8   | Inference & agency (guest: Ram Neta)      | Kant on rational inference & agency                                                              | Neta, McLear, ch. 4                   |
 | 9/15  | Reason & principles                       | Kant on laws & their representation                                                              | Groundwork II, Reath                  |
 | 9/22  | A Compatibilist Kant?                     | Does Kant need his incompatibilism for his theory of rationality?                                | Korsgaard, Ameriks                    |
 | 9/29  | Frankfurt & hierarchy                     | Contemporary Kantianism & mesh theory                                                            | Frankfurt, Bratman                    |
@@ -376,8 +376,7 @@ information.
 
 *** Resources
 :PROPERTIES:
-:EXPORT_FILE_NAME: resources
-:EXPORT_HUGO_MENU: :menu main
+:EXPORT_FILE_NAME: resources :EXPORT_HUGO_MENU: :menu main
 :END:
 
 **** Philosophy Links
@@ -607,6 +606,26 @@ an account of inference.
 - Neta, “[[/materials/readings/neta-basing.pdf][The Basing Relation]]”
 - Boghossian (Optional), “[[/materials/readings/boghossian-inference.pdf][What is Inference?]]”  
 
+  
+*** TODO Week 5
+
+*** TODO Week 6
+
+*** TODO Week 7
+
+*** TODO Week 8
+
+*** TODO Week 9
+
+*** TODO Week 10
+
+*** TODO Week 11
+
+*** TODO Week 12
+
+*** TODO Week 13
+
+*** TODO Week 14
 ** Course Notes
 :PROPERTIES:
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :toc false :type post

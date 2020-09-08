@@ -593,6 +593,9 @@ Neta, on the “basing relation”, has a variety of points of connection with K
 view. The second, by Paul Boghossian, is on the “taking condition” more generally as
 an account of inference.
 
+- [[/materials/handouts/4-kant-control-inference.pdf][Handout]] for week 4
+
+
 **** Readings
 - Kant (these are the same as last week)
    + /Groundwork of the Metaphysics of Morals/: part II, 4:412-4:414; part III, 4:446-9
@@ -607,25 +610,35 @@ an account of inference.
 - Boghossian (Optional), “[[/materials/readings/boghossian-inference.pdf][What is Inference?]]”  
 
   
-*** TODO Week 5
+*** TODO Week 5 - Reason & Principles
+SCHEDULED: <2020-09-15 Tue>
 
-*** TODO Week 6
+*** TODO Week 6 - A Compatibilist Kant?
+SCHEDULED: <2020-09-22 Tue>
 
-*** TODO Week 7
+*** TODO Week 7 - ’Mesh’ Theories of Rationality
+SCHEDULED: <2020-09-29 Tue>
 
-*** TODO Week 8
+*** TODO Week 8 - Agency without Agents?
+SCHEDULED: <2020-10-06 Tue>
 
-*** TODO Week 9
+*** TODO Week 9 - Self-Consciousness I
+SCHEDULED: <2020-10-13 Tue>
 
-*** TODO Week 10
+*** TODO Week 10 - Self-Consciousness II 
+SCHEDULED: <2020-10-20 Tue>
 
-*** TODO Week 11
+*** TODO Week 11 - Transformative Rationality
+SCHEDULED: <2020-10-27 Tue>
 
-*** TODO Week 12
+*** TODO Week 12 - Teleology
+SCHEDULED: <2020-11-03 Tue>
 
-*** TODO Week 13
+*** TODO Week 13 - Reason as Understanding
+SCHEDULED: <2020-11-10 Tue>
 
-*** TODO Week 14
+*** TODO Week 14 - The Unity of Reason
+SCHEDULED: <2020-11-17 Tue>
 ** Course Notes
 :PROPERTIES:
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :toc false :type post

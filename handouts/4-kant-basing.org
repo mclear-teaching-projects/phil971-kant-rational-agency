@@ -1,0 +1,385 @@
+#+STARTUP: fnadjust
+#+TITLE: Control, Basing, & Inference
+#+DATE: Sept 8, 2020
+#+AUTHOR: Colin McLear | PHIL 971
+#+EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil971-kant-rational-agency/static/materials/handouts/4-kant-control-inference.pdf
+#+pandoc-emphasis-pre: "-\t ('\"{["
+#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]" 
+#+PANDOC_METADATA: numbersections:t secnumdepth:2 
+#+PANDOC_METADATA: "lfoot:PHIL 971 | Sept 8, 2020"
+#+PANDOC_METADATA: "lhead:Control, Basing, & Inference"
+#+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufte.tex
+#+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
+#+PANDOC_EXTENSIONS: org+raw_tex
+#+EXCLUDE_TAGS: noexport notes scrap todo
+#+LANGUAGE: en
+#+OPTIONS: ':t
+#+OPTIONS: prop:t
+
+* Rational Conditions
+
+- Four features of rationally determinable conditions
+   1. Activity (actualization of a capacity)
+   2. Agency (i.e. "doings" as opposed to "happenings")
+   3. Fundamental responsibility (i.e. "imputability")
+   4. Deontic modal status (i.e. involving permission and requirement)
+ 
+* Control & Time
+
+- Imputability requires control, and control is incompatible with temporal
+  determination, but *why* is it incompatible?\sidenote[][-1.5in]{every event, and
+  consequently every action that takes place at a point of time, is necessary under
+  the condition of what was in the preceding time. Now, since time past is no longer
+  within my control, every action that I perform must be necessary by determining
+  grounds \emph{that are not within my control}, that is, I am never free at the point of
+  time in which I act. (CPrR 5:94)}
+   1. +Natural causation is incompatible with leeway+
+       a. God lacks leeway but has control
+   2. +Natural causation is deterministic and freedom is indeterministic+
+       a. Indeterministic events are indistinguishable from those that just ‘happen’
+          and so cannot be under the agent’s control\sidenote[][-1.35in]{If, then, one wants
+          to attribute freedom to a being whose existence is determined in time, one
+          cannot, so far at least, except this being from the law of natural
+          necessity as to all events in its existence and consequently as to its
+          actions as well; for, that would be tantamount to handing it over to blind
+          chance. (CPrR 5:95)}
+   3. Natural causation (NC) is incompatible with being the proper /source/ of an
+      action
+       a. NC entails the existence of a causal ground “outside” or distinct from and
+          independent of the agent?
+       b. NC entails the existence of a ground over which the agent can exert no
+          causal influence?
+       c. NC entails the operation of a form of causality that is not characteristic
+          of the activity of the agent’s intellectual/rational faculty?  
+  
+
+\\
+
+\vspace{-.5in}
+
+- The Leibnizian Objection: :: If all of the determining grounds of my actions are
+  /in/ me, even though they unfold in time, then why aren’t my actions (or at least
+  some subset of them) imputable /to/ me?\sidenote[][-2.5in]{The production, or action
+  whereby God produces, is anterior by nature to the existence of the creature that
+  is produced; the creature taken in itself, with its nature and its necessary
+  properties, is anterior to its accidental affections and to its actions; and yet
+  all these things are in being in the same moment. God produces the creature in
+  conformity with the exigency of the preceding instants, according to the laws of
+  his wisdom; and the creature operates in conformity with that nature which God
+  conveys to it in creating it always. The limitations and imperfections arise
+  therein through the nature of the subject, which sets limits to God's production;
+  this is the consequence of the original imperfection of creatures. Vice and crime,
+  on the other hand, arise there through the free inward operation of the creature,
+  in so far as this can occur within the instant, repetition afterwards rendering it
+  discernible. (T §388)}\sidenote[][]{even if I assume that my whole existence is
+  independent from any alien cause (such as God), so that the determining 
+  grounds of my causality and even of my whole existence are not outside me, this
+  would not in the least transform that natural necessity into freedom. For, at every
+  point of time I still stand under the necessity of being determined to action by
+  \emph{that which is not within my control}, and the series of events infinite a parte
+  priori which I can only continue in accordance with a predetermined order would
+  never begin of itself: it would be a continuous natural chain, and therefore my
+  causality would never be freedom. (CPrV 5:94-5)}
+
+- The best explanation of (3) is (c), which also explains why Kant endorses (a)-(b),
+  and why the Leibnizian is mistaken
+
+
+** Fundamental Powers: Spontaneity & Receptivity
+
+# Maybe be sure to jot down the various words Kant uses for faculty, capacity,
+# power, etc.
+# Vermögen, Fähigkeit, Kraft
+
+- Receptivity: :: A capacity, the nature of whose determining ground (i.e. that in
+  virtue of which it actualizes) is independent of the capacity itself
+- Spontaneity :: A capacity, the nature of whose determining ground is /not/
+  independent of the capacity itself
+
+
+- Kant considers receptivity and spontaneity as fundamental and opposed capacities or
+  powers of substances to bear properties
+   - Why "fundamental"?
+      + Kant understands all the other capacities of a being in terms of their manifesting
+        either a receptive or spontaneous power\sidenote[][-.5in]{All our representations have a
+        twofold origin; they arise (1) from sensibility and (2) from the intellect. The
+        first is called the lower, and the other the higher cognitive faculty. The first
+        belongs to sensuality and the other to intellectuality. Everything that is sensible
+        rests on receptivity; but what belongs to spontaneity belongs to the higher powers.
+        We will have sensible cognitions, sensible pleasure and displeasure, and sensible
+        desires. All three of these powers can be sensible. Intellectual pleasure is called
+        moral feeling…. (\emph{Metaphysik L$_2$}, 28:584 (1790–1))}
+   - Why "opposed"?
+      - Kant cannonically characterizes them as opposed\sidenote{If we will call the
+        receptivity of our mind to receive representations insofar as it is affected in
+        some way sensibility, then opposed to it {[}\emph{so ist dagegen}{]} is the faculty
+        for bringing forth representations itself, or the spontaneity of cognition, the
+        understanding. (A51/B75)}
+         - The nature of the determining ground of the actualization of a receptive
+           capacity is independent of the capacity itself while the nature of the
+           determining ground of an (absolutely) spontaneous capacity is /not/ independent
+           of the capacity itself
+
+
+** Kant’s Objection to Imputable Temporally Caused Actions
+
+1. All causality is lawful\sidenote[][]{the concept of causality brings with it that
+   of laws in accordance with which, by something that we call a cause, something
+   else, namely an effect, must be posited (GIII, 4:446)}
+2. If the causality of the cause of an action is temporal, then it is derived from a
+   law of receptivity/sensiblity rather than spontaneity/intellect\sidenote[][]{Space
+   and the things which occupy space thus determine themselves merely according to
+   the laws of sensibility, to which they are posited in relation. Space and time are
+   therefore also not thinkable through the understanding and therefore not
+   determinate concepts of the understanding, but rather are merely the subjective
+   form under which things appear to us. (\emph{Metaphysik Vigilantius} 29:997-8
+   (1794-5); cf. Transcendental Aesthetic)}
+3. The causality of the cause of an action, whose grounds lie solely within the
+   agent, is nevertheless still temporal insofar as it is or depends on a determinate
+   temporal location (e.g., preceding or following)\sidenote[][]{it is a necessary
+   law of our sensibility, thus a \textbf{formal condition} of all perceptions, that the
+   preceding time necessarily determines the following time (in that I cannot arrive
+   at the following time except by passing through the preceding one) (A199/B244)}
+4. $\therefore$ Any condition determined through a temporal ground, even if that ground is
+   wholly “in” one, is thereby a /receptive/ rather than /spontaneous/  condition 
+
+
+- While (1) is plausibly held by Kant’s opponents, (2) and (3) seem potentially question-begging
+   - Why should the Leibnizian (or compatibilist more generally) admit them?
+
+
+* Basing
+
+- The “basing” relation is a relation that exists between acts, states, etc. (i.e.
+  “conditions”) such that one is rationally “based” on the other
+   + What is the difference between “explained by” and “rationally based on”? 
+      - “reason why” vs “reason for which”\sidenote[][-.25in]{Davidson tried to explain the
+        difference between \emph{reasons that one has to act} (what are sometimes called
+        “possessed normative reasons”) and \emph{reasons for which one acts} (or what are
+        sometimes called “motivating reasons” or “operative reasons”) as a
+        difference consisting in the fact that the latter must be, but the former
+        need not be, reasons that cause one’s action. \ldots{} If we use the term
+        “explanation” to denote any adequate answer to Anscombe’s “Why?” question,
+        then we can state Davidson’s insight by saying that your \emph{reasons for which}
+        are always “explanatory” reasons, whether or not the relevant kind of
+        explanation is causal. An analogous point holds true of belief: a \emph{reason for
+        which} you believe is always a \emph{reason why} you believe. (Neta 2019, 181)}  
+- Varieties of RDC requiring basing
+   1. Conceptualization (one ‘mark’ on another)
+   2. Judgment (predicate on subject)
+   3. Doxastic attitudes (e.g. belief or knowledge on evidence/reasons)
+   4. Inference (conclusion on premises)
+      
+# - For Kant, these varieties of basing are all related because they are /interdependent/
+#    + Concepts depend on judgments for their expression\sidenote[][]{the understanding
+#      can make no other use of \ldots concepts than that of judging by means of
+#      them (A68/B93)}
+#    + Judgments depend on concepts for their constitution\sidenote[][]{The concepts in
+#      a judgement constitute its content (that which pertains to the cognition of the
+#      object)… (CJ §35 5:287; see also B146, B283; JL 9:101; LL 24:928)}
+#    + Attitudes depend on judgments for their object\sidenote[][]{See CPR Canon,
+#      A820-31/B848-59)}
+#    + Inference depends on judgment + attitude for its activity
+
+
+
+** Acquaintance, Cognition, Conceptualization
+
+- The core of Kant's conception of basing concerns the difference between
+  differentiation and recognition of the ground of such differentiation
+- Kant distinguishes different forms of "objective content" (/objective
+  Gehalt/)\footnote[][-1.25in]{In regard to the objective content of our cognition in
+  general, we may think the following degrees, in accordance with which cognition
+  can...be graded: The \textbf{first} degree of cognition is: to represent something;
+  The \textbf{second}: to represent something with consciousness, or to perceive
+  [\emph{wahrnehmen}] (\emph{percipere}); The \textbf{third}: to be acquainted with
+  something [\emph{etwas kennen}] (\emph{noscere}), or to represent something in
+  comparison with other things, both as to sameness and as to difference; The
+  \textbf{fourth}: to be acquainted with something with consciousness, i.e.~to
+  cognize [\emph{erkennen}] it (\emph{cognoscere}). Animals are acquainted with
+  objects too, but they do not cognize them. (\emph{Jäsche Logik} (1800) §X, 9:64-5;
+  cf.~\emph{Dohna-Wundlacken Logik} (c. 1792) 24:730-1; \emph{Wiener Logik} (1780)
+  24:846; \emph{Logik Blomberg} (c. 1771) 24:132-3, 134-5, 136)}\footnote[][]{Clarity
+  is not, as the logicians say, the consciousness of a representation...Rather a
+  representation is clear if the consciousness in it is sufficient for a
+  \textbf{consciousness of the difference} between it and others. \emph{To be sure,
+  if this consciousness suffices for a distinction, but not for a consciousness of
+  the difference, then the representation must still be called obscure}
+  [\emph{dunkel}]. So there are infinitely many degrees of consciousness down to its
+  vanishing. (B414-15; my italics)}
+   - Acquaintance with an object entails distinguishing that object from
+     others
+      - Representation of features that render an object different or
+        similar to others, though without awareness of the /ground/ of
+        that difference/similarity
+   - Cognition of an object entails representing /why or how/ that object
+     differs from others
+      - Cognition allows representation of the /ground/ of difference or
+        similarity---i.e. that /because of which/ an object is similar or
+        different
+      - Kant's "Mark" (/Mermal/) theory of concepts construes grasp of a
+        concept in terms of grasp of its content or the "grounds" of its
+        cognition\footnote[][.05in]{A mark is that in a thing
+        {[}\emph{Ding}{]} which makes up part of its cognition,or---what is
+        the same---a partial representation so far as it is considered as
+        ground of cognition {[}\emph{Erkenntnisgrund}{]} of the whole
+        representation (\emph{Jäsche Logik} Introduction §8;
+        9:58)}\footnote[][]{As one says of a \textbf{ground} in general that
+        it contains the \textbf{consequences} under itself, so can one also
+        say of the concept that as \textbf{ground of cognition} it contains
+        all those under itself from which it has been abstracted, e.g. the
+        concept of metal contains under itself gold, silver, copper, etc.
+        (\emph{Jäsche Logik} 9:96; emphasis in original)}
+      - Representation of ground /as such/ requires the generation of or transition
+        to a mental state /on the basis of/ the content of one's present or previous
+        state
+- \textsc{Question}: What is does it mean to say that consciousness "suffices for a
+  distinction, but not for a consciousness of the difference"? (see figure)
+    
+\begin{marginfigure}
+\includegraphics[width=\linewidth]{/Users/roambot/Dropbox/Work/projects/KantAnimals/color-predicate.jpg}
+\caption{Ishihara Color Test}
+\end{marginfigure}
+
+* Inference
+
+- Inference: :: the /mental/ /act/ of connecting one contentful mental condition with
+  another /because/ of your representing one as supporting the other
+
+- Kant’s position: Inference requires absolute spontaneity, and since thinking
+  requires the capacity for inference, if we are not absolutely spontaneous we are
+  not genuine /thinkers/
+
+** The Taking Argument
+
+- What is "taking"?
+   - Intentionalism: :: Condition A is based on B in virtue of the
+     representation that A is so based
+      - Prob_1: overintellectualizes taking?
+      - Prob_2: circular? 
+   - Dispositionalism :: Condition A is based on B in virtue of the subject's
+     disposition to A in virtue of B
+      - Prob: "blind" transitions
+   - Hybrid view: :: Condition A is based on B in virtue of a representation of the
+     relation between A and B, and in virtue of the disposition exercised in relating
+     A and B\sidenote[][]{The basing relation obtains between A’s reason R, on the
+     one hand, and A’s C’ing, on the other, when A exercises a disposition to C when
+     R by virtue of representing that very disposition-exercise in an
+     object-involving way under the category \emph{ex post justifying}. (Neta 2019,
+     211)}\sidenote[][]{{[}For Kant{]} what rational activity needs to exemplify is
+     \ldots{} the attentive control required to connect \emph{this} contentful state
+     or judgment with \emph{that} state or judgment. \ldots{} This account
+     incorporates elements of dispositionalism, but avoids the worry about ``blind''
+     action. For example, if a rational subject is challenged as to why she judged in
+     a particular way, and if her transition is one that makes sense to her, she
+     would thereby be disposed to cite the relevant ground or reason for her
+     judgment, whether or not she has the explicit concept of reason or ground. For
+     example, a subject who has sorted a group of red and blue objects by their
+     colors might cite those colors when queried as to why she sorted in the way that
+     she did. Such a reply indicates that the subject has a grasp of her reasons even
+     if she does not identify using such terms. Crucially though, the dispositions
+     are not bare; that the subject's rational activity is one of making sense of
+     things accounts for her various dispositions to respond in the way that she
+     does. (McLear, 16-17)}
+       
+  
+
+1. Conceptual representation constitutively depends on the exercise of one’s capacity
+   for inference—that is, the capacity for a particular kind of content-based connection of one mental state to another.
+2. Inference requires “taking” one state as the basis for the next.
+3. Taking is an act under the subject’s control.
+4. If the connection of one state to another is merely part of the “mechanism of
+   nature”—that is, it is wholly determined by temporally preceding causes–then it is
+   not under the subject’s control.
+5. $\therefore$ Mental connections due to the mechanism of nature are incompatible with the
+   subject’s engaging in inference—that is, inference requires transcendental
+   freedom/absolute spontaneity
+
+
+
++ What justifies (2)?
+   - Constitutive laws of the intellect (see below arg)
++ What justifies (3)?
+   - Inference satisfies 4 features of RDCs (i.e. active, agential, responsible,
+     deontic modal status)
+
+** The Constitutive Laws Argument
+
+1. The acts of a faculty are governed by its constitutive laws
+2. The laws governing the intellectual faculty (/der Verstand/;
+   /Intellectus/) are not those constituting the mechanism of nature
+3. If the ultimate ground of a transition from one mental state to
+   another is due to the mechanism of nature then it would not be a
+   transition determined by intellectual laws
+4. $\therefore$ If a mental transition is intellectual/rational---i.e. if it is to count as
+   /thinking/---it must be both lawful and independent of the mechanism of nature and
+   thus transcendentally free
+
+   
+- If this argument works it explains Kant’s “Taking” argument
+- If taking were not under the subject's control then an "alien" causality would be
+  at work, and the resulting mental activity or state could not thereby be
+  characterized as a case of thinking. The constitutive laws argument also helps us
+  understand why the imputability of an act is so closely linked to the causal
+  conditions of its production.\sidenote[][]{one cannot possibly think of a reason
+  that would consciously receive direction from any other quarter with respect to its
+  judgments, since the subject would then attribute the determination of his judgment
+  not to his reason but to an impulse. (/Groundwork III/, 4:448; see also CF 7:27)}
+
+\newpage
+
+
+** The Role of Self-Consciousness
+
+- \textsc{Question}: Why, and in what way does self-consciousness explain our ability to make
+  inferences (or for basing more generally)?
+
+   - A_1: It is the capacity whose exercise just /is/ the reflexive representation of
+     that very exercise in being 'committed' to the RDC in
+     question\sidenote[][]{\emph{For an agent A to C for reason R} involves A's
+     \emph{de se}, object-involving representation of a particular explanatory
+     relation between R, on the one hand, and her C'ing, on the other, and that
+     object-involving representation represents that same explanatory relation under
+     the category \emph{ex post justifying}. Such a representation may be conceptual
+     or nonconceptual, conscious or unconscious, accurate or inaccurate, and it may
+     involve many different specific contents or guises. (Neta 2019, 204)}
+   - A_2: It is the capacity to be aware of the condition as one's own that explains
+     how it could be part of an answer to a "why" question, and thus (be in a
+     position) be intelligible to the intellect\sidenote[][]{a reason, or in Kant’s
+     terms a “ground of cognition”, which is grasped as a reason (even if not
+     explicitly in those terms), is taken by the agent as the basis for her judging
+     in a particular way. But to do this the reasoner must be able to represent the
+     ground as her basis for engaging in the act of judgment that she does (e.g. “red
+     things are not blue” or “red things are extended”). Kant’s view is that it isn’t
+     enough for there to simply be particular kinds of logical or material
+     connections between the contents of one’s mental states. One must possess, and
+     exercise, the capacity to be aware of contentful states as one’s own if being in
+     such a state is to count as grasp of a reason for making one kind of mental
+     connection as opposed to another. (McLear, 28)}
+
+
+# {if a rational subject is challenged as to
+#      why she judged in a particular way, and if her transition is one that makes
+#      sense to her, she would thereby be disposed to cite the relevant ground or
+#      reason for her judgment, whether or not she has the explicit concept of reason
+#      or ground. For example, a subject who has sorted a group of red and blue objects
+#      by their colors might cite those colors when queried as to why she sorted in the
+#      way that she did. Such a reply indicates that the subject has a grasp of her
+#      reasons even if she does not identify using such terms. Crucially though, the
+#      dispositions are not bare; that the subject’s rational activity is one of making
+#      sense of things accounts for her various dispositions to respond in the way that
+#      she does.}
+
+- \textsc{Question}: In what sense are A_1 and A_2 different?
+
+* References  & Further Reading
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
+
+#+nocite: @neta2013; @boghossian2003; @boghossian2014; @siegel2017-ch5; @kitcher2011; @pippin1987; @allison1996-ch8; @allison1996-ch9; @brewer1995; @sylvan2016a
+
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in} \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
+

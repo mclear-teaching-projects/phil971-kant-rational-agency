@@ -18,6 +18,8 @@ Neta, on the “basing relation”, has a variety of points of connection with K
 view. The second, by Paul Boghossian, is on the “taking condition” more generally as
 an account of inference.
 
+-   [Handout](/materials/handouts/4-kant-control-inference.pdf) for week 4
+
 
 ## Readings {#readings}
 

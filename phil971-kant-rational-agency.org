@@ -861,13 +861,13 @@ So, questions to consider include:
       - Kant’s discussion of reason as a faculty, focusing mostly on theoretical or
         ‘speculative’ reason
    + /Groundwork of the Metaphysics of Morals/: part I, 4:393-403 (in PP 49-57)
-      - Kant’s initial analysis of the concept of duty; discussion of the will and of
+      - Kant’s initial analysis of the concept of duty, discussion of the will, and of
         maxims of action
    + /Critique of Practical Reason/: 1.i.1-4; 5:19-28 (in PP 153-62)
-      - A discussion of practical laws, maxims, and principles; this recaps some of
+      - A discussion of practical laws, maxims, and principles – this recaps some of
         the material discussed in the /Groundwork/
    + /Metaphysics of Morals:/ §§II-III, 6:211-14, 6:221-28 (in PP 373-82)
-      - An overview of Kant’s moral psychology; note the clear difference between
+      - An overview of Kant’s moral psychology – note the clear difference between
         will and choice
 - Secondary readings (Optional):
    + Willaschek, /Kant on the Sources of Metaphysics/, [[/materials/readings/willaschek-reason.pdf][chs. 1-2]]

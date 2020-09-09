@@ -295,7 +295,219 @@ position is fully defensible is another story.
   interested in are beings capable of rationally structuring/shaping their lives in a way
   such that the choices they make in such structuring are imputable to them. So the
   whole discussion runs through the notion of imputation/authorship of action 
+** Week 4
+*** Reading Responses
+**** Chen
+#+begin_quote
+In the example of the Ishihara test for color blindness, it says that “one
+distinguishes between two objects not merely because one is sensitive to differences
+in color but because one recognizes that one is blue and the other red”(p.6). So I
+assume a case for a dog that the dog can distinguish two objects by their different
+odors. It seems that the basis for distinguishing the subject the dog takes the odor
+of the first object as a reason for it’s being different from the second object. So
+it’s not clear for me what’s the essential difference here.
+#+end_quote
 
+In discussion today we distinguished between four levels of sophistication:
+
+1. Mere differential discrimination (e.g. sorting red things from blue things)
+2. Differential discrimination + Recognition of some sort of difference (e.g. sorting
+   reds from blues because they are different, but not sure how they are different)
+3. Differential discrimination + Recognition of the *basis* of the difference (e.g.
+   sorting reds from blues, and representing the reds and blues as such) 
+4. Differential discrimination *because of* Recognition of the basis of the
+   difference (e.g. sorting the reds from blues because the reds are /red/ and the
+   blues are /blue/)
+
+Kant seems to allow that mere animals can do (1) and (2) but not (3) and (4). In his
+terms, they have acquaintance but not cognition of objects and their differences (or
+similarities). Rational beings such as humans can do (1)-(4) 
+
+#+begin_quote
+I know that there might be some higher things like reflection and apprehension
+(p.11), but what’s the specific manifestation of them in distinguishing objects by
+colors or odors? Kitcher denies that “cognizers must have the concept ‘mark’ or the
+concept ‘concept’ or the very abstract ‘representation’” (p.14), but McLear claims
+that “non-rational animals lack the freedom necessary to attend to the nature of the
+acts that in a rational being have particular features that are present in any
+(conceptual) representations that they might generate (i.e. the categories)” (p.18).
+#+end_quote
+
+I’m advocating a reading of Kant such that he doesn’t think that, in order to do (3)
+and (4) one needs intellectually demanding concepts such as <basing> or <operative
+reason>, or <mark>. But one does need to be able to engage in a particular kind of
+mental act, namely attending to one’s own mental activity and the way one of one’s
+conditions is connected to another. Kant seems to think (for reasons we can discuss
+next time if you like) that only a rational being can control their attention in this
+way. 
+
+#+begin_quote
+I tend to agree that a dog doesn’t have the concept “concept”, but doubt whether a
+dog have the concept “odor” or other concepts, even if such "concepts" might not be
+so mature and clear. (However, I feel my question needs more experiments of animals
+instead of philosophical arguments). Besides, I need more explanations and examples
+for Kant’s thinking that “any mental state whose ‘content’ can be something ‘for
+me’(rather than merely ‘in me’), must be something that I can characterize as
+(partly) constituting the character of that very point of view that I have”(p.16).
+Does this require that if a dog is a rational being, it should be aware of its
+actions, its control on its actions and the reason for its actions?
+#+end_quote
+
+In the second edition of the /Critique of Pure Reason/ Kant says that the “I think
+must be able to accompany all my representations; for otherwise something would be
+represented in me that absolutely could not be thought” (B131-2). There are many
+things one might say about this claim. But at the very least, it seems to express a
+basic commitment of Kant’s conception of a /thinker/ qua /rational being/. A rational
+being must be able to be aware (note, not that it is /always aware/) of what it
+thinks. I take this to mean more generally that anything that can be a /reason for
+which/ a rational agent has some condition, has to be something that is a constituent
+of that agent’s point of view, and thereby accessible in some way /to/ the agent.
+
+**** Eunhong
+#+begin_quote
+I would like to ask what the object-involving representation of the exercise of disposition is, and how we get the object-involving representation. This question could be unfair to Ram Neta, but I would like to know how the object-involving representation of the exercise of disposition is possible. Is it possible because of the adroitness of our internal structure to focus on that specific object? Or, is it possible because we have such a disposition that is related to that object?  
+#+end_quote
+
+I don’t want to speak for Ram, so one thing to do is follow-up with him. But maybe a
+couple of points are relevant. Ram defines an “object-involving” representation as a
+“representation that contains, and so is partly constituted by, the object that it
+represents” (Neta 2019, 201). He gets this notion, at least in part, from John
+McDowell and Gareth Evans’ idea of “de re sense”. There is a question as to whether
+there even could be such a kind of representation (i.e. whether object-involving
+representations in general are even possible). I take Ram to just be assuming for the
+sake of argument that they are possible (i.e. he’s not giving us any further argument
+for their existence). Now, one kind of object-involving representation there could be
+is a representation of /oneself/ – this is a /de se/ representation, in Ram’s terms. 
+
+Now, if we grant that de se object-involving representations are possible (and Ram
+just assumes that they are), Ram then asks us to consider a special type of de se
+object-involving representation, namely one that takes as its object (i.e. as a
+constituent of the representation) the exercise (or actualization) of a disposition
+of oneself. 
+
+Ram then gets even more specific. The object-involving de se representation isn’t
+just a representation of oneself, nor of the exercise of a disposition. Rather it is
+the representation of the exercise of one’s disposition to represent /that very
+exercise/. 
+
+Assuming that we grant the possibility of object-involving representations, the
+question is whether there is a place to reject Ram’s claim. Is it at the idea of a
+/de se/ object-involving representation? Or the idea of a de se representation of the
+exercise of a disposition? Or the idea of the /reflexive/ nature of the
+representation as representing the exercise of the disposition to represent that very
+exercise?  
+
+#+begin_quote
+Ram says if the agent has the capacity for first-person reflective access to her
+current representations, it will also be possible for her to enjoy such reflective
+access to the instances of the basing relation that obtain currently in her case.
+However, what’s the meaning of having first-person reflective access?
+#+end_quote
+
+It’s not totally clear to me what his answer to this is. He says that reflective
+access is access in “the same way as the other contents of her various thoughts and
+feelings are accessible to her” (Neta 2019, 202). So this seems to mean that one’s
+access to the basing relations between one’s conditions is similar to one’s access
+to, e.g., the content of what one is currently judging or thinking, the fact that one
+is hungry or sleepy, etc.
+
+**** Trevor
+#+begin_quote
+In Ram Neta’s work “The Basing Relation”, I don’t think I understand his challenge to
+Representationalism that he gives on pages 196-198. The idea is that Toshiro
+represents CNN as trustworthy on cases like the news story about Russia and Syria and
+so believes the report and that the report provides him justification (196). However,
+what caused his belief is this subliminal message which also causes an aphasia in him
+such that he cannot connect “his belief about the trustworthiness of CNN with his
+belief about the content of its broadcast to deduce any consequences from their
+conjunction” (197). For this reason, the representation supposedly cannot explain the
+belief. But why not? 
+
+First problem, the aphasia is “temporary but severe” so doesn’t the maintaining of
+the belief still fit the representationalist model (i.e. won’t the representation,
+even if it couldn’t explain it for a certain amount of time, eventually explain the
+belief, and thus we can write this off as a strange circumstance?). 
+#+end_quote
+
+Perhaps the idea is that we want to explain /this/ particular instance and not
+whether Toshiro’s post-aphsic condition will be well-based?
+
+#+begin_quote
+Second, somehow Toshiro cannot connect his justifying belief with his belief about
+the contents of the report, but then why does Neta say that “he also represents...CNN
+as a trustworthy news source in cases such as this, and so he believes that the CNN
+report provides him with justification...” (my emphasis) (196). It seems like if his
+belief about their reliability is the reasons he represents the content as such, then
+doesn’t it explain the belief?
+#+end_quote
+
+I’m not certain, but does this elide the difference between a reason why and a reason
+for which? Ram also says that the subliminal message “prevents [Toshiro] from putting
+together his belief about the trustworthiness of CNN with his belief about the
+content of its broadcast to deduce any consequences from their conjunction” (Neta
+2019, 197). So Toshiro has a mistaken view of the reason why he holds the belief.
+
+**** Janelle
+#+begin_quote
+The clarification question is the following: Why would this [viz. wit as a talent for
+applying rules to particulars] not be a solution to the [overintellectualization] worry?
+#+end_quote
+
+- I’m not entirely sure I’ve gotten the right read of your question. But my point
+  about Kant’s conception of ‘mother wit’ in applying rules is that it would seem to
+  go against a strong reading of the representationalist account of taking, where all
+  acts of taking are construed as involving an explicit representation of a rule. 
+
+- The worry about circularity is different. Suppose the representationalist says that
+  we need to explain what an inference is (as opposed to mere association or a mental
+  hiccup, etc.) by means of appeal to “taking”. But what /is/ taking? The
+  representationalist owes us an answer. It would thus be bad if, in giving their
+  answer, the representationalist says “OK - in taking A as based on B, you represent
+  a rule (e.g. Ax->Bx), the satisfaction of the antecedent of that rule (e.g. Ax),
+  and then /infer/ that Bx.” Here it seems you’d be defining inference by appeal to
+  taking and then taking by appeal to inference. And it seems even worse if you have
+  to appeal to taking itself in giving the definition (i.e. in taking A as based on B,
+  you represent a rule (e.g. Ax->Bx), the satisfaction of the antecedent of that rule
+  (e.g. Ax), and then /taking/ that Bx). The representationalist thus seems stuck
+  with a real worry about vicious circularity. 
+
+**** John
+1. In your paper, you discuss the three points which show human person’s conceptual
+   representation is different from that of non-rational beings. The first mark is
+   seen in page 8. The third is right in the middle of page 9. Number 2 is not that
+   explicit. My suspicion is that it is in the paragraph which figures in both pages
+   8 and 9. But for the sake of clarity, may I seek for an explicit formulation of
+   the second mark as conceived?
+
+    + I think I formulate it this way: “a second feature of conceptual
+      representation—viz. its ultimate unification in a “highest concept” (conceptus summus).” (p. 9)
+
+2. In footnote 22, you seem to imply that we cannot say that all thinking is of an inherently objective type; for it “forecloses the possibility of there being an objective form of non-rational representation”. Can you give an example of this of a non-rational representation which is essentially bereft of any object? (Another mention of this is on page 13 (on the number four), but this has an object – which is number 4, however conceptually construed).
+
+    - Consider experiences such as "brain gray" and the pink glow that you have when
+      your eyes are closed. These seem to be cases in which there is something
+      represented (though perhaps not /thought/) but it isn’t represented as an
+      object—i.e. as a thing with a property. Instead there is just /grayness/ or
+      /pinkness/ (however one’s description of this experience goes.
+
+3. Something struck me as “seemingly the usual case” for explaining why S did what she did, or, in the case of making inference, why S made the “rational transition” that she did (I am in page 16 now) – it seems the analysis is always retrospective. In other words, what we think of as “conceptually demanding” an attentive control seems to be a judgement that we make towards S who has, already in the past, did the inferential transition (page 16). I understand that even Anscombe’s “Why” test has to be employed when an act has already been done or executed, ergo, settled in the past (We read G.E. Anscombe’s Intention lately, apologies for the import). I guess this is not a question but an implicit resignation on the metaphysical limit of our inquiry. Evaluation will always be retrospective. We will always be limited by how much, or how reliable our access is to S’s epistemic goings-on. 
+
+    - We discussed this in class, but I take it that we should ask why evaluation will
+      always be retrospective? Don’t we often do things with an aim in mind, and so full
+      knowledge of what we are doing?
+
+4. In page 17, you claim that dispositions are not the ground but are consequences of mental activity. Here is my difficulty: Suppose we have S who is the subject matter of our inquiry. We asked her: “Hey, why did you think that we would not have a quiz on Friday when the syllabus says we have?” S will of course give us her inferential reasons for saying so – she will cite the accessible pieces of information which, individually and collectively, were causally relevant to the coming to be of her judgement that there will be no quiz on Friday. Let us say that she was wrong in inferring that there would be no quiz that Friday. But then, upon analysis, we realize that her interpretation of the said pieces of information, say information a, b, c, d, were, to some degree, informed by the disposition to believe that there will be no quiz. After all, our judgements can sometimes be influenced by the dispositions that we have on particular subject matters; so perhaps, S simply looked into the pieces of information under the lenses of her disposition to believe (or deny?) that there is a quiz that Friday. Might this be an instance in which disposition towards a, b, d, and d act as the ground for rational activity rather than a consequence.
+
+    - My main point is that the disposition isn’t simply a brute fact about the agent,
+      but is, or is connected to, her capacity for rationality as such
+
+5. In page 18, you claim that for Kant, one has to be “aware of the contentful states as one’s own” because it is “necessary for engaging in reasoning”. Is this awareness the “occurrent” type in our modern philosophical parlance? I was just wondering if it would render me somewhat irrational, if I were measured against Kant’s notion of awareness, in the many times when I had to turn left to South Street without an explicit “taking” of my mental state, or almost absent-mindedly,  each  time I had to drive towards home (because it has become so automatic there are times when I just get to realize that I am already home).   
+
+    - No – here there is a "making sense" that doesn’t require explicit reflection. These
+      aspects of one’s experience show up in one’s point of view, but one doesn’t need to
+      explcitly go through a sort of meta-cognitive act of reflection on them to
+      rationally respond to them. Kant says only that the “I think” must /be able/ to
+      accompany my thoughts, not that it /always must/ accompany them. 
 
 * Website
 ** Pages
@@ -610,8 +822,66 @@ an account of inference.
 - Boghossian (Optional), “[[/materials/readings/boghossian-inference.pdf][What is Inference?]]”  
 
   
-*** TODO Week 5 - Reason & Principles
+*** DONE Week 5 - Reason & Principles
 SCHEDULED: <2020-09-15 Tue>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: action agency inference laws principles reasoning 
+:EXPORT_FILE_NAME: week5
+:END:
+
+This week we continue our discussion of Kant’s conception of basing and inference. In
+particular I want us to try and get clear on the sense in which Kant distinguishes
+two different kinds of inferential activity. The first, “immediate” inference, is
+carried out by the understanding. The second, “mediate” inference, is carried out by
+the faculty of reason (here as a subfaculty, and not a synonym for the intellect as a
+whole). What, if anything, is the difference between these two kinds of activity?
+Assuming there is something distinctive about the activity of reason as such, what is
+it? And can answering this question help us understand another enormously puzzling
+claim that Kant makes:
+
+#+begin_quote
+Only a rational being has the capacity to act /in accordance with the representation
+of laws/, that is, in accordance with principles, or has a /will/. Since reason is
+required for the derivation of actions from laws, the will is nothing other than
+practical reason. (GII, 4:412)
+#+end_quote
+
+So, questions to consider include:
+
+1. What is the difference between mediate and immediate inference?
+2. If every faculty has a distinctive kind of activity, what is the distinctive
+   activity of (the subfaculty of) reason?
+3. What does Kant mean by saying that reason is required for the derivation of action
+   from laws? Is this connected to its distinctive function?
+4. What is a principle? Is it the representation of a law?
+   
+**** Readings
+- Kant 
+   + /Critique of Pure Reason/: [[/materials/readings/kant-pure-reason.pdf][On Pure Reason]] A298-309/B355-366
+      - Kant’s discussion of reason as a faculty, focusing mostly on theoretical or
+        ‘speculative’ reason
+   + /Groundwork of the Metaphysics of Morals/: part I, 4:393-403 (in PP 49-57)
+      - Kant’s initial analysis of the concept of duty; discussion of the will and of
+        maxims of action
+   + /Critique of Practical Reason/: 1.i.1-4; 5:19-28 (in PP 153-62)
+      - A discussion of practical laws, maxims, and principles; this recaps some of
+        the material discussed in the /Groundwork/
+   + /Metaphysics of Morals:/ §§II-III, 6:211-14, 6:221-28 (in PP 373-82)
+      - An overview of Kant’s moral psychology; note the clear difference between
+        will and choice
+- Secondary readings (Optional):
+   + Willaschek, /Kant on the Sources of Metaphysics/, [[/materials/readings/willaschek-reason.pdf][chs. 1-2]]
+      - Overview of Kant’s conception of reason in the first /Critique/
+   + Grier, "[[/materials/readings/grier-reason.pdf][Transcendental Illusion]]"
+      - Overview of Kant on reason; particularly of interest to us is the discussion
+        of reason in the second section, “Reason as the Seat of Transcendental Illusion”
+   + Engstrom, “[[/materials/readings/engstrom-reason.pdf][Reason, Desire, and the Will]]”
+      - Discussion of Kant’s conception of reason, desire, and will
+   + Johnson, “[[/materials/readings/johnson-causalwill.pdf][The Moral Law as Causal Law]]” 
+      - Discussion of the sense in which the moral law is universal; Johnson’s claim
+        is that it’s universality stems from the fact that it is a form of causality,
+        and all causality is lawful
+
 
 *** TODO Week 6 - A Compatibilist Kant?
 SCHEDULED: <2020-09-22 Tue>

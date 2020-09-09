@@ -57,7 +57,7 @@ So, questions to consider include:
             of reason in the second section, “Reason as the Seat of Transcendental Illusion”
     -   Engstrom, “[Reason, Desire, and the Will](/materials/readings/engstrom-reason.pdf)”
         -   Discussion of Kant’s conception of reason, desire, and will
-    -   Johnson, “[The Moral Law as Causal Law](/materials/readings/johnson-causalwill.pdf)”
+    -   Johnson, “[The Moral Law as Causal Law](/materials/readings/johnson-causal-will.pdf)”
         -   Discussion of the sense in which the moral law is universal; Johnson’s claim
             is that it’s universality stems from the fact that it is a form of causality,
             and all causality is lawful

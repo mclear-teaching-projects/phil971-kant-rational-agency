@@ -855,6 +855,9 @@ So, questions to consider include:
    from laws? Is this connected to its distinctive function?
 4. What is a principle? Is it the representation of a law?
    
+
+- [[/materials/handouts/5-kant-principles.pdf][Handout]] for week 5
+   
 **** Readings
 - Kant 
    + /Critique of Pure Reason/: [[/materials/readings/kant-pure-reason.pdf][On Pure Reason]] A298-309/B355-366

@@ -33,6 +33,10 @@ So, questions to consider include:
     from laws? Is this connected to its distinctive function?
 4.  What is a principle? Is it the representation of a law?
 
+<!--listend-->
+
+-   [Handout](/materials/handouts/5-kant-principles.pdf) for week 5
+
 
 ## Readings {#readings}
 

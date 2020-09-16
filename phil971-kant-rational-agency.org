@@ -509,6 +509,182 @@ applying rules to particulars] not be a solution to the [overintellectualization
       rationally respond to them. Kant says only that the “I think” must /be able/ to
       accompany my thoughts, not that it /always must/ accompany them. 
 
+      
+** Week 5
+*** Reading Responses
+**** Chen
+#+begin_quote
+Kant takes it for granted that not lying is a universal law under any circumstance. However, many others might will that lying is allowed only if it protects others’ lives. Does Kant set other conditions to check whether a maxim can become a universal law? For me, it seems that Kant directly jump from his maxim to the universal law based on his own “moral intuition"
+#+end_quote
+
+Kant's view of lying is certainly controversial but I think we can see why he held
+it. Recall that in our discussion today I portrayed practical reasoning as an
+activity of "reasoning" from the conditions of something's being actual, to its
+actuality. Practical reasoning is thus a sort of "productive thinking". I suggested
+that we understand Kant as being somewhat equivocal as to whether productive thinking
+is always successful in bringing about the desired object/state of affairs, since
+there may be circumstances beyond a subject's control that undermine their attempt to
+bring about what is desired. But Kant also thinks there are two ways practical
+reasoning can go awry, besides that its outcome is frustrated by conditions beyond
+the agent's control, and these two ways give us some insight into why he thinks lying
+is wrong.
+
+The first way of going astray in reasoning (practical or not) is by trying to judge
+something involving two opposing concepts (e.g. P and \neg P). This is what Kant calls a
+"contradiction in conception" (4:423). Kant claims that his first two case studies
+(of suicide and false promising) in the /Groundwork/ are cases of contradiction in the
+/conception/ of the maxim (or subjective principle) of action. The second way of going
+astray is trying to will something in an in an incoherent way. This is a
+"contradiction in willing" (i.e. a form of incoherence in the productive activity of
+thinking that is characteristic of practical reasoning) and is supposed to be
+instanced by the third and fourth case studies (i.e. of "rusting talents" and
+beneficence). There has been a /great deal/ of discussion as to how we should
+understand the notion of "contradiction" as it plays out in these two cases. Kant
+seems to think that duty to truth is a duty whose violation would involve a
+contradiction in /conception/ (e.g. 6:431). In the /Metaphysics of Morals/ he gives this
+characterization of the contradiction:
+
+#+begin_quote
+But communication of one's thoughts to someone through words that yet (intentionally)
+contain the contrary of what the speaker thinks on the subject is an end that is
+directly opposed to the natural purposiveness of the speaker's capacity to
+communicate his thoughts, and is thus a renunciation by the speaker of his
+personality, and such a speaker is a mere deceptive appearance of a man, not a man
+himself. (6:429)
+#+end_quote
+
+The relevant contradiction seems to be in the concept of the purpose of
+communication. In asserting something (as one does in lying) there is a communicative
+intention to say what is the case. But in lying one is making an assertion with the
+intentionally opposed aim (i.e. one intends to communicate what is not the case).
+Thus Kant considers any maxim concerned with the goodness of lying fails to be
+universal or necessary because it fails to make a conceptually coherent claim. Of
+course, whether Kant is right about this is an entirely different issue. It does,
+however, serve to insulate him from the charge that he is appealing to just another
+moral intuition. He may be wrong in his position about lying, or his argument for
+that position may not be convincing. But he is not simply appealing to our rational
+insight concerning the badness of lying. 
+
+You also ask:
+
+#+begin_quote
+For those who agree that lying is allowed only if it protects others’ lives, this is not out of their personal interests. Should we deem them as irrational beings according to their different “moral intuition”? Or shall we say that they have a tendency of sympathy which influences their moral judgment?
+#+end_quote
+
+It may well be true that people who lie may be doing so on the basis of
+considerations that are entirely "other-regarding", in the sense that they are based
+entirely on what will bring good consequences for others. However, such good
+consequences would not change what is considered a contradiction in one's conception
+of what to do.  
+**** Trevor
+
+The Kant quote you start from is:
+
+#+begin_quote
+All material practical principles as such are, without exception, of one and the same kind and come under the general principle of self-love or one’s own happiness” (Theorem 2 at 5:22)
+#+end_quote
+
+I think the following is a way of paraphrasing your question (let me know if not):
+
+- Does Kant's prohibition against material principles in moral action indicate his
+  holding a source incompatibilist position?
+
+I think that the short answer is "yes", though not for the reason you suggest, which
+is that a rational person would not act against the principle of her own happiness. I
+think Kant's position is rather that a rational person would not act against the
+principle of her own happiness, unless that principle contravenes the moral law. In
+such a case she /should/ act against what will make her happy, though perhaps she won't
+since she isn't fully rational. But I take it that the point of your example is to
+emphasize that in evaluating the moral status of the act of the mother with regard to
+her child, the issue isn't whether she could do otherwise, but the nature of her
+motive to act (i.e. the nature of the principle of her practical activity). And that
+of course is a source (in)compatibilist rather than leeway(in)compatibilist position. 
+**** John
+#+begin_quote
+In approaching the question of happiness, I can sense that Kant seems to want to insulate it from the contingent influences of feelings and impulses; for in doing so he would be able to posit a conception of happiness that is pursued on the grounds of objective law respected, as it were, by the will (Willie – the principle of freewill). The former is marred by empirical influences; the latter thus seems safeguarded. If this reading is correct, the resulting framework becomes obvious – happiness (and the correlative notion of self-love?), because it is extirpated from subjective impulses, follows an objective principle and thus must be pursued without regard for self-serving motives.
+
+... might not the empirical-theoretical distinction Kant wants to establish for happiness end up becoming hair-splitting exercise? I understand Kant’s motive. I agree with his distinction of the empirical and the theoretical, especially in light of the desire to protect happiness from creeping selfish desires. But there are types of happiness for which aversion from suffering, which is both and at the same time sensible and conceptual, seems an integral part. I am wondering if Kant ever considered that there are empirically based conditions – like human suffering – which are at the same time conceptually construable as necessitating some objective maxims.
+#+end_quote
+
+I think this rests on a (itself entirely understandable) misunderstanding of Kant's
+view. He sees happiness and the moral as at best /contingently/ aligned (or opposed).
+To pursue happiness is to structure one's practical reasoning on the basis of
+principles (i.e. represented laws) concerning the agreeableness of some expected
+pleasure. Kant is unconcerned with whether this agreeableness is sensory or
+conceptual, and so in that sense is not concerned with the higher/lower distinction
+(see CPrR 5:23-4).
+
+Kant considers moral motivation to consist in the activity of practically reasoning
+to some conclusion (i.e. the actualization of some object or state of affairs)
+without regard to the agreeableness of that activity or the pleasure in its result.
+This is not to deny that rational or moral actions can be pleasurable (quite the
+contrary), but they cannot be done for the sake of the pleasure they produce. So
+learning about the suffering of others (or of oneself) may be the basis for acting
+morally, but only if one then acts on rational grounds rather than grounds of pleasure
+(e.g. because one takes pleasure in seeing suffering alleviated). 
+**** Eunhong
+I think we addressed Eunhong's questions in class (though let me know if otherwise!),
+but to summarize, Kant considers reason to be a distinct faculty from understanding,
+at least in part because the concepts reason generates ("ideas") are generated via a
+different form of activity---viz. inference rather than reflection. And we talked
+about what "prior to experience" might mean with respect to the a priori. It doesn't
+mean (or needn't anyway), "independent of any experiential content", as we can of
+course reason about the implications of some empirical judgment. Nor does it mean
+"temporally prior to experience" since we cannot reason about anything before we have
+started to have sensory experiences. It rather means reasoning "from ground to
+consequence", so that a priori knowledge is knowledge of thing from its ground or
+sufficient condition. We have a priori knowledge concerning the empirical world
+because our faculties are the sufficient ground of that knowledge.
+**** Janelle
+I take it you had two questions:
+
+1. Can one make the case that it is possible for the sociopath to be a moral exemplar? 
+2. To what extent does Kant think we should consider consequences in determining
+   whether to (rationally) act one way rather than another? 
+   
+
+Concerning (1) the issue is whether the sociopath can act out of respect for the
+moral law. Since one can mean a lot of different things by "sociopath" it seems to be
+just unclear what the answer is. If the sociopath can act in a way such that their
+practical reasoning is shaped by the representation (in a principle) of reason's
+law as such and not because of some pleasure then yes, and if not, then no.
+
+Concerning (2) It's fine if (expected) consequences play a role in one's practical
+reasoning (indeed, this is essential to prudential reasoning as to what to do to
+achieve one's ends). That firing the gun will result in the death of the child is a
+factor in determining whether it is morally ok to fire the gun. What is not a morally
+relevant factor, and what undermines the moral status of the action, is if one's
+practical reasoning is based on/in the agreeable or pleasurable nature of the action or
+its consequences. Here's Kant being pretty explicit about this:
+
+#+begin_quote
+If the determination of his will rests on the feeling of agreeableness or
+disagreeableness that he expects from some cause, it is all the same to him by what
+kind of representation he is affected. The only thing that concerns him, in order to
+decide upon a choice, is how intense, how long, how easily acquired, and how often
+repeated this agreeableness is. (5:23)
+
+The principle of one’s own happiness, however much understanding and reason may be
+used in it, still contains no determining ground for the will other than such as is
+suitable to the lower faculty of desire; and thus either there is no higher faculty
+of desire at all or else pure reason must be practical of itself and alone, that is,
+it must be able to determine the will by the mere form of a practical rule without
+presupposing any feeling and hence without any representation of the agreeable or
+disagreeable as the matter of the faculty of desire, which is always an empirical
+condition of principles. Then only, insofar as reason of itself (not in the
+service of the inclinations) determines the will, is reason a true higher faculty of
+desire, to which the pathologically determinable is subordinate, and then only is
+reason really, and indeed specifically, distinct from the latter, so that even the
+least admixture of the latter’s impulses infringes upon its strength and superiority,
+just as anything at all empirical as a condition in a mathematical demonstration
+degrades and destroys its dignity and force. In a practical law reason determines the
+will immediately, not by means of an intervening feeling of pleasure or displeasure,
+not even in this law; and that it can as pure reason be practical is what alone makes
+it possible for it to be lawgiving. (5:24-5)
+#+end_quote
+
+   
+
 * Website
 ** Pages
 :PROPERTIES:

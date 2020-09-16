@@ -25,7 +25,7 @@ developed by Christine Korsgaard.
         -   Read the whole thing, but focus on the argument starting from the first full
             paragraph on 8:13 to the end.
 -   Korsgaard,
-    -   "[Morality as Freedom](/materials/readings/kosgaard-freedom.pdf)"
+    -   "[Morality as Freedom](/materials/readings/korsgaard-freedom.pdf)"
     -   "[Creating the Kingdom of Ends](/materials/readings/korsgaard-kingdom.pdf)"
 -   Other secondary readings (Optional):
 

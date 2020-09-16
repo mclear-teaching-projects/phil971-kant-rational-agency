@@ -1084,7 +1084,7 @@ developed by Christine Korsgaard.
       - Read the whole thing, but focus on the argument starting from the first full
         paragraph on 8:13 to the end. 
 - Korsgaard,
-   + "[[/materials/readings/kosgaard-freedom.pdf][Morality as Freedom]]"
+   + "[[/materials/readings/korsgaard-freedom.pdf][Morality as Freedom]]"
    + "[[/materials/readings/korsgaard-kingdom.pdf][Creating the Kingdom of Ends]]"
 - Other secondary readings (Optional):
    - Ameriks, "[[/materials/readings/ameriks-kant-hegel.pdf][Kant and Hegel on Freedom]]"

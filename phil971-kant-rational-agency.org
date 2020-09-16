@@ -886,8 +886,52 @@ So, questions to consider include:
         and all causality is lawful
 
 
-*** TODO Week 6 - A Compatibilist Kant?
+*** DONE Week 6 - A Compatibilist Kant?
 SCHEDULED: <2020-09-22 Tue>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: action agency compatibilism laws principles reasoning 
+:EXPORT_FILE_NAME: week6
+:END:
+
+This week we conclude (at least for the time being) our discussion of Kant on reason
+and principles. We then look at the sense in which Kant's source incompatibilism and
+its attendant metaphysics might be understood to be an optional or non-essential part
+of his overall view concerning rational agency, particularly as that view is
+developed by Christine Korsgaard.
+
+**** Readings
+
+- Kant:
+   + /Groundwork of the Metaphysics of Morals/: part II, 4:440-45 (PP 89-93); part III,
+     4:446-53 (PP 94-100)
+   + /[[/materials/readings/kant-review-schulz.pdf][Review of Schultz]]/
+      - Read the whole thing, but focus on the argument starting from the first full
+        paragraph on 8:13 to the end. 
+- Korsgaard,
+   + "[[/materials/readings/kosgaard-freedom.pdf][Morality as Freedom]]"
+   + "[[/materials/readings/korsgaard-kingdom.pdf][Creating the Kingdom of Ends]]"
+- Other secondary readings (Optional):
+   - Ameriks, "[[/materials/readings/ameriks-kant-hegel.pdf][Kant and Hegel on Freedom]]"
+      + Don't worry about the discussion of Hegel, but Ameriks lays out a case for
+        thinking that Kant's incompatbilism is purely optional
+   - Kohl, "[[/materials/readings/kohl-determinism.pdf][Kant on Determinism and the Categorical Imperative]]"
+      - Aims to show how compatibilist readings of Kant are mistaken, and that Kant
+        has sound philosophical grounds for advocating his version of incompatibilism
+   # - Kohl, "Kant on Idealism, Freedom, and Standpoints"
+   #    + Tries to reconcile elements of metaphysical (incompatibilist) and non-metaphysical (compatibilist) readings of Kant
+   - Velleman, "[[/materials/readings/velleman-intro-ethics.pdf][A Brief Introduction to Kantian Ethics]]"
+      + Very clear and accessable introduction to a broadly "non-metaphysical" and compatibilist
+        conception of Kant's position; see especially the section "The Idea of Freedom"
+   - Vilhauer, "[[/materials/readings/vilhauer-incompatibilism.pdf][Incompatibilism and Ontological Priority in Kant's Theory of Free Will]]"
+      + A case for why Kant has to be an incompatibilist and how his metaphysics
+        supports this
+   - Vaida, "[[/materials/readings/vaida-agency.pdf][The Problem of Agency and the Problem of Accountability in Kant’s Moral Philosophy]]"
+      + Discusses the role of the conception of freedom in Kant's account of rational
+        agency and argues that it plays a role only with respect to moral agency, not
+        rationality generally
+     
+
+
 
 *** TODO Week 7 - ’Mesh’ Theories of Rationality
 SCHEDULED: <2020-09-29 Tue>

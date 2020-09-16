@@ -1,0 +1,387 @@
+#+STARTUP: fnadjust
+#+TITLE: Reason, Inference, & Principles
+#+DATE: Sept 15, 2020
+#+AUTHOR: Colin McLear | PHIL 971
+#+EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil971-kant-rational-agency/static/materials/handouts/5-kant-principles.pdf
+#+pandoc-emphasis-pre: "-\t ('\"{["
+#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]" 
+#+PANDOC_METADATA: numbersections:t secnumdepth:2 
+#+PANDOC_METADATA: "lfoot:PHIL 971 | Sept 8, 2020"
+#+PANDOC_METADATA: "lhead:Reason, Inference, & Principles"
+#+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufte.tex
+#+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
+#+PANDOC_EXTENSIONS: org+raw_tex
+#+EXCLUDE_TAGS: noexport notes scrap todo
+#+LANGUAGE: en
+#+OPTIONS: ':t
+#+OPTIONS: prop:t
+
+* Basing & Inference 
+
+- Basing relation: :: a relation that exists between acts, states, etc. (i.e.
+  “conditions”) such that one is rationally “based” on the other
+- Inference: :: the /mental/ /act/ of connecting one contentful mental condition with
+  another /because/ of your representing one as "supporting" (in some sense) the other
+
+- Kant’s view of basing is /causal/ and connected to /consciousness/; it is by virtue of
+  one’s consciousness of the rational relation between conditions that one /makes it
+  the case/ that they stand in that relation
+- Rational basing consists in the representation (or consciousness) of the act of
+  basing /in that very act of representation/, such that the act of basing and the
+  representation of it (or consciousness of it) are the same act\sidenote[][]{To
+  reflect {[}\emph{Reflectiren}{]} (to consider) {[}(Überlegen){]}, however, is to
+  compare and to hold together given representations either with others or with one's
+  faculty of cognition, in relation to a concept thereby made possible. (CPJ 20:211;
+  cf. A262/B318)}\sidenote[][]{{[}the{]} inner activity, (spontaneity), by means of
+  which a concept (a thought) becomes possible, {[}is{]} reflection
+  {[}\emph{Reflexion}{]} (An §4 On self-observation, 7:135, note)}
+
+** Two Kinds of Inference
+
+- Kant distinguishes between different kinds of inference, only one of which is
+  within the ambit of reason proper\sidenote[][]{An \textbf{immediate} inference
+  (\emph{consequentia immediata}) is the derivation (\emph{deductio}) of one judgment
+  from the other without a mediating judgment (\emph{judicium intermedium}). An
+  inference is \textbf{mediate} if, besides the concept that a judgment contains in
+  itself, one needs still others in order to derive a cognition from it. (JL 9:114)}
+   + Immediate inference: :: The (formal) derivation of one judgment from another
+     without any intermediary; an "inference of understanding"
+      - All men are mortal $\therefore$ Some men are mortal
+   + Mediate inference: :: The (material) derivation of one judgment from another via
+     an intermediary judgment; an "inference of reason"\sidenote[][]{An inference of
+     reason is the cognition of the necessity of a proposition through the
+     subsumption of its condition under a given universal rule. (JL
+     9:120)}\sidenote[][]{What stands under the condition of a rule also stands under
+     the rule itself. (JL 9:120)}
+      - All men are mortal, Socrates is a man, $\therefore$ Socrates is mortal
+     
+
+** Reason & Mediate Inference (Reasoning)
+
+- \textsc{Question:} What are the distinctive features of reasoning (as opposed to
+  inference more generally)?
+  
+  
+1. Reasoning involves a /material/ derivation (or connection) of one judgment from
+   another, and not merely a /formal/ derivation\sidenote[][]{The essential character
+   of all immediate inferences and the principle of their possibility consists simply
+   in an alteration of the \emph{mere form} of judgments, while the \emph{matter} of
+   the judgments, the subject and predicate, remains \emph{unaltered}, \emph{the
+   same}. (JL 9:115)}
+2. The material derivation of one judgment from another is in virtue of one judgment's
+   being the "condition" of the other
+    - Q: What is a "condition"? 
+       - That which, if posited, is /sufficient/ for the existence/properties of the conditioned
+3. In reasoning, the "comprehension" (/Begreifen/) of a thing through its conditions is
+   accomplished\sidenote[][]{\emph{to comprehend} something (\emph{comprehendere}),
+   i.e., to cognize something through reason or a priori to the degree that is
+   sufficient for our purpose. For all our comprehension is only \emph{relative},
+   i.e., sufficient for a certain purpose; we do not comprehend anything
+   \emph{without qualification}. (JL 9:65)}
+    - The product of reasoning is knowledge of a necessary truth (i.e. of the necessity
+      of the conditioned by its conditions)
+    - The conditioning relationship grasped in or through reasoning is (or is taken to
+      be) the very same kind of conditioning relation as what is reasoned about  
+4. All reasoning is either reasoning /from/ or reasoning /to/ "principles"
+    - A principle is a "universal proposition"\sidenote[][]{since every universal
+      cognition can serve as the major premise in a syllogism, and since the
+      understanding yields such universal propositions a priori, these propositions
+      can, in respect of their possible use, be called principles (A300/B357)}
+       + Two kinds of principles: "absolute" vs. "comparative"\sidenote[][]{Thus the
+         understanding cannot yield synthetic cognitions from concepts at all, and it
+         is properly these that I call principles absolutely; nevertheless, all
+         universal propositions in general can be called principles comparatively.
+         (A301/B358)}
+          - Theoretical reason cannot obtain synthetic cognition from concepts at
+            all; it may only obtain cognition from comparative principles---i.e.
+            those principles that provide cognition relative to some further
+            principle or body of cognitions
+          - Practical reason /can/ provide synthetic cognition from principles,
+            insofar as Kant thinks that our knowledge of the moral law is synthetic a
+            priori knowledge 
+       + Q: Why does Kant say that a principle is a "representation of a
+         law"?\sidenote[][]{Everything in nature works in accordance with laws. Only a
+         rational being has the capacity to act in accordance with the representation
+         of laws, that is, in accordance with principles (GUI, 4:42)}
+          - Laws are /universal/ (i.e. if they hold anywhere they hold everywhere) and laws are /necessary/ (i.e. if something is subject to a law then it is subject to it by virtue of its nature)
+          - The representation of a law is accomplished through a judgment that has the
+            form of universality and necessity
+          - A "principle" is a judgment that represents a law, and thus has the form
+            of universality and necessity 
+    - So all reasoning either ascends from some actuality to its principle or
+      condition, or descends from some condition to that actuality of which it is the
+      condition
+            
+
+* Acting from Principles: Theoretical Reasoning
+
+1. All men are mortal 
+2. Caius is a man 
+3. $\therefore$ Caius is mortal 
+
+
+- Theoretical reason can either ascend, through a chain of "prosyllogisms" to the
+  unconditioned condition of all cognitions in the chain, or it can descend, through
+  a series of "episyllogisms", to the to particular determinate
+  actuality\sidenote[][-.75in]{In the series of composite inferences one can infer in
+  two ways, either from the grounds down to the consequences, or from the
+  consequences up to the grounds. The first occurs through \emph{episyllogisms}, the
+  other through \emph{prosyllogisms}. An episyllogism is that inference, namely, in
+  the series of inferences, whose premise becomes the conclusion of a
+  \emph{prosyllogism}, hence of an inference that has the premises of the former as
+  conclusion. (JL 9:134)}
+
+** Theoretical vs Practical Reasoning
+
+- \textsc{Question}: What distinguishes theoretical (or "speculative") reasoning from
+  practical reasoning?
+   + Theoretical reasoning is not, while practical reasoning is, productive of its
+     "object" (in the broadest sense of that term)\sidenote[][]{{[}the faculty of
+     desire is{]} the faculty of the soul for becoming the cause of the actuality of
+     the object through the representation of the object itself (29:1012; see also
+     An 7:251; 6:211, 399; 29:894, 1024; 25:577, 1109, 1514)}
+      - However, in theoretical reasoning the reasoner is nevertheless productive of the
+        /judgments/ and their relation to one another, though not productive of the /objects/ 
+        of these judgments (e.g. in reasoning about Caius, one's reasoning does not make
+        it the case that he is mortal)
+   + It isn't clear that practical reasoning ascends or descends through a chain of
+     reasoning in the manner that theoretical reason does (i.e. via the second or
+     minor premise)
+
+* Acting from Principles: Practical Reasoning
+
+1. Let no insult pass unavenged\sidenote[][]{someone can make it his maxim to let no
+   insult pass unavenged and yet at the same time see that this is no practical law
+   but only his maxim – that, on the contrary, as being in one and the same maxim a
+   rule for the will of every rational being it could not harmonize with itself.
+   (CPrR 5:19)}
+2. I have been insulted (or perhaps: To avenge my insult do /this/)
+3. $\therefore$ ??? 
+
+
+- It isn't immediately clear what should go in the conclusion of a practical
+  inference\sidenote[][]{reason is concerned with the determining grounds of the
+  will, which is a faculty either of producing objects corresponding to
+  representations or of determining itself to effect such objects (whether the
+  physical power is sufficient or not), that is, of determining its causality. (CPrR
+  5:15)}\sidenote[][]{Since \emph{reason} is required for the derivation of actions
+  from laws, the will is nothing other than practical reason. (GII, 4:412)}
+   + Is it a /judgment/, such as one of the following?
+      1. I should avenge the insult
+      2. Avenging the insult is good
+      3. Avenging the insult is the thing to do 
+      4. Avenging the insult is the thing to do because it is good
+      5. I intend to avenge the insult
+   + Or is it an /action/ (i.e. the act of avenging the insult)
+
+** Maxims
+
+- What is a 'maxim'?[fn:3]
+   - A 'subjective principle of willing' or principle on which a person
+     acts
+      - Contrasts with objective law\sidenote[][]{The former {[}a maxim{]} contains
+        the practical rule determined by reason conformably with the conditions of the
+        subject (often his ignorance or also his inclinations), and is therefore the
+        principle in accordance with which the subject \emph{acts}; but the law is the
+        objective principle valid for every rational being, and the principle in
+        accordance with which \emph{he ought to act}, i.e., an imperative. (4:421,
+        note)}
+- Designates an action to be performed in a context and for some purpose
+  on the basis of some evaluation of the Good: In C, I (ought, may,
+  etc.) to do A for purpose P, because that would be G
+   - A maxim functions as the major premise in a rational inference to
+     some action (or volition to act) as a conclusion
+- Kant's examples of maxims
+   - let no insult pass unavenged (5:19)
+   - when I believe myself to be in need of money I should borrow money
+     and promise to repay it, even though I know that this will never
+     happen (4:422).
+- Action from a maxim contrasts with merely acting from inclination
+- Non-rational beings lack the capacity to act on maxims, so their
+  actions (or behaviour) is completely determined by their sensible
+  impulses
+
+** Roles for Maxims
+
+1. Everyone always acts on maxims.
+2. Maxims determine how we act in specific situations through the use of
+   practical rules.
+3. Everyone has a highest maxim that affects the other maxims she
+   adopts.
+4. Maxims can be linguistically/propositionally formulated and then
+   evaluated for their moral worth (and the deontic status of their
+   accompanying actions) by the FUL.
+5. Because maxims determine how we act, the deontic status and moral
+   worth of our actions, and whether we are good or evil people, maxims
+   express our character.
+6. Maxims adopted for action /describe/ what we intend to do or what we
+   see as good rather than /prescribe/ courses of action that we may or
+   may not live up to.
+
+** Practical Reason & The Will
+   :PROPERTIES:
+   :CUSTOM_ID: practical-reason-the-will
+   :END:
+
+- The Will (/der Wille/)): :: The capacity (or its law) through which choice determines
+  its activity 
+  # (i) the capacity/power to bring about an (intention to) action (ii) without being determined by any sensible inclination and (iii) solely due to one's derivation of the action from (pure) principles
+- The Power of Choice (/die Willkür/): :: The capacity to be, through one's
+  representation and as one pleases, the cause of a condition (e.g. object or state
+  of affairs)\sidenote[][-2.90in]{The capacity for desiring in accordance with concepts,
+  insofar as the ground determining it to action lies within itself and not in its
+  object, is called the capacity for \emph{doing or refraining from doing as one
+  pleases}. Insofar as it is joined with one's consciousness of the capacity to bring
+  about its object by one's action it is called the capacity for \emph{choice}; if it
+  is not joined with this consciousness its act is called a \emph{wish}. The capacity
+  for desire whose inner determining ground, hence even what pleases it, lies within
+  the subject's reason is called the \emph{will}. The will is therefore the capacity
+  for desire considered not so much in relation to action (as the capacity for choice
+  is) but rather in relation to the ground determining choice to action.}
+   + Rational choice is a kind of self-conscious efficacious representation 
+   + Non-rational beings can make choices, but these are not self-conscious, and they
+     are controlled by the "will of nature"\sidenote[][-1.2in]{Freedom in the practical
+     sense is the independence of the power of choice from necessitation by impulses
+     of sensibility. For a power of choice is sensible insofar as it is
+     pathologically affected (through moving-causes of sensibility); it is called an
+     animal power of choice (\emph{arbitrium brutum}) if it can be pathologically
+     necessitated. The human power of choice is indeed an \emph{arbitrium
+     sensitivum}, yet not \emph{brutum} but \emph{liberum} because sensibility does
+     not render its action necessary, but in the human being there is a faculty of
+     determining oneself from oneself, independently of necessitation by sensible
+     impulses (A533-4/B561-2; see also \emph{Metaphysik L\textsubscript{1}} 28:255
+     (c.~1778--1781); \emph{Metaphysik Mrongovius} 29:896 (c.~1782/3);
+     \emph{Metaphysik L\textsubscript{2}} 28:589 (c.~1790); MM
+     6:213)}\sidenote[][]{Animals have a will, though they do not have their own will
+     but rather the will of nature {[}\emph{den Willen der Natur}{]}
+     (\emph{Naturrecht Feyerabend} 27:1320 (1784))}
+
+
+- Kant is addressing the issue of a will /in general/, so the laws in question are
+  /objective/ laws, not /subjective/ maxims
+- The will is a /capacity/, and as such exists even when not exercised, or exercised
+  appropriately (i.e. in conformity with a law)
+- Two kinds of rational will
+   1. /Holy will/: a will which /always/ acts in conformity with
+      reason/rational law
+   2. /Finite (human) will/: a will exposed to subjective and non-rational (sensible)
+      incentives
+       - Only finite wills have imperatives that apply to them\sidenote[][]{The
+         representation of an objective principle in so far as it is necessitating
+         for a will is called a command (of reason), and the formula of the command
+         is called IMPERATIVE. All imperatives are expressed by an ought, and by this
+         indicate the relation of an objective law of reason to a will that according
+         to its subjective constitution is not necessarily determined by it (a
+         necessitation). (4:413)}
+
+** Imperatives
+
+- Imperatives are principles (representations of laws) that have
+  normative force for an agent
+   - In what sense 'normative force'?
+      - phenomenological (feeling of compulsion or "necessitation")
+      - favoring/representing as good\sidenote[][]{Practical good, however, is that
+        which determines the will by means of representations of reason, hence not by
+        subjective causes but objectively, that is, from grounds that are valid for
+        every rational being as such. It is distinguished from the \emph{agreeable},
+        as that which influences the will only by means of feeling from merely
+        subjective causes, which hold only for the senses of this or that one, and
+        not as a principle of reason, which holds for everyone (GII, 4:413)}
+   
+
+\vspace{-.2in}
+
++ Hypothetical Imperative: :: command to do something whose value is
+  conditioned by its status as a means to some further end, which is
+  also willed
+   + In virtue of willing some end, Kant thinks it is /analytic/ that one
+     wills the means to that end\sidenote[][]{Whoever wills the end also wills (in so
+     far as reason has decisive influence on his actions) the indispensably necessary
+     means to it that is in his control. As far as willing is concerned, this
+     proposition is analytic; for in the willing of an object, as my effect, my
+     causality is already thought, as an acting cause, i.e. the use of means, and the
+     imperative already extracts the concept of actions necessary to this end from
+     the concept of a willing of this end (GII, 4:417)} 
+
++ Categorical Imperative: :: command to do something whose value is
+  unconditioned -- i.e. whose value is an end in itself
+   + A categorical imperative is synthetic a priori since we experience it as a
+     command, which is not entailed simply by the concept of a rational (holy) will
+     as such\sidenote[][]{Without a presupposed condition from any inclination, I
+     connect the deed with the will a priori, and hence necessarily (though only
+     objectively, i.e. under the idea of a reason that has complete control over all
+     subjective motives). This is therefore a practical proposition that does not
+     derive the willing of an action analytically from willing another that is
+     already presupposed (for we have no such perfect will), but connects it
+     immediately with the concept of the will of a rational being, as something that
+     is not contained in it. (GII, 4:420, note)}
+     
+# \newthought{Objection:} There are non-moral oughts which are not
+# straightforwardly hypothetical
+# - e.g. 'Answer an invitation in the third person in the third person'
+#    - An imperative of etiquette is unconditional -- it does not apply
+#      only to those who have the end of (or an end that is served by)
+#      being polite
+# - But imperatives of etiquette do not apply with the requisite
+#   /universality/ which Kant has in mind -- they do not apply merely in
+#   virtue of the subject's status as a rational being
+
+[fn:2] If reason infallibly determines the will, the actions of such a
+       being that are cognized as objectively necessary are also
+       subjectively necessary, that is, the will is a capacity to choose
+       /only that/ which reason independently of inclination cognizes as
+       practically necessary, that is, as good. (4:412)
+
+[fn:3] A /maxim/ is the subjective principle of willing; the objective
+       principle (i.e., the one that would also subjectively serve all
+       rational beings as the practical principle if reason had complete
+       control over the desiderative faculty) is the practical /law/.
+       (4:400, note)
+
+
+** Inclination & Desire :noexport:
+
+- Living things act in accordance with inner states --
+  representations[^12]
+- All /intentional action/ (as contrasted with bodily movement/behavior)
+  is based on both a cognitive and a conative component[^14]
+
+  - Conative states are themselves either representational or
+    non-representational
+
+    - Feelings of pleasure/displeasure (non-representational)
+    - Desire (representational)
+
+- An intentional action requires the following causal chain: cognition
+  $\rightarrow$ conation (feeling + desire) $\rightarrow$ action
+- At the empirical 'level' we are (as are all living beings)
+  psychologically determined by this causal chains[^16]
+
+** Action & Laws :noexport:
+
+- Rational beings are distinctive in having the capacity to act from a representation
+  of laws\sidenote[][-.5in]{Everything in nature works in accordance with laws. Only a
+  rational being has the capacity to act \emph{in accordance with the representation}
+  of laws, that is, in accordance with principles, or has a \emph{will}. Since
+  \emph{reason} is required for the derivation of actions from laws, the will is
+  nothing other than practical reason. (4:412)}
+   - Difference between representing in accordance with a law
+     vs. representing a law and /thereby/ acting in accordance with it
+- Perfectly rational beings only act in accordance with laws represented
+  by reason[fn:2]
+- *Q*: Why does Kant move from talking about /representing laws/ to
+  talking about deriving an action /from a law/ (and not a
+  /representation/ of a law)?
+
+
+* References  & Further Reading
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
+
+#+nocite: @ford2016; @kitcher2003; @rodl2010; @engstrom2009; @engstrom2002; @rosefeldt2017a; @willaschek2018
+
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in} \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
+

@@ -15,6 +15,8 @@ its attendant metaphysics might be understood to be an optional or non-essential
 of his overall view concerning rational agency, particularly as that view is
 developed by Christine Korsgaard.
 
+-   [Handout](/materials/handouts/6-kant-reason-compatibilism.pdf) for week 6
+
 
 ## Readings {#readings}
 

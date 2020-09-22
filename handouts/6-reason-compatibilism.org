@@ -1,0 +1,322 @@
+#+STARTUP: fnadjust
+#+TITLE: Reason & Compatibilism
+#+DATE: Sept 22, 2020
+#+AUTHOR: Colin McLear | PHIL 971
+#+EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil971-kant-rational-agency/static/materials/handouts/6-kant-reason-compatibilism.pdf
+#+pandoc-emphasis-pre: "-\t ('\"{["
+#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]\\" 
+#+PANDOC_METADATA: numbersections:t secnumdepth:2 
+#+PANDOC_METADATA: "lfoot:PHIL 971 | Sept 22, 2020"
+#+PANDOC_METADATA: "lhead:Reason & Compatibilism"
+#+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufte.tex
+#+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
+#+PANDOC_EXTENSIONS: org+raw_tex
+#+EXCLUDE_TAGS: noexport notes scrap todo
+#+LANGUAGE: en
+#+OPTIONS: ':t
+#+OPTIONS: prop:t
+
+* Reason
+
+1. The faculty of "mediate" inference
+2. Mediate inference as the activity through which one comprehends the material
+   connection of (the truth of) one judgment with another
+3. Comprehension as the activity of grasping how one thing is conditioned (necessitated) by another
+4. In mediate inference conditioning relations are represented by means of the
+   representation of laws (i.e. "principles") which stand as the "conditions" of the
+   conclusion of a rational inference
+5. Reasoning is either practical or theoretical
+    - /Theoretical/ reasoning is always reasoning /from/ some given actuality, for the
+      purpose of explaining it (i.e. articulating its condition)
+    - /Practical/ reasoning is always reasoning /to/ an actuality as its condition;
+      practical reasoning thus aims at /production/ rather than (or in addition to)
+      /explanation/
+   
+* Practical Reason & The Will
+   :PROPERTIES:
+   :CUSTOM_ID: practical-reason-the-will
+   :END:
+
+- The Will (/der Wille/)): :: The capacity (or its law) through which choice determines
+  its activity 
+  # (i) the capacity/power to bring about an (intention to) action (ii) without being determined by any sensible inclination and (iii) solely due to one's derivation of the action from (pure) principles
+- The Power of Choice (/die Willkür/): :: The capacity to be, through one's
+  representation and as one pleases, the cause/ground of some actuality (e.g. object or state
+  of affairs)\sidenote[][-2.90in]{The capacity for desiring in accordance with concepts,
+  insofar as the ground determining it to action lies within itself and not in its
+  object, is called the capacity for \emph{doing or refraining from doing as one
+  pleases}. Insofar as it is joined with one's consciousness of the capacity to bring
+  about its object by one's action it is called the capacity for \emph{choice}; if it
+  is not joined with this consciousness its act is called a \emph{wish}. The capacity
+  for desire whose inner determining ground, hence even what pleases it, lies within
+  the subject's reason is called the \emph{will}. The will is therefore the capacity
+  for desire considered not so much in relation to action (as the capacity for choice
+  is) but rather in relation to the ground determining choice to action. (MM 6:213)}
+   + Choice is an /essentially/ self-conscious form of efficacious representation 
+   + Non-rational beings can make choices, but these are not self-conscious, and they
+     are controlled by the "will of nature"\sidenote[][-1.2in]{Freedom in the practical
+     sense is the independence of the power of choice from necessitation by impulses
+     of sensibility. For a power of choice is sensible insofar as it is
+     pathologically affected (through moving-causes of sensibility); it is called an
+     animal power of choice (\emph{arbitrium brutum}) if it can be pathologically
+     necessitated. The human power of choice is indeed an \emph{arbitrium
+     sensitivum}, yet not \emph{brutum} but \emph{liberum} because sensibility does
+     not render its action necessary, but in the human being there is a faculty of
+     determining oneself from oneself, independently of necessitation by sensible
+     impulses (A533-4/B561-2; see also \emph{Metaphysik L\textsubscript{1}} 28:255
+     (c.~1778--1781); \emph{Metaphysik Mrongovius} 29:896 (c.~1782/3);
+     \emph{Metaphysik L\textsubscript{2}} 28:589 (c.~1790); MM
+     6:213)}\sidenote[][]{Animals have a will, though they do not have their own will
+     but rather the will of nature {[}\emph{den Willen der Natur}{]}
+     (\emph{Naturrecht Feyerabend} 27:1320 (1784))}
+
+
+- Kant is addressing the issue of a will /in general/, so the laws in question are
+  /objective/ laws, not /subjective/ maxims
+- The will is a /capacity/, and as such exists even when not exercised, or exercised
+  appropriately (i.e. in conformity with a law)
+- Two kinds of rational will
+   1. /Holy will/: a will which /always/ acts in conformity with
+      reason/rational law
+   2. /Finite (human) will/: a will exposed to subjective and non-rational (sensible)
+      incentives
+       - Only finite wills have imperatives that apply to them\sidenote[][]{The
+         representation of an objective principle in so far as it is necessitating
+         for a will is called a command (of reason), and the formula of the command
+         is called IMPERATIVE. All imperatives are expressed by an ought, and by this
+         indicate the relation of an objective law of reason to a will that according
+         to its subjective constitution is not necessarily determined by it (a
+         necessitation). (4:413)}
+
+
+** Imperatives
+
+- Imperatives are principles (representations of laws) that have
+  normative force for an agent
+   - In what sense 'normative force'?
+      - phenomenological (feeling of compulsion or "necessitation")
+      - favoring/representing as good\sidenote[][]{Practical good, however, is that
+        which determines the will by means of representations of reason, hence not by
+        subjective causes but objectively, that is, from grounds that are valid for
+        every rational being as such. It is distinguished from the \emph{agreeable},
+        as that which influences the will only by means of feeling from merely
+        subjective causes, which hold only for the senses of this or that one, and
+        not as a principle of reason, which holds for everyone (GII, 4:413)}
+   
+
+\vspace{-.2in}
+
++ Hypothetical Imperative: :: command to do something whose value is
+  conditioned by its status as a means to some further end, which is
+  also willed
+   + In virtue of willing some end, Kant thinks it is /analytic/ that one
+     wills the means to that end\sidenote[][]{Whoever wills the end also wills (in so
+     far as reason has decisive influence on his actions) the indispensably necessary
+     means to it that is in his control. As far as willing is concerned, this
+     proposition is analytic; for in the willing of an object, as my effect, my
+     causality is already thought, as an acting cause, i.e. the use of means, and the
+     imperative already extracts the concept of actions necessary to this end from
+     the concept of a willing of this end (GII, 4:417)} 
+
++ Categorical Imperative: :: command to do something whose value is
+  unconditioned -- i.e. whose value is an end in itself
+   + A categorical imperative is synthetic a priori since we experience it as a
+     command, which is not entailed simply by the concept of a rational (holy) will
+     as such\sidenote[][]{Without a presupposed condition from any inclination, I
+     connect the deed with the will a priori, and hence necessarily (though only
+     objectively, i.e. under the idea of a reason that has complete control over all
+     subjective motives). This is therefore a practical proposition that does not
+     derive the willing of an action analytically from willing another that is
+     already presupposed (for we have no such perfect will), but connects it
+     immediately with the concept of the will of a rational being, as something that
+     is not contained in it. (GII, 4:420, note)}
+     
+# \newthought{Objection:} There are non-moral oughts which are not
+# straightforwardly hypothetical
+# - e.g. 'Answer an invitation in the third person in the third person'
+#    - An imperative of etiquette is unconditional -- it does not apply
+#      only to those who have the end of (or an end that is served by)
+#      being polite
+# - But imperatives of etiquette do not apply with the requisite
+#   /universality/ which Kant has in mind -- they do not apply merely in
+#   virtue of the subject's status as a rational being
+
+[fn:2] If reason infallibly determines the will, the actions of such a
+       being that are cognized as objectively necessary are also
+       subjectively necessary, that is, the will is a capacity to choose
+       /only that/ which reason independently of inclination cognizes as
+       practically necessary, that is, as good. (4:412)
+
+[fn:3] A /maxim/ is the subjective principle of willing; the objective
+       principle (i.e., the one that would also subjectively serve all
+       rational beings as the practical principle if reason had complete
+       control over the desiderative faculty) is the practical /law/.
+       (4:400, note)
+
+
+
+** The Problem of Evil/Irrationality
+
+- How is it possible to freely (and so imputably) act against the rational law (i.e.
+  act irrationally)? 
+   + Kant's considered position is that evil/irrational acts are not the positive
+     result of our capacity to act irrationally, but rather an /incapacity/ to do what
+     is good/rational\sidenote[][]{But freedom of choice cannot be defined - as some
+     have tried to define it - as the capacity to make a choice for or against the
+     law (\emph{libertas indifferentiae})\ldots Only freedom in relation to the
+     internal lawgiving of reason is really a capacity; the possibility of deviating
+     from it is an incapacity. How can that capacity be defined by {[}\emph{erklärt
+     aus}{]} this incapacity? It would be a definition that added to the practical
+     concept the exercise of it, as this is taught by experience, a hybrid definition
+     {[}\emph{Bastarderklärung}{]} (definitio \emph{hybrida}) that puts the concept
+     in a false light. (MM 6:226)}
+   + But how can imputability for irrational actions be founded on an
+     incapacity?\sidenote[][]{An action is called a deed insofar as it comes under
+     obligatory laws and hence insofar as the subject, in doing it, is considered in
+     terms of the freedom of his choice. By such an action the agent is regarded as
+     the author of its effect, and this, together with the action itself, can be
+     imputed to him, if one is previously acquainted with the law by virtue of which
+     an obligation rests on these. (MM 6:223)}
+      1. Authorship of an action, necessary for imputability, requires that one play a
+         particular "spontaneous" causal role in the generation of the action
+      2. In irrational action one fails to play a spontaneous causal role with respect
+         to the action
+      3. $\therefore$ Irrational action cannot be imputed to an agent
+
+
+- R_1: An act /A/ is imputable just in case it is brought about by an agent that possesses
+  a spontaneous capacity /S/, whether or not /S/ is causally productive of /A/
+   + This seems too strong, for it makes /all/ actions of a rational being imputable 
+- R_2: An act /A/ is imputable just in case it involves an exercise of a spontaneous
+  capacity /S/, whether or not /S/ is successful in its exercise
+
+* Kant's Compatibilism?
+
+** Textual Evidence for Compatibilism?
+1. The Canon of Pure Reason\sidenote[][-1in]{for the present I will use the concept
+   of freedom only in a practical sense and set aside, as having been dealt with
+   above, the transcendental signification of the concept, which cannot be
+   empirically presupposed as an explanatory ground of the appearances but is rather
+   itself a problem for reason.}\sidenote[][]{But whether in these actions, through
+   which it prescribes laws, reason is not itself determined by further
+   influences...in the practical sphere this does not concern us, since in the first
+   instance we ask of reason only a \textbf{precept} for conduct; it is rather a
+   merely speculative question, which we can set aside as long as our aim is directed
+   to action or omission. \ldots{} The question about transcendental freedom concerns
+   merely speculative knowledge, which we can set aside as quite indifferent if we
+   are concerned with what is practical (A803-4/B831-2)}
+2. The /Critique of Practical Reason/\sidenote[][]{One can therefore grant that if it
+   were possible for us to have such deep insight into a human being’s cast of
+   mind...that we would know every incentive to action...as well as all the external
+   occasions affecting them, we could calculate a human being’s conduct for the
+   future with as much certainty as a lunar or solar eclipse and could nevertheless
+   maintain that the human being’s conduct is free. (5:99)}
+3. The /Review of Schulz/\sidenote[][]{the practical concept of freedom has nothing to
+   do with the speculative concept, which is abandoned entirely to metaphysicians. For
+   I can be quite indifferent as to the origin of my state in which I am now to act;
+   I ask only what I now have to do, and then freedom is a necessary practical
+   presupposition and an idea under which alone I can regard commands of reason as
+   valid. (8:13)}
+4. /Groundwork/ III\sidenote[][]{I say now: every being that cannot act otherwise than
+   \emph{under the idea of freedom} is just because of that really free in a practical
+   respect, that is, all laws that are inseparably bound up with freedom hold for him
+   just as if his will had been validly pronounced free also in itself and in
+   theoretical philosophy (GIII 4:448)}\sidenote[][]{I follow this route - that of
+   assuming freedom, sufficiently for our purpose, only as laid down by rational
+   beings merely \emph{in idea} as a ground for their actions - so that I need not be
+   bound to prove freedom in its theoretical respect as well. For even if the latter
+   is left unsettled, still the same laws hold for a being that cannot act otherwise
+   than under the idea of its own freedom as would bind a being that was actually
+   free. Thus we can escape here from the burden that weighs upon theory. (4:448,
+   note)}
+
+\vspace{-.2in}  
+
+\noindent\newthought{Question}: To what extent does the evidence merely show that Kant construed
+  /agnosticism/ about transcendental freedom as compatible with acceptance of practical
+  freedom rather than the /compatibility/ of belief in freedom and determinism?
+  
+
+** Deliberation & Two Standpoints
+- Deliberation is an activity according to which one must proceed "as if" one is
+  "free" in weighing reasons for believing or intending
+
+#+begin_quote
+Occasionally one meets the objection that the freedom that we discover in reflection
+is a delusion. Human actions are causally determined. The philosopher's bugbear, the
+Scientific World View, threatens once more to deprive us of something we value. When
+desire calls we think we can take it or leave it, but in fact someone could have
+predicted exactly what we will do. But how can this be a problem? The afternoon
+stretches before me, and I must decide whether to work or to play. Suppose first that
+/you can predict/ which one I am going to do. That has no effect on me at all: I must
+still decide what to do. I am tempted to play but worried about work, and I must
+decide the case on its merits. Suppose next /I believe that you can predict/ which one
+I'm going to do. You've done it often enough before. What then? I am tempted by play
+but worried about work, and I must decide the case on its merits. [...] The freedom
+discovered in reflection is not a theoretical property which can also be seen by
+scientists considering the agent's deliberations third-personally and from outside.
+It is from within the deliberative perspective that we see our desires as providing
+suggestions which we may take or leave. (Korsgaard 1996b, 94-6)
+#+end_quote
+
+   1. Does deliberation presume that the future is genuinely (i.e. metaphysically)
+      "open" or just that it is not predictable (i.e. it is merely epistemically open)?
+   2. Does deliberation presume that one has the ability to do or refrain (i.e. that
+      one has leeway) from doing the action being deliberated upon?
+   3. Does deliberation presume that one's deliberations are causally efficacious? If
+      so in what sense?
+   4. Are there distinct (practical vs. theoretical) "standpoints" from which one can
+      both believe and deny the truth of determinism without
+      irrationality?\sidenote[][]{The deliberating agent, employing reason
+      practically, views the world as it were from a noumenal standpoint, as an
+      expression of the wills of God and other rational agents. [...] The theorizing
+      spectator, on the other hand, views the world as phenomena, mechanistic, and
+      fully determined. The interests of morality demand a different conceptual
+      organization of the world than those of theoretical explanation (Korsgaard
+      1989, 37).}
+       + What constitutes a "standpoint"?
+       + Does the existence of different standpoints allow for contradictory beliefs?
+     
+
+
+** Reasons to Reject a Compatibilist Reading
+
+1. Kant explicitly rejects the claim that freedom is compatible with our reason being
+   temporally determined in its activity as a "wretched subterfuge" and nothing more
+   than the "freedom of a turnspit"\sidenote[][]{It is a wretched subterfuge to seek
+   to evade this by saying that the kind of determining grounds of his causality in
+   accordance with natural law agrees with a \emph{comparative} concept of freedom
+   \ldots{} Some still let themselves be put off by this subterfuge and so think they
+   have solved, with a little quibbling about words, that difficult problem on the
+   solution of which millennia have worked in vain and which can therefore hardly be
+   found so completely on the surface. That is to say, in the question about that
+   freedom which must be put at the basis of all moral laws and the imputation
+   appropriate to them, it does not matter whether the causality determined in
+   accordance with a natural law is necessary through determining grounds lying
+   \emph{within} the subject or \emph{outside} him, or in the first case whether
+   these determining grounds are instinctive or thought by reason; if, as is admitted
+   by these men themselves, these determining representations have the ground of
+   their existence in time and indeed in the \emph{antecedent state} \ldots{} if the
+   freedom of our will were none other than the latter (say, psychological and
+   comparative but not also transcendental, i.e., absolute), then it would at bottom
+   be nothing better than the freedom of a turnspit, which, when once it is wound up,
+   also accomplishes its movements of itself. (CPrR 5:95-7)}
+2. Compatibilist readings are unable to explain how Kant's conception of spontaneity
+   is compatible with temporal determination
+    - Presumes that Kant has a non-question-begging argument for why time is a feature
+      of receptivity rather than spontaneity
+3. Compatibilist readings of Kant fail to explain why he might have thought that only
+   Transcendental Idealism could provide the basis for freedom of action/rationality
+   
+
+* References  & Further Reading
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
+
+#+nocite: @wood1984a; @nelkin2000; @lavin2004; @kohl2015b; @kohl2016; @frierson2010; @tenenbaum2012; @pereboom2008; @korsgaard1996a; @korsgaard1989; @frierson2010; @hill1989; @korsgaard1996; @paton1947; @ameriks2000
+
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in} \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
+

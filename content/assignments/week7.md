@@ -1,5 +1,5 @@
 +++
-title = "Week 7 - Incorporation, Identification, & `Mesh’ Theories of Rationality"
+title = "Week 7 - Incorporation, Identification, & Mesh’ Theories of Rationality"
 publishDate = 2020-09-29T00:00:00-04:00
 tags = ["action", "agency", "compatibilism", "identification", "incorporation"]
 draft = false

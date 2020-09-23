@@ -682,9 +682,228 @@ will immediately, not by means of an intervening feeling of pleasure or displeas
 not even in this law; and that it can as pure reason be practical is what alone makes
 it possible for it to be lawgiving. (5:24-5)
 #+end_quote
+** Week 6
+*** Reading Responses
+**** Eunhong
+#+begin_quote
+Kant also knew that human beings are determined by the laws of nature, and he seems
+to think that we need a different sort of causality. If we only have causality of
+laws of nature, we will always have to be subordinated by the natural law. Human has
+no choice but to live in this world following the natural law. Then, how can our
+behaviors be free actions?
+#+end_quote
 
-   
+Kant think that the argument about the idea of freedom from the first /Critique/ that
+we read a few weeks ago opens up the possibility that fundamental reality (including
+ourselves) is atemporal. Thus it is at least logically and epistemically possible
+that there is a form of causality that does not involve time, and that allows agents
+to be causes without being caused by anything else in time. Kant thus thinks that the
+possibility of free action depends on the truth of Transcendental Idealism, which is
+the doctrine that spatial and temporal properties are merely relational properties of
+things, and are entirely grounded in the nature of our sensibility---i.e. our mode of
+perceiving objects. 
 
+
+#+begin_quote
+I was wondering how many people can be free agents. If our maxims are not universally followed, then lots of our behavior will be non-free behaviors.
+#+end_quote
+
+One longstanding question is whether Kant can explain the possibility of evil action
+(or even just irrational action) that is nevertheless imputable to the agent. At
+least several of Kant's contemporaries or immediate successors (e.g. Reinhold,
+Schmid, Schelling) thought that he failed to show how this was possible. We'll
+discuss this more in class today.
+
+#+begin_quote
+Also, What I still could not understand is what Kant says as "analogous". Kant says
+“a kingdom of ends is thus possible only by analogy with a kingdom of nature.” What
+the analogy and why the kingdom of ends is possible only by analogy with a kingdom of
+nature? Is it because we are human following the natural law? Or, is it because we
+just cannot see the harmony between the kingdom of ends and the kingdom of nature?
+#+end_quote
+
+Kant thinks an analogy always has a fourfold structure; e.g. A is to B as C is to D. In
+this case the relata are agents and laws. There is supposed to be an analogy between
+an agent and laws of nature and an agent and laws of rationality/morality. In both
+cases the laws constitute a realm or world (/Reich/). The salient difference of course
+is that the laws of nature externally necessitate while the laws of the kingdom of
+ends are internally given by the nature of our own rational faculty.
+**** Chen
+#+begin_quote
+Kant first introduces that a rational being should belong to the world of understanding instead of the world of sense. Then Kant provides two explanations separately targeting at two worlds. But in the second explanation, Kant uses the term “the intelligible world”, so it seems I should assume that “the world of understanding” equals “the intelligible world”. Then does “intelligence” also equal “understanding”, or should I explain the capacity of understanding by intelligence? 
+#+end_quote
+
+The German for "understanding" is "/Verstand/", which could also be translated as
+"intellect". Kant also typically translates the Latin term "/Intellectus/" via the
+German "/Verstand/". Hence his tendency to talk about the "understanding", "the world
+of understanding" and the "intelligible world" together. An "intelligence" is a
+living being with intellectual faculties (or rational faculties more broadly). So
+human beings are "intelligences" in this sense, while non-human (non-rational)
+animals are not. Kant distinguishes (at least nominally) between intelligence and
+what he calls "personality" (or between intelligences and persons). To be a person is
+not just to have intelligence, it is also to be able to act on the basis of the moral
+law as the sufficient motive of one's choices. For human beings, personality is also
+connected with the sensible preconditions of moral action---viz. moral feeling,
+conscience, love of humanity, and self-respect (MM 6:399-403).
+
+#+begin_quote
+I’m not sure but my own interpretation here is that sense can receive stimuli of
+materials from the world of sense but only understanding can “unite sensible
+representations in one consciousness” “with the use of sensibility” (4: 452), and
+understanding thus change materials in the world of sense into materials in the world
+of understanding with the use of intelligence, under the rules of reason. Does reason
+set the rules for the world of understanding or guide the capacity of understanding
+to handle those materials? Is there a higher world, like the world of things in
+themselves, in which only reason can deal with the materials there?
+#+end_quote
+
+Broadly speaking yes. Kant's appeal to an intelligible world, like his discussion of
+intelligible character in the first /Critique/, concerns a world as it is /thought/
+rather than /sensed/, and thus one that is not presented to us as being essentially
+spatio-temporal in structure (and thus in the kinds of laws it is subject to). Kant
+considers the role of understanding to be that of structuring the sensible material
+given to it, so that it can be thought (i.e. "judged" -- Kant equates thinking and
+judging). Reason then aims to systematize these judgments. Theoretical reason does
+this by seeking the sufficient conditions of a judgment, thereby explaining it, and
+practical reason does this by starting from a universal judgment that is the
+condition (in the sense of being productive) of some object or state of affairs.  
+
+#+begin_quote
+is this to say that things in themselves divides the world of sense and the world of
+understanding? If the world of understanding always remains the same, do things in
+themselves belong to this world? Then is there a third world higher than the world of
+understanding? Besides, what’s the function of reason here?
+#+end_quote
+
+Kant's discussion is tricky because there are two different, but for Kant closely
+related, kinds of distinctions being made here. The sensible vs. intelligible world
+contrast is a distinction made with reference to specific kinds of faculties or
+capacities. This would seem to be a primarily /epistemic/ distinction. The thing as it
+appears vs as it is in itself is less obviously a purely epistemic distinction, and
+more a /metaphysical/ distinction, especially since Kant thinks that the way that
+things are in themselves at least partially grounds or explains the way that they
+appear to us. Hence things in themselves are more metaphysically fundamental than
+things as they appear. The difficulty is that Kant /also/ thinks that things as they
+appear are in fact partly metaphysically constituted by /us/ (i.e. by our faculties).
+So the sensible world, understood as the domain of objects that relate to the senses
+or "phenomena", is at least partly metaphysically constituted by our sensible
+faculties. The intelligible world, understood as the domain of objects in relation to
+the intellect, or "noumena", is not metaphysically dependent on our intellect (though
+it may be on God's). In any case there is no further "third world", and reason's
+function is explanation (in systematizing the judgments provided by the
+understanding) and rational production (in practical agency).
+**** Trevor
+#+begin_quote
+[Korsgaard] has us imagine a case where someone is participating in a scientific
+experiment that has them live a day of their life with a device implanted in their
+brain. You know that every day the device is in your brain, your day is
+preprogrammed. However, the device is supposed to both, (i) not bypass your thought
+processes but “work through them” and (ii) determine what you think. She then
+describes the first person experience of how the participants' thoughts must go on
+such a day in order to illustrate that we must act as if we are free. I find
+something fishy about (i) and (ii). If (ii) is true, then this is as good as ghostly
+possession as far as I am concerned. In such a world, I think there is no argument
+that the device is literally responsible for your actions.
+#+end_quote
+
+I am a bit confused by your last point. It seems that the device in this scenario /is/
+responsible for your actions. It is their ultimate causal explanation. Insofar as
+Korsgaard does not endorse this conclusion she must be rejecting the idea that
+responsibility for action depends on being the ultimate causal source of one's
+actions.
+
+#+begin_quote
+However, we are supposed to imagine that the description of the case is consistent with it working through your thoughts. To my ear, that sounds strictly speaking impossible, instead, I think the device would have to make it appear to you as if it is working through your thoughts. But now, I have no handle on what such an internal mental life of that person would look like.
+#+end_quote
+
+Korsgaard's point seems to be that the internal mental life of such a person would
+look exactly like yours or mine (at least insofar as deliberation goes). Why do you
+think the actions of the device would only /appear/ to work via one's thoughts? Is the
+idea that in deliberation one thought is supposed to cause the next, but the activity
+of the device would suggest that /it/ causes each thought and thus that /it/ rather than
+deliberative activity is what is really going on? If that were right then Korsgaard's
+example would not be describing deliberation so much as its mere /simulation/ and that
+does indeed seem objectionable. 
+**** John
+Reconstructing Korsgaard's "argument from humanity" is going to be controversial in
+one way or another. Her aim, however, is clearly stated. Korsgaard argues that
+"humanity", or rational nature, is the capacity to set ends freely through the
+exercise of practical reason rather than following ends given by instinct. So it
+isn't that (as your premise 2 has it) all ends derive from the unconditional value of
+humanity. Rather, all morally/rationally required ends (duties) derive from the
+unconditional value of humanity. This means that, if we are to act rationally, we
+must harmonize our rational ends with those of others, and attach equal weight to the
+value of their ends as we do to our own. For helpful discussion (and criticism) of
+her argument see Bukoski, Michael. “Korsgaard’s Arguments for the Value of Humanity.”
+The Philosophical /Review/ 127, no. 2 (2018): 197–224.
+
+#+begin_quote
+Why is it that freedom is ipso facto an adherence to moral law?
+#+end_quote
+
+Kant's answer to this question is relatively straightforward, though hinges on
+assumptions that are not clearly defended (and may not be defensible). Kant thinks
+that all acts require appeal to the causality of a being (i.e. a substance), and that
+such causality is lawful, which means that it is universal and necessary (see
+especially GIII, 4:446-7). Since we're asking about morality, we're interested in
+/imputable/ acts of choice related to what we desire, so Kant thinks that natural
+causation is ruled out (since time undermines the control necessary for
+imputability). Kant's conception of the rational form of causation that is
+constitutive of moral action is one according to which nothing over and above the
+formal structure of causality itself is determinative of the effect of the action
+(through the desire for it). So moral acts are all brought about by a productive
+desire whose aim is to produce its act merely in virtue of the universality and
+necessity of the action, and not it's aim (the "matter" of the judgment or maxim).
+
+Korsgaard, in contrast, relates freedom not to a special kind of causality, but to
+the reflective endorsement of a motive (to believe or act). Korsgaard, like Kant,
+thinks that such activity is rule governed (norm governed), and connects these rules
+to the various "practical identities" that an agent can adopt. However there is one
+practical identity that Korsgaard considers constitutive of agency as such, and that
+is the identity of rational agency itself (or "humanity" as she calls it). So the
+conditions of action require appeal to norms that are /constitutive/ of action as such.
+**** Janelle
+#+begin_quote
+my question is, is friendship just a relation between all of those participating in the practice, or is friendship going to be something actually personal? 
+#+end_quote
+
+It would help in understanding your question to hear more about what "actually
+personal" is supposed to come to here. To the extent that I understand Korsgaard
+here, I believe her view is that the relationship of "friendship" that one has to
+others requires that one take their ends as meaningful and valuable, in the same
+manner that one takes one's own. This means, among other things, that opportunities
+to promote those ends tend to be salient and motivationally efficacious. Similarly,
+in the "Kingdom of Ends" we would all act towards one another in the manner we do to
+our friends. Hence friendship (or this aspect of it) is a way of characterizing the
+relation of oneself to others in the KoE.
+
+#+begin_quote
+2. How compatible are Kant and Aristotle regarding friendship? Kant claims in the GMM
+   that the good will is the only thing that’s good in and of itself wherein A claims
+   that friends are not only goods, but virtue friends are good for the sake of
+   which.
+#+end_quote
+
+I'm not certain that Kant has a well worked out view of friendship, so it is hard for
+me to say how deep similarities or differences between his view and Aristotle's will
+be. However, on at least on way of conceiving of a friend for the sake of which one
+acts, Kant's account of respect for the value of humanity in others and equal
+treatment of their ends might be in accord with it. 
+
+#+begin_quote
+3. How does the beginning or formulation of friendships go for a Kantian? Would the
+   motives be right prior into entering the relation? Or, if (1) is just that we get
+   the friendship in virtue of being citizens of the KOE, we may not even need that
+   story?
+#+end_quote
+
+Even for Kant, not every relation one has to another needs to be understood morally,
+including friendship. That said, morality restricts ways in which we can permissibly
+act with respect to others, including our friends (or engaging in friendship). For
+example, morality prohibits striking up a "friendship" (or perhaps better, a mutual
+acquaintance) solely for the purpose of bringing about one's personal ends. This is a
+feature of Kant's broader conception of the moral law as prohibiting the merely
+instrumental use of others in one's actions. 
 * Website
 ** Pages
 :PROPERTIES:

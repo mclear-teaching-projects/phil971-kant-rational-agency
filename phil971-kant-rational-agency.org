@@ -1111,7 +1111,7 @@ developed by Christine Korsgaard.
 
 
 
-*** DONE Week 7 - Incorporation, Identification, & ’Mesh’ Theories of Rationality
+*** DONE Week 7 - Incorporation, Identification, & `Mesh’ Theories of Rationality
 SCHEDULED: <2020-09-29 Tue>
 :PROPERTIES:
 :EXPORT_HUGO_TAGS: action agency compatibilism identification incorporation

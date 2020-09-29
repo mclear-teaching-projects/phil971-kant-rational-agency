@@ -1344,6 +1344,8 @@ agent with its actions. We'll compare it to Henry Allison's influential idea tha
 Kant considers rational action to involve "incorporation" of a desire or impulse as
 one's reason.
 
+- [[/materials/handouts/7-kant-compatibilism-persons.pdf][Handout]] for week 7 
+
 **** Readings
 - Kant
    - /[[/materials/readings/kant-incorporation.pdf][Religion Within the Boundaries of Reason Alone]]/ (excerpt): 6:22-26

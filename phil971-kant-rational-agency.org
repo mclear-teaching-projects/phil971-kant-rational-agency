@@ -1363,8 +1363,20 @@ one's reason.
      
     
 
-*** TODO Week 8 - Agency without Agents?
+*** DONE Week 8 - Agency without Agents?
 SCHEDULED: <2020-10-06 Tue>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: action agency identification alienation
+:EXPORT_FILE_NAME: week8
+:END:
+
+We'll continue our discussion of agency, identification, and alienation this week by
+looking at arguments for and against the importance of agent causation. 
+
+**** Readings
+
+- Velleman, "[[/materials/readings/velleman-action.pdf][What Happens When Someone Acts?]]"
+- Franklin, "[[/materials/readings/franklin-agent-causation.pdf][If Anyone Should Be an Agent-Causalist, then Everyone Should Be an Agent-Causalist]]"
 
 *** TODO Week 9 - Self-Consciousness I
 SCHEDULED: <2020-10-13 Tue>

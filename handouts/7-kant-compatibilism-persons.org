@@ -1,0 +1,245 @@
+#+STARTUP: fnadjust
+#+TITLE: Compatibilism, Identification, & Persons
+#+DATE: Sept 29, 2020
+#+AUTHOR: Colin McLear | PHIL 971
+#+EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil971-kant-rational-agency/static/materials/handouts/7-kant-compatibilism-persons.pdf
+#+pandoc-emphasis-pre: "-\t ('\"{["
+#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]\\" 
+#+PANDOC_METADATA: numbersections:t secnumdepth:2 
+#+PANDOC_METADATA: "lfoot:PHIL 971 | Sept 29, 2020"
+#+PANDOC_METADATA: "lhead:Compatibilism, Identification, & Persons"
+#+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufte.tex
+#+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
+#+PANDOC_EXTENSIONS: org+raw_tex
+#+EXCLUDE_TAGS: noexport notes scrap todo
+#+LANGUAGE: en
+#+OPTIONS: ':t
+#+OPTIONS: prop:t
+
+* Kant's Compatibilism?
+
+** Textual Evidence for Compatibilism?
+1. The Canon of Pure Reason\sidenote[][-1in]{for the present I will use the concept
+   of freedom only in a practical sense and set aside, as having been dealt with
+   above, the transcendental signification of the concept, which cannot be
+   empirically presupposed as an explanatory ground of the appearances but is rather
+   itself a problem for reason.}\sidenote[][]{But whether in these actions, through
+   which it prescribes laws, reason is not itself determined by further
+   influences...in the practical sphere this does not concern us, since in the first
+   instance we ask of reason only a \textbf{precept} for conduct; it is rather a
+   merely speculative question, which we can set aside as long as our aim is directed
+   to action or omission. \ldots{} The question about transcendental freedom concerns
+   merely speculative knowledge, which we can set aside as quite indifferent if we
+   are concerned with what is practical (A803-4/B831-2)}
+2. The /Critique of Practical Reason/\sidenote[][]{One can therefore grant that if it
+   were possible for us to have such deep insight into a human being’s cast of
+   mind...that we would know every incentive to action...as well as all the external
+   occasions affecting them, we could calculate a human being’s conduct for the
+   future with as much certainty as a lunar or solar eclipse and could nevertheless
+   maintain that the human being’s conduct is free. (5:99)}
+3. The /Review of Schulz/\sidenote[][]{the practical concept of freedom has nothing to
+   do with the speculative concept, which is abandoned entirely to metaphysicians. For
+   I can be quite indifferent as to the origin of my state in which I am now to act;
+   I ask only what I now have to do, and then freedom is a necessary practical
+   presupposition and an idea under which alone I can regard commands of reason as
+   valid. (8:13)}
+4. /Groundwork/ III\sidenote[][]{I say now: every being that cannot act otherwise than
+   \emph{under the idea of freedom} is just because of that really free in a practical
+   respect, that is, all laws that are inseparably bound up with freedom hold for him
+   just as if his will had been validly pronounced free also in itself and in
+   theoretical philosophy (GIII 4:448)}\sidenote[][]{I follow this route - that of
+   assuming freedom, sufficiently for our purpose, only as laid down by rational
+   beings merely \emph{in idea} as a ground for their actions - so that I need not be
+   bound to prove freedom in its theoretical respect as well. For even if the latter
+   is left unsettled, still the same laws hold for a being that cannot act otherwise
+   than under the idea of its own freedom as would bind a being that was actually
+   free. Thus we can escape here from the burden that weighs upon theory. (4:448,
+   note)}
+
+\vspace{-.2in}  
+
+\noindent\newthought{Question}: To what extent does the evidence merely show that Kant construed
+  /agnosticism/ about transcendental freedom as compatible with acceptance of practical
+  freedom rather than the /compatibility/ of belief in freedom and determinism?
+  
+
+** Deliberation & Two Standpoints
+- Deliberation is an activity according to which one must proceed "as if" one is
+  "free" in weighing reasons for believing or intending
+
+#+begin_quote
+Occasionally one meets the objection that the freedom that we discover in reflection
+is a delusion. Human actions are causally determined. The philosopher's bugbear, the
+Scientific World View, threatens once more to deprive us of something we value. When
+desire calls we think we can take it or leave it, but in fact someone could have
+predicted exactly what we will do. But how can this be a problem? The afternoon
+stretches before me, and I must decide whether to work or to play. Suppose first that
+/you can predict/ which one I am going to do. That has no effect on me at all: I must
+still decide what to do. I am tempted to play but worried about work, and I must
+decide the case on its merits. Suppose next /I believe that you can predict/ which one
+I'm going to do. You've done it often enough before. What then? I am tempted by play
+but worried about work, and I must decide the case on its merits. [...] The freedom
+discovered in reflection is not a theoretical property which can also be seen by
+scientists considering the agent's deliberations third-personally and from outside.
+It is from within the deliberative perspective that we see our desires as providing
+suggestions which we may take or leave. (Korsgaard 1996b, 94-6)
+#+end_quote
+
+   1. Does deliberation presume that the future is genuinely (i.e. metaphysically)
+      "open" or just that it is not predictable (i.e. it is merely epistemically open)?
+   2. Does deliberation presume that one has the ability to do or refrain (i.e. that
+      one has leeway) from doing the action being deliberated upon?
+   3. Does deliberation presume that one's deliberations are causally efficacious? If
+      so in what sense?
+   4. Are there distinct (practical vs. theoretical) "standpoints" from which one can
+      both believe and deny the truth of determinism without
+      irrationality?\sidenote[][-.5in]{The deliberating agent, employing reason
+      practically, views the world as it were from a noumenal standpoint, as an
+      expression of the wills of God and other rational agents. [...] The theorizing
+      spectator, on the other hand, views the world as phenomena, mechanistic, and
+      fully determined. The interests of morality demand a different conceptual
+      organization of the world than those of theoretical explanation (Korsgaard
+      1989, 37).}
+       + What constitutes a "standpoint"?
+       + Does the existence of different standpoints allow for contradictory beliefs?
+     
+
+
+** Reasons to Reject a Compatibilist Reading
+
+1. Kant explicitly rejects the claim that freedom is compatible with our reason being
+   temporally determined in its activity as a "wretched subterfuge" and nothing more
+   than the "freedom of a turnspit"\sidenote[][]{It is a wretched subterfuge to seek
+   to evade this by saying that the kind of determining grounds of his causality in
+   accordance with natural law agrees with a \emph{comparative} concept of freedom
+   \ldots{} Some still let themselves be put off by this subterfuge and so think they
+   have solved, with a little quibbling about words, that difficult problem on the
+   solution of which millennia have worked in vain and which can therefore hardly be
+   found so completely on the surface. That is to say, in the question about that
+   freedom which must be put at the basis of all moral laws and the imputation
+   appropriate to them, it does not matter whether the causality determined in
+   accordance with a natural law is necessary through determining grounds lying
+   \emph{within} the subject or \emph{outside} him, or in the first case whether
+   these determining grounds are instinctive or thought by reason; if, as is admitted
+   by these men themselves, these determining representations have the ground of
+   their existence in time and indeed in the \emph{antecedent state} \ldots{} if the
+   freedom of our will were none other than the latter (say, psychological and
+   comparative but not also transcendental, i.e., absolute), then it would at bottom
+   be nothing better than the freedom of a turnspit, which, when once it is wound up,
+   also accomplishes its movements of itself. (CPrR 5:95-7)}
+2. Compatibilist readings are unable to explain how Kant's conception of spontaneity
+   is compatible with temporal determination
+    - Presumes that Kant has a non-question-begging argument for why time is a feature
+      of receptivity rather than spontaneity
+3. Compatibilist readings of Kant fail to explain why he might have thought that only
+   Transcendental Idealism could provide the basis for freedom of action/rationality
+   
+
+
+** The Incorporation Thesis
+- Incorporation Thesis: :: An incentive provides sufficient ground for
+  choice if and only if it has been "incorporated" into an agent's maxim of
+  action\sidenote[][]{freedom of the power of choice has the characteristic, entirely
+  peculiar to it, that it cannot be determined to action through any incentive \emph{except
+  so far as the human being has incorporated it into his maxim} (has made it into a
+  universal rule for himself, according to which he wills to conduct himself); only
+  in this way can an incentive, whatever it may be, coexist with the absolute
+  spontaneity of the power of choice (of freedom). Rel 6:23-4}
+
+  
+
+1. Is incorporation an act? 
+    a. if incorporation is an act then it is brought about through some capacity or
+       another, but what capacity would this be? 
+2. Who is doing the incorporating? The agent, or just some proper part of the agent?
+3. How central is the incorporation thesis to Kant's overall
+   position?\sidenote[][]{But freedom of choice cannot be defined - as some have
+   tried to define it - as the capacity to make a choice for or against the law
+   (\emph{libertas indifferentiae})\ldots Only freedom in relation to the internal
+   lawgiving of reason is really a capacity; the possibility of deviating from it is
+   an incapacity. How can that capacity be defined by {[}\emph{erklärt aus}{]} this
+   incapacity? It would be a definition that added to the practical concept the
+   exercise of it, as this is taught by experience, a hybrid definition
+   {[}\emph{Bastarderklärung}{]} (definitio \emph{hybrida}) that puts the concept in
+   a false light. (MM 6:226)}
+
+
+  
+* Frankfurt on Persons
+
+# Maybe make a note about how Frankfurt seems to be in the kantian tradition as i've
+# defined it? 
+
+A person possesses:
+
+1. Self-consciousness
+2. Rational capacities
+    - Means-end reasoning
+    - Critical evaluation of attitudes
+3. First-order desires
+4. Second-order volitions 
+    - capacity or actual volitions?
+      
+      
+- Persons form a class distinct from either wantons or mere animals
+   + Wantons lack (4), while animals lack both (2) and (4)
+
+
+
+** Identification & Wholeheartedness
+
+- Why do we need identification?\sidenote[][]{the assignment of desires to different
+  hierarchical levels does not by itself provide an explanation of what it is for
+  someone to be identified with one of his own desires rather than with another. It
+  does not make clear why it should be appropriate to construe a person as
+  participating in conflicts within himself between second-order volitions and
+  first-order desires, and hence as vulnerable to being defeated by his own desires,
+  when a wanton is not to be construed as a genuine participant in (or as having any
+  interest in the outcomes of) conflicts within himself between desires all of which
+  are of the first order. (Frankfurt 1988, 166)}
+- What is identification?\sidenote[][]{When a person identifies himself decisively
+  with one of his first-order desires, this commitment " resounds" throughout the
+  potentially endless array of higher orders. (Frankfurt 1971, 16)}
+   + Is it a causal notion?
+      - How could Frankfurt appeal to a causal notion here if his theory is
+        "non-historical"?\sidenote[][]{The fundamental responsibility of an agent
+        with respect to his own character is not a matter of whether it is as the
+        effect of his own actions that the agent has certain dispositions to feel and
+        to behave in various ways. (Frankfurt 1988, 171)}
+      - Is it causality from the agent or from some proper part thereof?
+   + If non-causal then in what sense could identification be an instance of the
+     agent "/making/ up one's mind" (p. 172) concerning what to do?
+- Who (or what) is doing the identifying?   
+
+** Freedom of Will
+
+- The concept <person> brings with it the free will problem\sidenote{The concept of a
+  person is not only, then, the concept of a type of entity that has both first-order
+  desires and volitions of the second order. It can also be construed as the concept
+  of a type of entity for whom the freedom of its will may be a problem. This concept
+  excludes all wantons, both infrahuman and human, since they fail to satisfy an
+  essential condition for the enjoyment of freedom of the will. And it excludes those
+  suprahuman beings, if any, whose wills are necessarily free. (Frankfurt 1971, 14)}
+- Two Desiderata on any account of freedom of will\sidenote{My theory concerning the
+  freedom of the will accounts easily for our disinclination to allow that this
+  freedom is enjoyed by the members of any species inferior to our own. It also
+  satisfies another condition that must be met by any such theory, by making it
+  apparent why the freedom of the will should be regarded as desirable. (Frankfurt
+  1971, 17)}
+   1. Why only humans (persons) are free 
+   2. What the value of a free will is (i.e. why persons care about being free)
+
+
+* Mesh Theories :noexport:
+
+* References  & Further Reading
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
+
+#+nocite: @wood1984a; @nelkin2000; @lavin2004; @kohl2015b; @kohl2016; @frierson2010; @tenenbaum2012; @pereboom2008; @korsgaard1996a; @korsgaard1989; @frierson2010; @hill1989; @korsgaard1996; @paton1947; @ameriks2000; @mckenna2016; @wolf1990; @mccarty2009; @frankfurt1971; @frankfurt1988
+
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in} \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
+

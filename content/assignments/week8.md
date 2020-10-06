@@ -12,6 +12,8 @@ type = "post"
 We'll continue our discussion of agency, identification, and alienation this week by
 looking at arguments for and against the importance of agent causation.
 
+-   [Handout](/materials/handouts/8-kant-agent-causation.pdf) for week 8
+
 
 ## Readings {#readings}
 

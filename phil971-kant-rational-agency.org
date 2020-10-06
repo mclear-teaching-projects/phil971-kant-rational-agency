@@ -904,6 +904,213 @@ example, morality prohibits striking up a "friendship" (or perhaps better, a mut
 acquaintance) solely for the purpose of bringing about one's personal ends. This is a
 feature of Kant's broader conception of the moral law as prohibiting the merely
 instrumental use of others in one's actions. 
+** Week 7
+*** Reading Responses
+
+**** Trevor
+#+begin_quote
+how free of “external” influences do spontaneous judgments need to be?
+#+end_quote
+
+The tldr version of the below is that what is spontaneous about judgment is not that
+it occurs prior to or independent of any experiential basis, but that in judgment one
+connects concepts in a way that spontaneous rather than receptive. 
+
+---
+
+Allison and I take somewhat different views as to exactly what Kant is saying when he
+says that judgment is a "spontaneous" activity. Allison seems to think that Kant is
+saying merely that we need to /conceive/ of judgment as a spontaneous activity, while I
+think Kant is saying that a necessary condition of judgment's being /judgment/ is that
+it /is/ a spontaneous activity. But be that as it may, I think we can understand Kant
+as saying that judgment is a kind of (rational) mental act that relates or connects
+two (or more) concepts, e.g., "the cat is black". This relating or connecting is
+different from /associating/ two contents (<cat> and <black>). And it is different from
+/perceiving/ two contents (/catness/ and /blackness/).
+
+Kant seems to think that perception doesn't present things in terms of truth or
+falsity. And he thinks that association only says something about how things are with
+the associating subject rather than how things are with respect to the world. So one
+special feature of judgment is that the connection between concepts results in a
+claim that could be true or false. In the terms I've been arguing for in this
+seminar, Kant thinks that judgment involves a kind of /rational/ (i.e. non-temporal)
+basing of one represented content on another. In a simple case of an analytic
+judgment, Kant thinks that the assertion (or "positing" as he often says) of
+<bachelor> is a sufficient condition for asserting <unmarried>) of that bachelor. So
+in the terms we were using a few weeks ago in talking about "taking" (and "basing"
+more generally) Kant thinks that the assertion that the subject is unmarried is /based/
+on the fact that the subject is a bachelor, and that this basis of predicate on
+subject cannot be understood in terms of association or perception. 
+
+Given Kant's view that temporal causation is irrational and part of receptivity and
+non-temporal causation is rational and part of spontaneity, his view seems to be that
+the basing relation needed to explain judgment (and really any kind of discursive
+activity, from conceptualization on up to rational inference) is one that must be
+spontaneous rather than receptive.
+
+**** John
+#+begin_quote
+1.	In reference to “the rational form of causation that is constitutive of moral action is one according to which nothing over and above the formal structure of causality itself is determinative of the effect of the action (through the desire for it)”
+
+-	By “rational form” what do you mean by it? Do we call causation “rational form” when we explain actions stemming from the agent? Is this sui generis or just the concept of causation understood within the framework of agency (as opposed to the general concept of causation qua being able to influence an effect). 
+#+end_quote
+
+In pointing to "form" here I take Kant to be construing rational causation as
+causation identifiable solely in terms of its character as a kind of universal
+necessitation relation, and not in terms of a kind of /temporal/ necessitation
+relation. The latter would not be spontaneous, and therefore (given Kant's
+identification of spontaneity with the rational) not rational. 
+
+In general Kant thinks of causation in terms of what we would now call "grounding",
+so he thinks of it as a kind of asymmetric and irreflexive necessitation relation. He
+thinks it takes two basic forms. One is temporal (i.e. first A is posited, and then B
+follows necessarily). The other is not (e.g. in a case of pure logical consequence).
+
+#+begin_quote
+In reference to “So the conditions of action require appeal to norms that are constitutive of action as such.”
+
+-	I guess part of my concern last week is to somehow address what I feel is a circularity going on in Kant. Somehow, this is also my worry in your statement above. To be free, actions must appeal to norms; but norms (say, moral law), because they are constitutive of actions, is taken as the very condition for freedom. So when S acts according to norms, her acting is governed by that norm – but then we say that that is free.
+
+-	Of course, if this is something that we should take as simply being Kantian, then I do not wish to pursue further. 
+#+end_quote
+
+The discussion of "constitutive norms" specifically relates to Korsgaard, and her
+reading of Kant (and her ethical/meta-ethical view more generally). Kant does not
+think that a free action is one that must be guided by a norm. He thinks that a free
+action is one that is the effect of a representation of a rational (causal) law.
+
+But even if we restrict ourselves to Korsgaard, I'm not sure I see the circularity.
+Korsgaard conceives of agency as requiring (at least in the most simple case)
+consciousness of a some "norm" according to which one acts. So without consciousness
+of norms one is not capable of agency. In this sense Korsgaard advocates a kind of
+"constitutivism". Constitutivism is usually understood as claiming that the
+basic/fundamental norms that apply to X do so in virtue of the nature of X. So in the
+case of agency, Constitutivism says that the norms that apply to an agent do so in
+virtue of the nature of agency. Hence if one fails to follow the norms one fails, in
+that sense, to be an agent. This is not dissimilar from Frankfurt's view that insofar
+as one fails to have any second order volitions one fails to have any interest in
+what one want, and so fails to be a person, or an agent more broadly.  
+
+#+begin_quote
+Now on to the readings for this week. There is much use of the word “incentive” in “Kant’s Religion Within the Boundaries of Mere Reason.” Again, since we are reading Kant, and that he tends to use terms idiosyncratically, I just wanted to ask if there is a special meaning that we need to attach on to it?
+#+end_quote
+
+Kant considers an 'incentive' to be a basis of desire. Incentives come in two forms.
+An incentive is /either/ a sensory "stimulus" that will cause a desire, or an
+intellectual "motive" that will cause a desire.
+
+#+begin_quote
+Two questions:
+In saying, “an incentive opposed to it must have influence on the power of choice of the human being in question”, does Kant assume that all actions necessarily have incentives incorporated in them?
+
+#+end_quote
+
+That does indeed seem to be Kant's position.
+
+#+begin_quote
+Is it possible to imagine, within the Kantian framework, a scenario of freestanding incentive? Let’s say an incentive is acted upon, but is at the same time not incorporated in a maxim, would it, by right of being ipso facto not in the maxim, render the act unfree, or lacking in the capacity for freedom, and ergo immoral? Is it right to say - Where an incentive to act incorporated in a maxim is taken by freewill in doing x is morally good, so an incentive to act not incorporated in a maxim is taken by (free)will in doing x is morally evil?
+#+end_quote
+
+Kant's "rigorism" (note the context in which he discusses the Incorporation Thesis in
+the /Religion/) consists in thinking that all agents are either "good" or "evil" in the
+sense that they either have as their basis for acting some interest in their own
+happiness, or they have as their basis for acting their interest in the moral law.
+The first involves the "incorporation" of a sensory incentive or "stimulus". The
+second involves the incorporation of an intellectual incentive or a "motive". 
+
+**** Janelle
+#+begin_quote
+How do we understand evil? I am now confused between last week and this week. Does evil track our motives or our actions?
+#+end_quote
+
+"Evil" is the action in which we act on the basis of a law of self-love (happiness)
+rather than the moral law. Particularly in the /Religion/, Kant seems to deny that free
+evil choices (so imputable evil actions) are intelligible. 
+
+#+begin_quote
+If it is  impossible for an agent to act in accordance with evil and good maxims at different times, then how do we understand agents that are learning to appreciate the moral law and divorcing themselves from their animal natures.
+#+end_quote
+
+The issue of moral "progress" is a tricky one for Kant, all the more so because of
+his atemporalist metaphysics. He has to say that what appears as temporal progress is
+based on some underlying atemporal set of facts. Of course, we also cannot know what
+those facts are (since they are not capable of being experienced). 
+
+#+begin_quote
+Is a Frankfurtian account of alien desires that move an agent consistent with how Kant thinks of responsibility? I would say no, but I just wanted to be clear on that.
+#+end_quote
+
+Let's see if we agree as to what Frankfurt holds. Frankfurt (or at least on time
+slice of him) seems to think that the effective desire that constitutes one's will is
+not, merely by virtue of its existing, something for which one is responsible. In
+order for one to be responsible one has to have a second-order volition through which
+one identifies with the first-order desire. Similar considerations hold on up through
+the hierarchy. An 'alien' desire is one with which the agent refuses to identify, or
+explicitly sets herself against. Frankfurt's position seems to be that an agent is
+not responsible for actions based on effective desires from which one is alienated.
+
+Because Frankfurt's account is non-causal, I don't see how the view is consistent
+with what Kant says (assuming, as I do, that Kant's position concerning action is
+causal). It also isn't clear whether Kant has a conception of an 'alienated' desire.
+He certainly conceives of sensible desire as 'alien' to reason. But this is different
+from its being alien to the /person/ whose desire it is. 
+
+**** Eunhong
+#+begin_quote
+First, I am wondering about the difference between a morally evil action and a morally indifferent action. Secondly, if some of the desires and impulses are not incorporated in maxims, Should all of those desires and impulses be regarded as evil? I think this second question is the following question from the first one. In other words, if some of our maxims has not made it into a universal rule for himself, I am wondering those maxims should always be regarded as evil in Kant’s theory. 
+#+end_quote
+
+Kant's position regarding "morally indifferent" actions is that they are the outcome
+of natural laws. So the acts of non-rational beings, driven purely by natural laws,
+are morally indifferent in this sense. I believe Kant thinks that there are no
+morally indifferent acts of rational beings, at least insofar as they are rational,
+but rather only acts that are morally permissible and impermissible. So listening to
+music in your room is (let's assume) morally permissible, but not morally
+indifferent.
+
+Kant thinks that insofar as one acts on a maxim one incorporates an incentive (note:
+incentive is distinct from desire; it is the basis or cause of a desire). The
+question is the nature of the incentive. If it is a stimulus, or pleasurable
+experience that is the basis for a desire, then the maxim is evil. If it is a motive,
+or intellectual representation of the moral law, then one's maxim is good. His
+"rigorism" denies that there can be an intermediary between these. Moreover, since
+Kant also thinks that all of one's maxims are systematically connected in a
+hierarchy, one is entirely either good or evil, depending on whether one's 'highest'
+maxim is one based on one's own happiness (evil) or on the moral law (good).  
+
+**** Chen
+#+begin_quote
+But most people in daily life are in the middle. They may do morally good things but also morally bad things. How will Kant evaluate these people? Will Kant say that these people’s good is only contingent? Like, they don’t do morally good things out of the moral law, but out of their own natural propensity and interest? 
+#+end_quote
+
+Kant thinks people acting on sensory incentives that they have incorporated into
+their maxims are evil. Otherwise they are good. There is no middle ground (see my
+response to Eunhong). 
+
+#+begin_quote
+Allison explains Kant’s term “apperception” as a “peculiar mode of cognitive self-awareness” (p. 37). Kant states that “the consciousness of myself in this representation ‘I’ is not an intuition, but a merely intellectual representation of the spontaneity of a thinking subject “(p. 37). I will agree if such self-awareness means that when we think or act, we are clearly aware that it is “I” that am thinking or acting, and agree that it is an “inseparable component of the first-order activity itself”. But I do need more explanation about “intellectual” and “intuition” here. 
+#+end_quote
+
+"intuition" refers to a sensory experience. Kant thinks that we have intuitions of
+objects in space and of our mental states as organized in time. But he thinks we have
+some non-sensory awareness of ourselves as well, and in particular of our activity in
+performing rational acts (e.g. judging or reasoning). Much of Kant's view here is
+obscure. One way I've tried to get at it is through an argument about how we know our
+mental acts (or the states and events connected to them) are /ours/.
+
+#+begin_quote
+I’m curious about the situation where I am distracted while acting or sleeping, do I lose the cognitive self-awareness then?
+#+end_quote
+
+There's an ongoing interpretive debate concerning whether Kant thinks of pure
+apperception as always "reflective". If he did then presumable when one is not
+reflecting, such as when one is distracted or sleeping (or much of the rest of the
+time), then one would fail to have such self-awareness. But it seems plausible to me
+that reflection, or the explicit self-awareness characterized in the expression "I
+think", is only one way in which such self-awareness is expressed. It can also be
+implicit, as when one is focused in thought. In such cases one is not overtly
+conscious of one's activity of thinking, yet at every step one know that it is
+oneself that is doing the thinking. 
 * Website
 ** Pages
 :PROPERTIES:
@@ -1375,6 +1582,8 @@ SCHEDULED: <2020-10-06 Tue>
 We'll continue our discussion of agency, identification, and alienation this week by
 looking at arguments for and against the importance of agent causation. 
 
+- [[/materials/handouts/8-kant-agent-causation.pdf][Handout]] for week 8
+  
 **** Readings
 
 - Velleman, "[[/materials/readings/velleman-action.pdf][What Happens When Someone Acts?]]"
@@ -1955,6 +2164,23 @@ Kant's conclusion here is limited in several ways. First, it concerns only knowl
 
 
 
+* Assignments
+** Paper topics
+*** Janelle's paper
+- whether the psychopath is an instance of an optimal moral agent
+
+*** Trevor
+- Something on hope
+  
+*** John
+- Religious belief and control
+
+*** Eunhong
+
+*** Chen
+
+* Footnotes
+
 * Configuration                                                                 :noexport:
 #+HUGO_BASE_DIR: ./ 
 #+STARTUP: nologdone
@@ -1971,7 +2197,6 @@ Kant's conclusion here is limited in several ways. First, it concerns only knowl
 #+EXCLUDE_TAGS: notes scrap todo
 #+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
 
-* Footnotes
 * COMMENT Local Variables                          :ARCHIVE:
 # Local Variables:
 # eval: (org-hugo-auto-export-mode)

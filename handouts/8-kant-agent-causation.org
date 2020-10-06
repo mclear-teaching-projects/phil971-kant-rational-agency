@@ -1,0 +1,251 @@
+#+STARTUP: fnadjust
+#+TITLE: Incorporation, Identification, & Agent-Causation
+#+DATE: Oct 6, 2020
+#+AUTHOR: Colin McLear | PHIL 971
+#+EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil971-kant-rational-agency/static/materials/handouts/8-kant-agent-causation.pdf
+#+pandoc-emphasis-pre: "-\t ('\"{["
+#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]\\" 
+#+PANDOC_METADATA: numbersections:t secnumdepth:2 
+#+PANDOC_METADATA: "lfoot:PHIL 971 | Oct 6, 2020"
+#+PANDOC_METADATA: "lhead:Incorporation, Identification, & Agent-Causation"
+#+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufte.tex
+#+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
+#+PANDOC_EXTENSIONS: org+raw_tex
+#+EXCLUDE_TAGS: noexport notes scrap todo
+#+LANGUAGE: en
+#+OPTIONS: ':t
+#+OPTIONS: prop:t
+
+* Korsgaard's Compatibilism
+
+** Two Arguments About Deliberation
+
+
+\textsc{The Device}
+
+#+begin_quote
+[Kant’s …] point is not that you must believe that you are free, but that you must
+choose as if you were free. It is important to see that this is quite consistent with
+believing yourself to be fully determined. To make it vivid, imagine that […] you
+know that […] your every move is programmed by an electronic device in your brain.
+[…] The important point here is that efforts to second guess the device cannot help
+you decide what to do. […] In order to do anything, you must simply ignore the fact
+that you are programmed, and decide what to do – just as if you were free (Korsgaard
+1996a, 162)
+#+end_quote
+\noindent\textsc{The Predictor}
+
+#+begin_quote
+When
+desire calls we think we can take it or leave it, but in fact someone could have
+predicted exactly what we will do. But how can this be a problem? The afternoon
+stretches before me, and I must decide whether to work or to play. Suppose first that
+/you can predict/ which one I am going to do. That has no effect on me at all: I must
+still decide what to do. I am tempted to play but worried about work, and I must
+decide the case on its merits. Suppose next /I believe that you can predict/ which one
+I'm going to do. You've done it often enough before. What then? I am tempted by play
+but worried about work, and I must decide the case on its merits. [...] The freedom
+discovered in reflection is not a theoretical property which can also be seen by
+scientists considering the agent's deliberations third-personally and from outside.
+It is from within the deliberative perspective that we see our desires as providing
+suggestions which we may take or leave. (Korsgaard 1996b, 94-6)
+#+end_quote
+
+** Questions For Korsgaard
+
+   1. Does deliberation presume that the future is genuinely (i.e. metaphysically)
+      "open" or just that it is not predictable (i.e. it is merely epistemically open)?
+   2. Does deliberation presume that one has the ability to do or refrain (i.e. that
+      one has leeway) from doing the action being deliberated upon?
+   3. Does deliberation presume that one's deliberations are causally efficacious? If
+      so in what sense?
+   4. Are there distinct (practical vs. theoretical) "standpoints" from which one can
+      both believe and deny the truth of determinism without
+      irrationality?\sidenote[][-2in]{a rational being must regard himself \emph{as
+      intelligence} (hence not from the side of his lower powers) as belonging not to
+      the world of sense but to the world of understanding; hence he has two
+      standpoints from which he can regard himself and cognize laws for the use of
+      his powers and consequently for all his actions; \emph{first}, insofar as he
+      belongs to the world of sense, under laws of nature (heteronomy);
+      \emph{second}, as belonging to the intelligible world, under laws which, being
+      independent of nature, are not empirical but grounded merely in reason. (GIII
+      4:452)}\sidenote[][-.15in]{The deliberating agent, employing reason practically,
+      views the world as it were from a noumenal standpoint, as an expression of the
+      wills of God and other rational agents. [...] The theorizing spectator, on the
+      other hand, views the world as phenomena, mechanistic, and fully determined.
+      The interests of morality demand a different conceptual organization of the
+      world than those of theoretical explanation (Korsgaard 1996a, 173).}
+       + What constitutes a "standpoint"?
+       + Does the existence of different standpoints allow for contradictory beliefs?
+
+
+** Two Problems for Korsgaard's Interpretation
+
+1. Kant explicitly rejects the claim that freedom is compatible with our reason being
+   temporally determined in its activity as a "wretched subterfuge" and nothing more
+   than the "freedom of a turnspit"\sidenote[][]{It is a wretched subterfuge to seek
+   to evade this by saying that the kind of determining grounds of his causality in
+   accordance with natural law agrees with a \emph{comparative} concept of freedom
+   \ldots{} Some still let themselves be put off by this subterfuge and so think they
+   have solved, with a little quibbling about words, that difficult problem on the
+   solution of which millennia have worked in vain and which can therefore hardly be
+   found so completely on the surface. That is to say, in the question about that
+   freedom which must be put at the basis of all moral laws and the imputation
+   appropriate to them, it does not matter whether the causality determined in
+   accordance with a natural law is necessary through determining grounds lying
+   \emph{within} the subject or \emph{outside} him, or in the first case whether
+   these determining grounds are instinctive or thought by reason; if, as is admitted
+   by these men themselves, these determining representations have the ground of
+   their existence in time and indeed in the \emph{antecedent state} \ldots{} if the
+   freedom of our will were none other than the latter (say, psychological and
+   comparative but not also transcendental, i.e., absolute), then it would at bottom
+   be nothing better than the freedom of a turnspit, which, when once it is wound up,
+   also accomplishes its movements of itself. (CPrR 5:95-7)}
+2. Korsgaard's compatibilist reading of Kant fails to explain why he might have thought that only *Transcendental Idealism* could provide the basis for freedom of action/rationality
+
+
+* The Incorporation Thesis
+- Incorporation Thesis: :: An incentive provides sufficient ground for
+  choice if and only if it has been "incorporated" into an agent's maxim of
+  action\sidenote[][]{freedom of the power of choice has the characteristic, entirely
+  peculiar to it, that it cannot be determined to action through any incentive \emph{except
+  so far as the human being has incorporated it into his maxim} (has made it into a
+  universal rule for himself, according to which he wills to conduct himself); only
+  in this way can an incentive, whatever it may be, coexist with the absolute
+  spontaneity of the power of choice (of freedom). Rel 6:23-4}
+
+  
+
+1. Is incorporation an act? 
+    a. if incorporation is an act then it is brought about through some capacity or
+       another, but what capacity would this be? 
+2. Who is doing the incorporating? The agent, or just some proper part of the agent?
+3. How central is the incorporation thesis to Kant's overall
+   position?\sidenote[][]{But freedom of choice cannot be defined - as some have
+   tried to define it - as the capacity to make a choice for or against the law
+   (\emph{libertas indifferentiae})\ldots Only freedom in relation to the internal
+   lawgiving of reason is really a capacity; the possibility of deviating from it is
+   an incapacity. How can that capacity be defined by {[}\emph{erklärt aus}{]} this
+   incapacity? It would be a definition that added to the practical concept the
+   exercise of it, as this is taught by experience, a hybrid definition
+   {[}\emph{Bastarderklärung}{]} (definitio \emph{hybrida}) that puts the concept in
+   a false light. (MM 6:226)}
+
+
+  
+* Identification & Agent-Causation
+** Frankfurt on Persons
+
+# Maybe make a note about how Frankfurt seems to be in the kantian tradition as i've
+# defined it? 
+
+A "person" possesses:
+
+1. Self-consciousness
+2. Rational capacities
+    - Means-end reasoning
+    - Critical evaluation of attitudes
+3. First-order desires
+4. Second-order volitions 
+    - capacity or actual volitions?
+      
+      
+- Persons form a class distinct from either "wantons" or mere "animals"
+   + Wantons lack (4), while animals lack both (2) and (4)
+
+
+
+** Identification & Wholeheartedness
+
+- Why do we need identification?\sidenote[][-.85in]{the assignment of desires to different
+  hierarchical levels does not by itself provide an explanation of what it is for
+  someone to be identified with one of his own desires rather than with another. It
+  does not make clear why it should be appropriate to construe a person as
+  participating in conflicts within himself between second-order volitions and
+  first-order desires, and hence as vulnerable to being defeated by his own desires,
+  when a wanton is not to be construed as a genuine participant in (or as having any
+  interest in the outcomes of) conflicts within himself between desires all of which
+  are of the first order. (Frankfurt 1988, 166)}
+- What is identification?\sidenote[][]{When a person identifies himself decisively
+  with one of his first-order desires, this commitment "resounds" throughout the
+  potentially endless array of higher orders. (Frankfurt 1988, 21)}
+   + Is it a causal notion?
+      - How could Frankfurt appeal to a causal notion here if his theory is
+        "non-historical"?\sidenote[][1.5in]{The fundamental responsibility of an agent
+        with respect to his own character is not a matter of whether it is as the
+        effect of his own actions that the agent has certain dispositions to feel and
+        to behave in various ways. (Frankfurt 1988, 171)}
+      - Is it causality from the agent or from some proper part thereof?
+   + If non-causal then in what sense could identification be an instance of the
+     agent "/making/ up one's mind" (p. 172) concerning what to do?
+- Who (or what) is doing the identifying?   
+
+** The Problem of Agency
+- Authorship condition: :: the concept of an agent requires that the agent /does/
+  something, as opposed to the agent's merely being the /subject/ of behaviour (or
+  intention to behave)\sidenote[][]{What makes us agents rather than mere subjects of
+  behaviour---in our conception of ourselves, at least, if not in reality---is our
+  perceived capacity to interpose ourselves into the course of events in such a way
+  that the behavioural outcome is traceable directly to us. (Velleman 1992, 465-6)}
+- Agent-causation: :: /S/ \phi's just in case /S/, who is not identical with any of their
+  /s/-involving mental states and events, non-deviantly causes \phi
+- Event-causation: :: /S/ \phi's just in case certain /s/-involving mental states and events
+  non-deviantly cause \phi
+  
+
+- \textsc{Question}: Is authorship possible without agent-causation? 
+   - Velleman: Yes, we just need a desire that satisfies the "agent role"
+   - Franklin: No, only agent-causation can satisfy the authorship condition 
+
+
+** Franklin's "It Ain't Me" Argument
+
+1. An agent /s/ self-determines a decision /d/ only if (i) /s/ adjudicates between his
+   various motivations for or against /d/, and (ii) on the basis of this adjudicating
+   process /s/ determines or causes /d/.
+2. If the members of some set of states and events play the causal roles of (i) and
+   (ii), then /s/ plays the causal roles of (i) and (ii) only if /s/ is identical to
+   (some members of) this set of states and events.
+3. An agent is not identical to any state or event or any set of states and events.
+4. Therefore, if the members of some set of states and events play the causal roles
+   of (i) and (ii), then /s/ does not self-determine /d/.
+5. Therefore, if /s/ self-determines /d/, then /s/, and not merely states and events,
+   causes /d/.
+
+
+
+- Velleman's "identification reductionism about self-determination" denies (2); the
+  agent can count as playing a distinctive causal role even if his causal role is
+  played by states and events that are not identical to him, so long as these are
+  states and events with which he is identified (Franklin 2016, 1124)
+   + The functional role of the agent is to "take sides", and whatever plays this role
+     cannot be identical with whatever it may takes sides for/against\sidenote[][]{The
+     functional role of agent is that of a single party prepared to reflect on, and
+     take sides with, potential determinants of behaviour at any level in the
+     hierarchy of attitudes; and this party cannot be identical with any of the items
+     on which it must be prepared to reflect or with which it must be prepared to take
+     sides. (Velleman 1992, 477)}
+   + The satisfier of this role is another state or event that can motivate the agent
+     -- i.e. a desire
+   + The desire that fills this functional role is the desire to act in accordance
+     with reasons\sidenote[][]{What really produces the bodily movements that you are
+     said to produce, then, is a part of you that performs the characteristic
+     functions of agency. That part, I claim, is your desire to act in accordance
+     with reasons, a desire that produces behaviour, in your name, by adding its
+     motivational force to that of whichever motives appear to provide the strongest
+     reasons for acting, just as you are said to throw your weight behind them.
+     (Velleman 1992, 479)}
+    
+
+
+* References  & Further Reading
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
+
+#+nocite: @nelkin2000; @lavin2004; @frierson2010; @korsgaard1996a; @korsgaard1996; @mckenna2016; @wolf1990; @mccarty2009; @frankfurt1988; @velleman1992; @franklin2016
+
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in} \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
+

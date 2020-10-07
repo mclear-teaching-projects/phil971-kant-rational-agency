@@ -1111,6 +1111,161 @@ think", is only one way in which such self-awareness is expressed. It can also b
 implicit, as when one is focused in thought. In such cases one is not overtly
 conscious of one's activity of thinking, yet at every step one know that it is
 oneself that is doing the thinking. 
+** Week 8
+*** Discussion
+**** Korsgaard
+Korsgaard provides 2 arguments for her compatibilism. Each is based on a slightly
+different scenario.
+
+Both arguments are similar in trying to show that the "normative question" must be
+raised and answered whether or not determinism is true, and whether or not one /knows/
+it to be true. 
+
+We've raised the question of whether it is right to describe what is happening in the
+"device" scenario as deliberation, since it is unclear that one is actually the
+source of any of the thoughts, or that they are connected to one another by one's
+causal activity in the manner seemingly required for deliberation. They all come from
+the device. 
+
+The predictor example avoids this problem but it also makes the strong claim that the
+"freedom discovered in reflection is not a theoretical property".
+
+*** Reading Responses
+
+**** Janelle
+#+begin_quote
+1. It seems like the SV people have a way to discuss the broken friendship case, particularly Davidson and how general the view is supposed to be. 
+2. How does Velleman’s response do a better job at handling this case? 
+#+end_quote
+
+According to the "Standard View" (SV) an agent "participates" in an action just in
+case their beliefs and desires interact in a causally non-deviant way to form
+intentions to act. This means that all cases in which the agent /fails/ to participate
+in the action are going to be cases that either appeal to a mismatch or lack of
+desire/belief or appeal to one form or another of causal deviance. Velleman's
+friendship example is supposed to be a case where all the conditions for a SV
+explanation are satisfied (there is a relevant belief/desire pair, and there are no
+causally deviant conditions) but there is nevertheless a lack of participation by the
+agent. As Velleman puts it, "I can believe that the decision, though genuinely
+motivated by my desires, was thereby induced in me but not formed by me ... Indeed,
+viewing the decision as directly motivated by my desires, and my behaviour as
+directly governed by the decision, is precisely what leads to the thought that as my
+words became more shrill, it was my resentment speaking, not I"
+
+Velleman gives a different account of participation that appeals to a particular kind
+of desire---viz. the desire to act for reasons---and assuming he is successful in
+arguing that this desire can play proxy for the agent, his view easily accommodates
+the idea that one can be alienated from actions that are otherwise a product of one's
+beliefs and desire causally interacting in a normal manner.  
+
+**** John
+#+begin_quote
+why should the agent always act on given motivations? Is it possible to conceive a scenario in which the agent, in the process of adjudication, abstains or refrains from acting on motivations? 
+If we can consider refraining from acting on motivations as a self-determining act, then shall we not consider such action – or, inaction? – as an exemplification of causal agency?
+#+end_quote
+
+It sounds to me like the proposed case of abstaining to act on motivations is either
+going to result in an irrational action or no action at all. A similar point would
+seem to hold for mental actions such as judgment or belief. 
+
+**** Trevor
+#+begin_quote
+[In the broken friendship example we] are to think that [Velleman's] beliefs and desires produced an intention that exercised its normal causal powers, “without any contribution from me” (465).
+
+If Velleman is right then Velleman must not be alone. What I mean is that, if a mind contributed to the action, but Velleman didn’t, then it seems like it is someone else’s mind must have caused the action. If some other mind caused the action, then Velleman isn’t alone, but there are two minds occupying his body
+#+end_quote
+
+What I think Velleman would say here is that there is a difference between
+something's "coming from my mind" and something's "coming from /me/". My mind (or
+perhaps "brain" would be better here?) is just a locus for various mental events to
+occur, or mental forces to play out. But /me/, or my /self/ is something distinct from
+this, such that it makes sense to say that I do not identify with, and thus am
+alienated from, at least some of the beliefs, desires, etc. that occur in my mind.
+However, that need not entail that there are /two/ selves (or two minds) in one body.
+
+**** Eunhong
+#+begin_quote
+First, Velleman says the mental events and states are functionally identical to the agent, but this agent is not the one who can cause agent-causation. Then, what’s the agent? 
+#+end_quote
+
+Velleman rejects the idea that agents are substances. He quotes Nagel here:
+"Everything I do or that anyone else does is part of a larger course of events that
+no one 'does', but that happens, with or without explanation. Everything I do is part
+of something I don't do, because I am a part of the world (1986, p. 1 14; cf. Bishop
+1989, pp. 39ff.)." Velleman goes on to say that ". Any explanation of human action
+will speak in terms of some such occurrences, because occurrences are the basic
+elements of explanation in general" (468).
+
+For Velleman the agent is going to be that system of beliefs and desires that mesh
+with the overarching desire to act (or believe) according to one's reasons. Here is
+Velleman's statement on pp. 479-80:
+
+#+begin_quote
+a person's desire to act in accordance with reasons cannot operate in him without its
+operations being constitutive of his agency. What it is for this motive to operate is
+just this: for potential determinants of behaviour to be critically reviewed, to be
+embraced or rejected, and to be consequently reinforced or suppressed. Whatever
+intervenes in these ways between motives and behaviour is thereby playing the role of
+the agent and consequently is the agent, functionally speaking. Although the agent
+must possess an identity apart from the substantive motives competing for influence
+over his behaviour, he needn't possess an identity apart from the attitude that
+animates the activity of judging such competitions. If there is such an attitude,
+then its contribution to the competition's outcome can qualify as his---not because he
+identifies with it but rather because it is functionally identical to him. 
+#+end_quote
+
+So Velleman continues to avoid any commitment to anything existing above and beyond
+the events and states of affairs constituted by there being various beliefs and
+desires that occur. He just thinks that one of these desires (the desire to act on
+reasons) plays a special role --- it constitutes the agency of the network of beliefs
+and desires within which it is enmeshed. Velleman had extensive developed his
+conception of agency and the self in other essays. See his /Self to Self/, and /The
+Possibility of Practical Reason/.
+
+**** Chen
+#+begin_quote
+If causal determinism works, then those events and motives causing Jones to attend Yale will cause him to make the same decision in every possible world. But Franklin claims that the events and motives only provide a probability for Jones to exercise his agent-causal power to make the decision. So is there a possible world in which Jones exercise his agent-causal power to decide not to attend Yale, under the influence of all the same events and motives?
+#+end_quote
+
+I think this way of posing the problem conflates logical (possible worlds) with
+causal (this world) determinism. But in any case Franklin is thinking that it is
+conceptually coherent to think that a set of motives can make it certain (i.e.
+probability=1) that Jones decides on Yale, but that it is Jones that decides, and not
+that the motives cause a decision that is not itself caused by Jones. 
+
+#+begin_quote
+Does it mean that an agent might not have sufficient reasons to do something, but it is the agent’s decision (the exercise of the agent power) that causes something to happen? Thus, the so-called “causes” are merely explanations for decisions to make sense.
+#+end_quote
+
+Yes -- and what else are causes but forms of explanation?
+
+#+begin_quote
+If the agent is only an intermediary here to transmit the causal power of motives to a certain decision, is there any room for the agent to exercise the agent power? Or, does it mean that the agent power is the power to transmit? It is like, in the constitutional monarchy, the monarch is bound to act on the advice of the government, although the monarch will symbolically endorse the choice of Prime Minister or Prime Minister needs to swear an oath of loyalty to the monarch. 
+#+end_quote
+
+I suppose how one answers this depends on how one thinks of an agent-causal power.
+Your constitutional monarchy is a good example. If "symbolically endorse" means "has
+not causal effect on the outcome/is epiphenomenal" then there is reason to worry that
+if Franklin's view of agent-causation has that commitment it is not really causation
+at all. But if the Constitutional Monarch has a causal role to play in what becomes
+law, by endorsing the prime minister's choice, then even if this endorsement is fully
+determined by (e.g.) the parliment, it is still a causally important link, which the
+Monarch fulfills. Why then wouldn't the analogue in the agent-causation case be an
+instance of agent causation?
+
+#+begin_quote
+When an agent exercises the self-determination power to intervene among one’s various and often conflicting motivations and to determine which course of action to pursue (p. 19), is there a reason, an explanation or a motive for the agent to pick up a certain motivation? If he doesn’t, does he randomly choose a motivation and according action to pursue, so the agent’s decision itself is enough for the cause of an event? If he does, could we regard the reason for the agent to choose a motivation as the cause, rather than the agent to be the cause?
+#+end_quote
+
+This brings out reasons why libertarianism as an indeterminist view has seemed so
+unpalatable to so many. On the one hand it looks like the agent is acting by chance,
+and so not really acting rationally/explicably. On the other hand, when the reasons
+and decisions are just looked at as events, the agent seems to drop out of the
+picture (this is a version of the "disappearing agent objection" to event-causal
+libertarian accounts). The proponent of an agent-causation account would have to say
+that reason might be causally efficacious in the decision, but it is by way of
+causing the agent to decide a particular way, and no simply a cause of the even that
+is constituted by that decision. 
 * Website
 ** Pages
 :PROPERTIES:
@@ -1589,11 +1744,36 @@ looking at arguments for and against the importance of agent causation.
 - Velleman, "[[/materials/readings/velleman-action.pdf][What Happens When Someone Acts?]]"
 - Franklin, "[[/materials/readings/franklin-agent-causation.pdf][If Anyone Should Be an Agent-Causalist, then Everyone Should Be an Agent-Causalist]]"
 
-*** TODO Week 9 - Self-Consciousness I
+*** DONE Week 9 - Self-Consciousness I
 SCHEDULED: <2020-10-13 Tue>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: agency identification alienation self-consciousness self-knowledge reflection
+:EXPORT_FILE_NAME: week9
+:END:
+
+This week we will finish up our discussion of agent-causation from last week,
+focusing on Velleman's functional and reductive account of agent-causation and
+Franklin's "It Ain't Me" argument. We'll then turn to two recent arguments on the
+relation between rationality and various forms of self-consciousness or
+self-knowledge.
+
+**** Readings
+
+- Burge, "[[/materials/readings/burge-reason.pdf][Reason and the First Person]]"
+- Boyle, "[[/materials/readings/boyle-active.pdf][Active Belief]]"
+- (Optional) Burge, "[[/materials/readings/burge-self-knowledge.pdf][Our Entitlement to Self-Knowledge]]"
+- (Optional) Boyle, "[[/materials/readings/boyle-making-mind.pdf][‘Making up Your Mind’ and the Activity of Reason]]"
+
+
 
 *** TODO Week 10 - Self-Consciousness II 
 SCHEDULED: <2020-10-20 Tue>
+
+This week we look at criticism of both reflective control and of doxastic agency.
+
+**** Readings
+- Hieronymi, "Reflection and Responsibility"
+- Setiya, "Epistemic Agency: Some Doubts"
 
 *** TODO Week 11 - Transformative Rationality
 SCHEDULED: <2020-10-27 Tue>
@@ -2164,20 +2344,22 @@ Kant's conclusion here is limited in several ways. First, it concerns only knowl
 
 
 
-* Assignments
-** Paper topics
-*** Janelle's paper
+* Paper topics
+** Janelle's paper
 - whether the psychopath is an instance of an optimal moral agent
 
-*** Trevor
+** Trevor
 - Something on hope
   
-*** John
+** John
 - Religious belief and control
 
-*** Eunhong
-
-*** Chen
+** Eunhong
+- Why causation is important for Kant 
+- What is causation anyway?
+- Criticism of Korsgaard & Velleman
+   + do they not care about causation?
+** Chen
 
 * Footnotes
 

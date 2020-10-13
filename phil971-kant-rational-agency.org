@@ -1757,6 +1757,8 @@ Franklin's "It Ain't Me" argument. We'll then turn to two recent arguments on th
 relation between rationality and various forms of self-consciousness or
 self-knowledge.
 
+- [[/materials/handouts/9-kant-self-consciousness.pdf][Handout]] for week 9 
+
 **** Readings
 
 - Burge, "[[/materials/readings/burge-reason.pdf][Reason and the First Person]]"

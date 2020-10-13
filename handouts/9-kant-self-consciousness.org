@@ -1,0 +1,235 @@
+#+STARTUP: fnadjust
+#+TITLE: Agent-Causation, Self-Consciousness, & Rationality
+#+DATE: Oct 13, 2020
+#+AUTHOR: Colin McLear | PHIL 971
+#+EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil971-kant-rational-agency/static/materials/handouts/9-kant-self-consciousness.pdf
+#+pandoc-emphasis-pre: "-\t ('\"{["
+#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]\\" 
+#+PANDOC_METADATA: numbersections:t secnumdepth:2 
+#+PANDOC_METADATA: "lfoot:PHIL 971 | Oct 13, 2020"
+#+PANDOC_METADATA: "lhead:Agent-Causation, Self-Consciousness, & Rationality"
+#+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufte.tex
+#+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
+#+PANDOC_EXTENSIONS: org+raw_tex
+#+EXCLUDE_TAGS: noexport notes scrap todo
+#+LANGUAGE: en
+#+OPTIONS: ':t
+#+OPTIONS: prop:t
+
+
+
+* Identification & Agent-Causation
+** Frankfurt on Persons
+
+# Maybe make a note about how Frankfurt seems to be in the kantian tradition as i've
+# defined it? 
+
+A "person" possesses:
+
+1. Self-consciousness
+2. Rational capacities
+    - Means-end reasoning
+    - Critical evaluation of attitudes
+3. First-order desires
+4. Second-order volitions 
+    - capacity or actual volitions?
+      
+      
+- Persons form a class distinct from either "wantons" or mere "animals"
+   + Wantons lack (4), while animals lack both (2) and (4)
+
+
+
+** Identification & Wholeheartedness
+
+- Why do we need identification?\sidenote[][-.25in]{the assignment of desires to different
+  hierarchical levels does not by itself provide an explanation of what it is for
+  someone to be identified with one of his own desires rather than with another. It
+  does not make clear why it should be appropriate to construe a person as
+  participating in conflicts within himself between second-order volitions and
+  first-order desires, and hence as vulnerable to being defeated by his own desires,
+  when a wanton is not to be construed as a genuine participant in (or as having any
+  interest in the outcomes of) conflicts within himself between desires all of which
+  are of the first order. (Frankfurt 1988, 166)}
+- What is identification?\sidenote[][]{When a person identifies himself decisively
+  with one of his first-order desires, this commitment "resounds" throughout the
+  potentially endless array of higher orders. (Frankfurt 1988, 21)}
+   + Is it a causal notion?
+      - How could Frankfurt appeal to a causal notion here if his theory is
+        "non-historical"?\sidenote[][]{The fundamental responsibility of an agent
+        with respect to his own character is not a matter of whether it is as the
+        effect of his own actions that the agent has certain dispositions to feel and
+        to behave in various ways. (Frankfurt 1988, 171)}
+      - Is it causality from the agent or from some proper part thereof?
+   + If non-causal then in what sense could identification be an instance of the
+     agent "/making/ up one's mind" (p. 172) concerning what to do?
+- Who (or what) is doing the identifying?   
+
+** The Problem of Agency
+- Authorship condition: :: the concept of an agent requires that the agent /does/
+  something, as opposed to the agent's merely being the /subject/ of behaviour (or
+  intention to behave)\sidenote[][]{What makes us agents rather than mere subjects of
+  behaviour---in our conception of ourselves, at least, if not in reality---is our
+  perceived capacity to interpose ourselves into the course of events in such a way
+  that the behavioural outcome is traceable directly to us. (Velleman 1992, 465-6)}
+- Agent-causation: :: /S/ \phi's just in case /S/, who is not identical with any of their
+  /s/-involving mental states and events, non-deviantly causes \phi
+- Event-causation: :: /S/ \phi's just in case certain /s/-involving mental states and events
+  non-deviantly cause \phi
+  
+
+- \textsc{Question}: Is authorship possible without agent-causation? 
+   - Velleman: Yes, we just need a desire that satisfies the "agent role"
+   - Franklin: No, only agent-causation can satisfy the authorship condition 
+
+
+** Franklin's "It Ain't Me" Argument
+
+1. An agent /s/ self-determines a decision /d/ only if (i) /s/ adjudicates between his
+   various motivations for or against /d/, and (ii) on the basis of this adjudicating
+   process /s/ determines or causes /d/.
+2. If the members of some set of states and events play the causal roles of (i) and
+   (ii), then /s/ plays the causal roles of (i) and (ii) only if /s/ is identical to
+   (some members of) this set of states and events.
+3. An agent is not identical to any state or event or any set of states and events.
+4. Therefore, if the members of some set of states and events play the causal roles
+   of (i) and (ii), then /s/ does not self-determine /d/.
+5. Therefore, if /s/ self-determines /d/, then /s/, and not merely states and events,
+   causes /d/.
+
+
+
+- Velleman's "identification reductionism about self-determination" denies (2); the
+  agent can count as playing a distinctive causal role even if his causal role is
+  played by states and events that are not identical to him, so long as these are
+  states and events with which he is identified (Franklin 2016, 1124)
+   + The functional role of the agent is to "take sides", and whatever plays this role
+     cannot be identical with whatever it may takes sides for/against\sidenote[][]{The
+     functional role of agent is that of a single party prepared to reflect on, and
+     take sides with, potential determinants of behaviour at any level in the
+     hierarchy of attitudes; and this party cannot be identical with any of the items
+     on which it must be prepared to reflect or with which it must be prepared to take
+     sides. (Velleman 1992, 477)}
+   + The satisfier of this role is another state or event that can motivate the agent
+     -- i.e. a desire
+   + The desire that fills this functional role is the desire to act in accordance
+     with reasons\sidenote[][]{What really produces the bodily movements that you are
+     said to produce, then, is a part of you that performs the characteristic
+     functions of agency. That part, I claim, is your desire to act in accordance
+     with reasons, a desire that produces behaviour, in your name, by adding its
+     motivational force to that of whichever motives appear to provide the strongest
+     reasons for acting, just as you are said to throw your weight behind them.
+     (Velleman 1992, 479)}
+    
+
+
+* Burge on Reason and Self-Consciousness
+** Lichtenberg's Objection
+- The introduction of the first-person concept requires special argument. What could
+  justify the move from 'there is thinking' to 'I am thinking'?\sidenote[][]{We are
+  acquainted only with the existence of our sensations, imaginations, and thoughts.
+  ‘Thinking is going on’ (\emph{Es denkt}) is what one should say, just as one says,
+  ‘Lightning is occurring’ (\emph{Es blitzt}). Saying ‘\emph{Cogito}’ is too much, as
+  soon as one translates it as ‘I am thinking’. Accepting, postulating, the I is a
+  practical requirement. (Lichtenberg 1971, 412, §76)}
+- The /Cogito/ either is either trivial (because circular) or invalid  
+
+
+- Lichtenberg's Challenge: :: Full understanding of reason or cognition can dispense
+  with the first-person concept: the concept has no special epistemic status or
+  cognitive value. It has at most merely ‘practical’ uses (Burge 2013, 388)
+
+** Burge's Reply
+
+- Burge's Challenge: :: 'I' plays a central and necesseary role in "fullly
+  understanding" the concept of reason and reasoning
+
+
+
+A. Reasoning requires a point of view
+    - The Lichtenberg Objector is unable to explain how one thought might follow from
+     another, or why one thought might incompatible with
+     another.\sidenote[][]{‘Thinking is going on’, needs
+     ‘relativization’-intuitively, to a thinker or point of view. (Burge 2013, 388)}
+B. The concept of reason (and related concepts like propositional attitude, reason,
+   change of mind) requires the first-person concept
+    1. All reasons (i.e. rational evaluations) are also
+       reasons-to\sidenote[][]{reasons necessarily not only evaluate but have force
+       in forming, changing, confirming attitudes in accord with the reasons
+       (Burge2013, 389)
+    2. So in order to have a reason to \phi one must, in some way, be motivated to
+       thereby \phi
+    3. In order to be rationally motivated to \phi one must be able to understand
+       that some rational evaluation as to \phi-ing applies in one's own case 
+    4. $\therefore$ Understanding that some rational evaluation applies to one's own case entails
+       that one has the first-person concept
+      
+      
+- \textsc{An Objection}: The argument is either unsound (because we should reject
+  (B-1) or circular/question-begging\sidenote[][]{I do not mean by ‘motivational’ to
+  imply some interposition of desire or motive or volition. I mean that to understand
+  reasons one must know how to use reasons, and indeed actually use them, to support
+  or change one’s own attitudes in one’s own thinking practice. To understand the
+  notion of reason, one must be susceptible to reasons. Reasons must have force for
+  one, and one must be able to appreciate that force. Considerations seen as reasons
+  must have some tendency to affect one’s judgments and inferences according to the
+  norms associated with the reasons. And one must recognize that this is so. Having
+  reasons and having some capacity to be moved by them---to think or otherwise act on
+  account of them---are necessarily connected. (Burge2013, 389)}
+  
+* Boyle on Rational Activity
+
+- (Rational) Belief is under the direct or "intrinsic" agential control of the believer.
+- Two Kinds of cognitive control:
+   1. Extrinsic control, in which the control over doxastic states is extrinsic to
+      having those states\sidenote[][]{my agential control over my beliefs is
+      extrinsic: I exercise it, not in believing itself, but in doing certain other
+      things that affect my beliefs. (Boyle 2009, 126)}
+   2. Intrinsic control, in which control is exercised not (or not just) in the
+      production of the belief but in the activity of holding it.\sidenote[][]{we
+      exercise our capacity for cognitive self-determination, not primarily in doing
+      things that affect our beliefs, but in holding whatever beliefs we hold. (Boyle
+      2009, 127)}
+      
+
+** Against Extrinsic Control Theories
+
+- Causal variant:
+   + One exercises control in believing that P only by judging that P, whose effect
+     is (normally) the belief that P
+   + \textsc{Objection}: As causes precede their effects, so judgment must precede belief, but
+     judging P *presupposes* believing P\sidenote[][]{judging that P surely requires not
+     merely affirming to myself that P (whatever that might mean) but affirming Pin
+     the conviction that it is true. My conscious act of judging P must be expressive
+     of my having settled on a view about whether P, namely: Yes, indeed, P. But it
+     is hard to see how this can mean anything less than: it must be expressive of my
+     believing that P. So it is hard to see how I can judge that P unless I believe
+     that P. (Boyle 2009, 130)
+- Non-causal variant:
+   - One exercises control in believing that P by virtue of acquiring the disposition
+     to judge that P, where disposition and occurrent judgment are "internally"
+     related---i.e. the belief *is* the disposition to judge, which is its manifestation
+   - This seems immune to Boyle's objection, but still construes agency only in terms
+     of what the agent (voluntarily) does to bring about the acquisition of the
+     disposition. 
+
+
+- What is the real problem?
+   1. The extrinsic relation between the belief and the judgment?
+   2. The position that control over doxastic states is at best indirect?
+   3. The construal of belief as an inactive state? 
+     
+
+
+
+* References  & Further Reading
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
+
+#+nocite: @frankfurt1988; @velleman1992; @franklin2016; @boyle2009a; @boyle2011a; @burge2013; @williams1978; @parfit1987
+
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in} \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
+

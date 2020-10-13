@@ -1160,8 +1160,11 @@ beliefs and desire causally interacting in a normal manner.
 
 **** John
 #+begin_quote
-why should the agent always act on given motivations? Is it possible to conceive a scenario in which the agent, in the process of adjudication, abstains or refrains from acting on motivations? 
-If we can consider refraining from acting on motivations as a self-determining act, then shall we not consider such action – or, inaction? – as an exemplification of causal agency?
+why should the agent always act on given motivations? Is it possible to conceive a
+scenario in which the agent, in the process of adjudication, abstains or refrains
+from acting on motivations? If we can consider refraining from acting on motivations
+as a self-determining act, then shall we not consider such action – or, inaction? –
+as an exemplification of causal agency?
 #+end_quote
 
 It sounds to me like the proposed case of abstaining to act on motivations is either
@@ -1185,7 +1188,9 @@ However, that need not entail that there are /two/ selves (or two minds) in one 
 
 **** Eunhong
 #+begin_quote
-First, Velleman says the mental events and states are functionally identical to the agent, but this agent is not the one who can cause agent-causation. Then, what’s the agent? 
+First, Velleman says the mental events and states are functionally identical to the
+agent, but this agent is not the one who can cause agent-causation. Then, what’s the
+agent?
 #+end_quote
 
 Velleman rejects the idea that agents are substances. He quotes Nagel here:
@@ -1266,6 +1271,182 @@ libertarian accounts). The proponent of an agent-causation account would have to
 that reason might be causally efficacious in the decision, but it is by way of
 causing the agent to decide a particular way, and no simply a cause of the even that
 is constituted by that decision. 
+** Week 9
+*** Reading Responses
+**** Eunhong
+#+begin_quote
+First, I am wondering how Burge and Kant will think of the ontological and metaphysical self
+#+end_quote
+
+Burge is rather cagey about this. He does say that "[u]ses of the I concept make
+no obvious commitment regarding the metaphysical nature of its referent, other than
+that it be an author of thoughts" (385). 
+
+Kant's conception of "authorship" is extremely metaphysically demanding. One is an
+author of one's act just in case one bears ultimate causal responsibility for it, and
+this is in turn only possible if the act is not itself necessitated by any temporally
+prior ground. It seems unlikely to me that Burge would go in for all of this. He does
+say that "Deriving metaphysical implications from this commitment [i.e. "I" as
+author] would require further argument, which would have to be evaluated on its
+merits" (385). My sense is that Burge does want to advocate something stronger than
+the kind of reductive theory offered by Frankfurt or Velleman. His Dewey Lectures on
+the self indicate that he is not a reductionist, and is somewhat neutral on the issue
+of whether dualism is true. See, Burge, Tyler. “Self and Self-Understanding.” /The
+Journal of Philosophy/ 108, no. 6/7 (2011): 287–383.
+
+#+begin_quote
+Secondly, I am still confused about the difference between having self-knowledge and
+having sense-data. (This question might be a similar question that I’ve asked about
+Kant’s argument.) Burge says “I have maintained that self-knowledge has a special
+epistemic status by virtue of its role in critical reasoning,” and he also argues
+that “the nature of critical reasoning requires that some self-knowledge, that which
+is essential to rational review, must be epistemically different from observation of
+objects.” When we’re saying “having knowledge of an object,” we might think of the
+ontological and epistemic status of the object. However, Burge’s self-knowledge
+includes or has an epistemic status but different from observation of objects, and
+even non-inferential.
+#+end_quote
+
+Kant thinks that we have two ways of being aware of ourselves. One is empirical and
+derives from ways in which our bodies and minds are affected. The results of such
+affection are what Kant distinguishes into feeling, sensation, and intuition. The
+other way of being aware of ourselves is non-empirical. This non-empirical awareness
+is much harder to characterize. But Kant think it is present in our awareness of our
+own mental activity, which I have previously tried to explicate in terms of being
+aware that one's mental acts are one's own---i.e. the "mineness" of one's activity.
+Kant also thinks that we are aware of ourselves as being the same conscious thinker
+across time. Kant does not think this is an empirical inference based on sensory
+information we receive about ourselves but rather is presupposed in our being able to
+know anything of ourselves or anything else.
+
+Burge similarly advocates a view according to which there are two different ways in
+which we can know things about ourselves. The first is broadly empirical or
+"observational". One employs such observation to determine, e.g., whether one is
+hungry or has a headache. The second is non-empirical (and non-inferential). Burge
+thinks that "cogito" like thoughts (e.g. "I am thinking" or "I am thinking that
+thereare physical entities") are all ones that one knows that one has without
+observation. Such non-observational knowledge is also a condition of what Burge calls
+"critical reasoning". He says, "[t]o reason critically in my sense, one must correct,
+suspend, change attitudes, conceived as such, on the basis of reasons acknowledged as
+such" (386). According to this view, argued for in his paper "Our entitlement to
+self-knowledge", the kind of activity in which one changes, adopts, or suspends an
+attitude on the basis of reasons requires that one has knowledge of those attitudes
+in a manner that cannot (at least in principle) be open to faultless or "brute" error
+in the manner that observationally-based knowledge can be. His argument for this is
+complex, involving several steps. But he and Boyle share with Kant the view that one
+cannot, insofar as one is rational, be radically dissociated in one's reflective
+critical activity from one's first-order attitudes that are under critical review or
+scrutiny.   
+
+
+**** Chen
+#+begin_quote
+For Boyle, it seems that our judging is like a machine which is set in the way we want and we just let the machine operate on its own to provide us the results, our beliefs. If we are indirectly responsible for our believes merely because we have to go through a process to get them, I could also say that we are not directly responsible for our actions because we are only responsible for our intentions and the mechanisms bringing intentions to actions.  
+#+end_quote
+
+Boyle wants to reject the position that we related to our beliefs in this sort of
+mechanical or "wind-up" manner. I take it that he denies that we are related to our
+intentions in this way as well.
+
+#+begin_quote
+If Boyle regards beliefs as “continuing endorsement”, he might have to object to the unaware beliefs. Perhaps this is only a minor point, but the question is, does Boyle agree that only the most intense beliefs count as the actuality of agency, or how does he deal with those weaker beliefs?  
+#+end_quote
+
+I think Boyle wants to reject accounts like the uneasy flier as accounts as ones
+where belief and judgment coincide. Boyle seems to think that the overt judgment that
+flying is safe is belied by the behavior, and that the agent doesn't engage in the
+activity of "holding" necessary to be credited with a belief that flying is safe.
+
+I think that Boyle does want to accommodate beliefs that aren't the result of
+reflection (like perceptual beliefs, or those based on testimony). But he also holds
+that in such cases, insofar as the believing is a product of one's agency, it must be
+the kind of "holding" that allows for the possibility of reflective scrutiny. 
+
+**** John
+#+begin_quote
+isn’t holding someone responsible for the control that she has over the policies that she adopts in view of belief formation no less an expression of agency? 
+#+end_quote
+
+I don't think anyone (or anyone advocating an agential model, in any case) is
+disputing that the adoption of policies for belief formation might be a thing that is
+under one's control and thus for which one might be responsible. The question is
+whether this is as far as the notion of "doxastic agency" can take us. Both Boyle and
+Burge want to advocate a view where the believer/knower is directly responsible for
+the relevant doxastic states, without its being the case that this responsibility
+takes the form of /willing/ such states into or out of existence (i.e. without adopting
+direct doxastic voluntarism). As Boyle puts it "my project here is precisely to lay
+the groundwork for a conception of non-voluntaristic doxastic agency, and to argue
+that uncritical acceptance of PT is one of the factors that prevents us from seeing
+how this might be done" (2011, 17 n. 22).
+
+#+begin_quote
+My problem, I guess, is on the explicitness of control in holding that p. I cannot see explicit control in “active affirmative relation to her own present beliefs” (p. 143). Boyle wants persisting assent to p as an expression of control. And he thinks such need not be occurrent, to which I agree. Then again, he could be exposing himself to criticisms from those who claim an asymmetry in explicitness of control between actions and the inexplicitness of control beliefs, to the extent that “engagement with a content” is not as clear as a case of control as, say, hitting a forehand down the line (That said, to say that both extrinsic and intrinsic controls are “rational activities” looks promising. It seems to articulate what a view that I want to adopt in my proposed paper.). 
+#+end_quote
+
+I agree that it isn't clear as to the sense in which one has control over beliefs
+that one "holds" in the sense Boyle articulates. His aim seems to be denying that
+"hitting a forehand down the line" should be our model for controlled activity, since
+this privileges a particular kind of causal production---"kinesis"---over the kind of
+causal activity he thinks is involved in belief---viz. "energeia". I'm also not sure
+that Boyle thinks that rational activity is extrinsically controlled /at all/.  
+
+**** Trevor
+#+begin_quote
+it seems like Burge is saying to understand reasons we must know-why or know-how they have their force or application. Thus, it follows that all that is required for us to know-how or know-why reasons have their force or application, is basically to have a disposition to let them be effective, but does this seem right? 
+#+end_quote
+
+I think Burge would agree with your know-how/why gloss (though this is compatible
+with his thinking the knowledge is based on entitlement rather than justification)
+but would reject the reduction to dispositions in the inference you make. Burge
+doesn't seem to think that understand reason and reasons consists in just having some
+disposition(s). He says "[u]nderstanding what a reason is, is partly understanding its
+motive force, as well as its evaluative norms. To understand reason and reasoning,
+this force must be operative in one’s own case; and one must conceptualize its
+implementation" (390). Note the use of "partly" here. I take him to be outlining a
+necessary but not sufficient condition for such understanding. But it is unclear what
+amount to a necessary /and/ sufficient condition here! 
+
+#+begin_quote
+Wouldn't instead it be some empirical fact about our minds?
+#+end_quote
+
+There are certainly empirical considerations that we have to take into account for
+understanding the psychological mechanisms behind reasoning in humans and other
+creatures. But I think Burge takes himself to be making an a priori argument
+concerning the nature of rational activity ("critical reasoning") as such, and the
+conditions for grasping the concepts <reason> and <reasons>. 
+
+**** Janelle
+#+begin_quote
+If we are using Anscombe Analogously and why is used in a special way, how does this
+hook up with Boyle’s claim about beliefs since one would think we would want (1)-(3).
+#+end_quote
+
+I think there is a limit to how far we should take the appeal to Anscombe. One reason
+is that Anscombe denies that reasons can be causes. But I don't see that Boyle is
+doing this. His main aim seems to be articulating a view of control in belief
+formation that respects what he calls in his 2011 paper "Moran's Constraint"
+
+- Moran’s Constraint (MC): :: My reasoning “P, so Q” must normally put me in a
+  position to know that I believe that Q because I believe that P.
+
+Boyle takes this to show that in rational beings reflection cannot be in principle alienated
+from one's standing beliefs, which means both that reflecting on the question of
+whether P has significance for one's believing P, and one's believing P has
+significance for one's understanding of why one believes P.  
+
+#+begin_quote
+In the case where the why and what question for belief seems inapplicable, how do we
+describe the mental state that the agent is in when uttering the expression “I
+believe that X.”
+#+end_quote
+
+The view that Boyle (and Burge and a variety of other folks) advances denies that we
+should construe attitudes that are wholly resistant to evidence, or that occur "in"
+us for no reason we can comprehend or endorse as beliefs. They are information states
+of some kind, but they are not beliefs. You might look at Helton, Grace. “If You
+Can’t Change What You Believe, You Don’t Believe it.” /Noûs/ 54, no. 3 (2020): 501–26
+for some related argument. 
 * Website
 ** Pages
 :PROPERTIES:
@@ -1768,14 +1949,22 @@ self-knowledge.
 
 
 
-*** TODO Week 10 - Self-Consciousness II 
+*** DONE Week 10 - Self-Consciousness II 
 SCHEDULED: <2020-10-20 Tue>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: agency control self-consciousness self-knowledge reflection
+:EXPORT_FILE_NAME: week10
+:END:
 
-This week we look at criticism of both reflective control and of doxastic agency.
+This week we finish our discussion of Burge and Boyle on doxastic agency. We then
+look at criticism of both reflective control (Hieronymi) and of doxastic agency more
+generally (Setiya). 
 
 **** Readings
-- Hieronymi, "Reflection and Responsibility"
-- Setiya, "Epistemic Agency: Some Doubts"
+- Hieronymi, "[[/materials/readings/hieronymi-reflection.pdf][Reflection and Responsibility]]"
+   + Note that we'll be focusing primarily on her criticism of reflection theories,
+     and less on her positive account of responsibility
+- Setiya, "[[/materials/readings/setiya-agency.pdf][Epistemic Agency: Some Doubts]]"
 
 *** TODO Week 11 - Transformative Rationality
 SCHEDULED: <2020-10-27 Tue>

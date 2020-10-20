@@ -13,6 +13,8 @@ This week we finish our discussion of Burge and Boyle on doxastic agency. We the
 look at criticism of both reflective control (Hieronymi) and of doxastic agency more
 generally (Setiya).
 
+-   [Handout](/materials/handouts/10-kant-against-agency.pdf) for week 10
+
 
 ## Readings {#readings}
 

@@ -20,7 +20,14 @@ capacity. We'll look at two takes on the issue, one for (Boyle), and one against
 ## Readings {#readings}
 
 -   Boyle, "[A Different Kind of Mind?](/materials/readings/boyle-different-mind.pdf)"
+    -   This is a useful intro to the basic idea behind the "transformative" view of rationality.
 -   Boyle, "[Additive Theories of Rationality](/materials/readings/boyle-rationality.pdf)"
+    -   A more technical discussion, linking it up with arguments by McDowell.
 -   McLear, "[Rationality: What Difference Does It Make?](/materials/readings/mclear-transformation.pdf)"
+    -   I discuss the transformative conception of rationality specifically with respect
+        to the interpretation of Kant
 -   (Optional) Schafer, "[A System of Rational Faculties: Additive or Transformative?](/materials/readings/schafer-transformative-rationality.pdf)"
+    -   An attempt to provide a more modest conception of the "transformation" provided
+        by rational capacities
 -   (Optional) Conant, "[Why Kant Is Not a Kantian](/materials/readings/conant-layer-cake.pdf)"
+    -   An application of the transformative conception to the interpretation of Kant

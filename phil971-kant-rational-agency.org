@@ -1970,6 +1970,25 @@ generally (Setiya).
 
 *** TODO Week 11 - Transformative Rationality
 SCHEDULED: <2020-10-27 Tue>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: control self-consciousness self-knowledge rationality reflection teleology transformation  
+:EXPORT_FILE_NAME: week11
+:END:
+
+We'll finish up our discussion of criticisms of doxastic agency (Boyle) and
+reflection (Hieronymi) before turning to this week's topic, which concerns the
+question of whether the capacity for rationality (in some sense) radically changes
+one's other capacities (e.g. perception) or whether it is merely one additional
+capacity. We'll look at two takes on the issue, one for (Boyle), and one against
+(McLear). I also include some related papers as optional readings.
+
+**** Readings
+- Boyle, "[[/materials/readings/boyle-different-mind.pdf][A Different Kind of Mind?]]"
+- Boyle, "[[/materials/readings/boyle-rationality.pdf][Additive Theories of Rationality]]"
+- McLear, "[[/materials/readings/mclear-tranformation.pdf][Rationality: What Difference Does It Make?]]"
+- (Optional) Schafer, "[[/materials/readings/schafer-transformative-rationality.pdf][A System of Rational Faculties: Additive or Transformative?]]"
+- (Optional) Conant, "[[/materials/readings/conant-layer-cake.pdf][Why Kant Is Not a Kantian]]"
+  
 
 *** TODO Week 12 - Teleology
 SCHEDULED: <2020-11-03 Tue>

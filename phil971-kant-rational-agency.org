@@ -1985,7 +1985,7 @@ capacity. We'll look at two takes on the issue, one for (Boyle), and one against
 **** Readings
 - Boyle, "[[/materials/readings/boyle-different-mind.pdf][A Different Kind of Mind?]]"
 - Boyle, "[[/materials/readings/boyle-rationality.pdf][Additive Theories of Rationality]]"
-- McLear, "[[/materials/readings/mclear-tranformation.pdf][Rationality: What Difference Does It Make?]]"
+- McLear, "[[/materials/readings/mclear-transformation.pdf][Rationality: What Difference Does It Make?]]"
 - (Optional) Schafer, "[[/materials/readings/schafer-transformative-rationality.pdf][A System of Rational Faculties: Additive or Transformative?]]"
 - (Optional) Conant, "[[/materials/readings/conant-layer-cake.pdf][Why Kant Is Not a Kantian]]"
   

@@ -21,6 +21,6 @@ capacity. We'll look at two takes on the issue, one for (Boyle), and one against
 
 -   Boyle, "[A Different Kind of Mind?](/materials/readings/boyle-different-mind.pdf)"
 -   Boyle, "[Additive Theories of Rationality](/materials/readings/boyle-rationality.pdf)"
--   McLear, "[Rationality: What Difference Does It Make?](/materials/readings/mclear-tranformation.pdf)"
+-   McLear, "[Rationality: What Difference Does It Make?](/materials/readings/mclear-transformation.pdf)"
 -   (Optional) Schafer, "[A System of Rational Faculties: Additive or Transformative?](/materials/readings/schafer-transformative-rationality.pdf)"
 -   (Optional) Conant, "[Why Kant Is Not a Kantian](/materials/readings/conant-layer-cake.pdf)"

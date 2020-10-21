@@ -1968,7 +1968,7 @@ generally (Setiya).
      and less on her positive account of responsibility
 - Setiya, "[[/materials/readings/setiya-agency.pdf][Epistemic Agency: Some Doubts]]"
 
-*** TODO Week 11 - Transformative Rationality
+*** DONE Week 11 - Transformative Rationality
 SCHEDULED: <2020-10-27 Tue>
 :PROPERTIES:
 :EXPORT_HUGO_TAGS: control self-consciousness self-knowledge rationality reflection teleology transformation  

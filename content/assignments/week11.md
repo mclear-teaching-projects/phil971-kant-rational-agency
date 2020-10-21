@@ -2,7 +2,7 @@
 title = "Week 11 - Transformative Rationality"
 publishDate = 2020-10-27T00:00:00-04:00
 tags = ["control", "self-consciousness", "self-knowledge", "rationality", "reflection", "teleology", "transformation"]
-draft = true
+draft = false
 weight = -100
 author = false
 toc = false

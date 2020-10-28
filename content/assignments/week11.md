@@ -16,6 +16,8 @@ one's other capacities (e.g. perception) or whether it is merely one additional
 capacity. We'll look at two takes on the issue, one for (Boyle), and one against
 (McLear). I also include some related papers as optional readings.
 
+-   [Handout](/materials/handouts/11-kant-transformation.pdf) for week 11
+
 
 ## Readings {#readings}
 

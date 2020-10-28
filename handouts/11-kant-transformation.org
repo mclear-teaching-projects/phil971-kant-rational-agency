@@ -1,0 +1,388 @@
+#+STARTUP: fnadjust
+#+TITLE: Doxastic Agency & Rational Transformation
+#+DATE: Oct 27, 2020
+#+AUTHOR: Colin McLear | PHIL 971
+#+EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil971-kant-rational-agency/static/materials/handouts/11-kant-transformation.pdf
+#+pandoc-emphasis-pre: "-\t ('\"{["
+#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]\\" 
+#+PANDOC_METADATA: numbersections:t secnumdepth:2 
+#+PANDOC_METADATA: "lfoot:PHIL 971 | Oct 27, 2020"
+#+PANDOC_METADATA: "lhead:Doxastic Agency & Rational Transformation"
+#+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufte.tex
+#+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
+#+PANDOC_EXTENSIONS: org+raw_tex
+#+EXCLUDE_TAGS: noexport notes scrap todo
+#+LANGUAGE: en
+#+OPTIONS: ':t
+#+OPTIONS: prop:t
+
+
+* Background to the Debate About Doxastic Agency
+
+- Event: :: A type of occurrence or "happening"; events are particulars (either
+  simple or complex) and have temporal parts
+- State: :: A state obtains but does not "happen", i.e. it lacks temporal parts and
+  is present at every time in which it exists
+- Belief: :: a /state/ of the mind whose "constitutive aim" is truth
+- Judgment: :: an event in the mind through/in which some proposition is affirmed
+  
+* Boyle on Rational Activity
+
+- Boyle's Claim: :: (Rational) Belief is under the direct or "intrinsic" agential control of the believer.
+- Two Kinds of cognitive control:
+   1. /Extrinsic/ control, in which the control over doxastic states is extrinsic to
+      having those states\sidenote[][]{my agential control over my beliefs is
+      extrinsic: I exercise it, not in believing itself, but in doing certain other
+      things that affect my beliefs. (Boyle 2009, 126)}
+   2. /Intrinsic/ control, in which control is exercised not (or not just) in the
+      production of the belief but in the activity of holding it.\sidenote[][]{we
+      exercise our capacity for cognitive self-determination, not primarily in doing
+      things that affect our beliefs, but in holding whatever beliefs we hold. (Boyle
+      2009, 127)}
+      
+
+** Against Extrinsic Control Theories
+
+- Causal variant:
+   + One exercises control in believing that P only by judging that P, whose effect
+     is (normally) the belief that P
+   + \textsc{Boyle's Objection}: As causes precede their effects, so judgment must precede belief, but
+     judging P *presupposes* believing P\sidenote[][]{judging that P surely requires not
+     merely affirming to myself that P (whatever that might mean) but affirming Pin
+     the conviction that it is true. My conscious act of judging P must be expressive
+     of my having settled on a view about whether P, namely: Yes, indeed, P. But it
+     is hard to see how this can mean anything less than: it must be expressive of my
+     believing that P. So it is hard to see how I can judge that P unless I believe
+     that P. (Boyle 2009, 130)}
+- Non-causal variant:
+   - One exercises control in believing that P by virtue of acquiring the disposition
+     to judge that P, where disposition and occurrent judgment are "internally"
+     related---i.e. the belief *is* the disposition to judge, which is its manifestation
+   - This seems immune to Boyle's objection, but still construes agency only in terms
+     of what the agent (voluntarily) does to bring about the acquisition of the
+     disposition, and so, /extrinsically/. 
+
+
+**  What is the real problem with "extrinsic control"?
+1. The extrinsic relation between the belief and the judgment?
+2. The position that control over doxastic states is at best indirect?
+3. The construal of belief as an inactive state? 
+     
+* Hieronymi On Reflection
+
+** Paradigmatic Features of Imputable Agency/Control[fn:1]
+
+- Awareness: :: We have in mind what we intend to do
+- Discretion: :: We can decide to do whatever we think worth doing
+
+[fn:1] We are, it seems, responsible for our intentional actions, if we are
+responsible for anything. Intentional action provides a kind of paradigm case of
+responsible activity. Intentional action also seems to involve, at least in its
+paradigm instances, a certain sort of “having in mind.” In the paradigm cases, we act
+intentionally by first deciding what to do and then doing what we decided. (Hieronymi
+2014, 4) 
+
+
+** Reflection & The Problem with Reflective Accounts of Control
+
+- The Reflective Model: :: reflection is a form of awareness and exercise of
+  discretion regarding one's attitudes\sidenote[][]{By appealing to reflection, or
+  hierarchy, we seem to re-create the sense of control—the awareness and the
+  discretion—of intentional action. The one who reflects is aware of and exercises
+  discretion with respect to that upon which she reflects. Thus, it seems, if we can
+  reflect upon and change ourselves, we enjoy a kind of control over ourselves similar
+  to the control exercised in intentional action. Less sophisticated creatures cannot
+  gain this kind of reflective distance, and therefore they are not responsible for
+  their thoughts or their actions in the way we are. (Hieronymi 2014, 7)} 
+
+- \textsc{The Problem}:
+  
+#+begin_quote
+I believe this reflective strategy is mistaken. My basic reason for thinking so is
+rather simple. The strategy appeals to reflection as a way of securing control over
+ourselves. [1] But merely being able to reflect upon a thing does not provide one with
+control over that thing. (Think of Kant’s creature from part 1 of the Groundwork,
+endowed with only theoretical reason, able only to contemplate its happy state while
+instinct controls its movements.) If one is to control something of which one is
+aware, one must also be able to change that thing—in particular, to bring it to
+accord with one’s thoughts about how it should be. [2] However, insofar as the reflective
+strategy secures our control over ourselves by appealing to the fact that we can
+reflect upon and change ourselves, it has, it seems, secured our control over
+ourselves by appeal to a self-directed action. But this will not do. If there was a
+question or problem about how or why we are responsible for our intentional actions,
+we cannot answer it by appeal to a self-directed intentional action. (Hieronymi 2014, 8)
+#+end_quote
+
+- There are two distinct (and independent) objections here:
+   1. The activity of reflection does not entail (causal) control/efficacy and vice
+      versa, so why do we need reflection for responsibility?
+   2. The appeal to reflection as a form of control is *circular*, since it is supposed
+      to be both that through which the responsibility of intentional action is
+      explained and is itself explained by intentional action 
+
+
+* The Transformative Theory of Rationality (TR)
+
+** Species and Genus
+
+- A species is distinguished from others of its genus by means of an essential and
+  specific difference\sidenote[][-.95in]{[I]t is necessary that things that are other
+  in species be in the same genus. For I call `genus' such a thing, i.e. the one and
+  same thing which both [species] are said to be and which has a difference not
+  incidentally, be it as matter or in another way. For not only must what is common
+  belong <to both of them> (for instance, they are both animals), but this very
+  thing---the animal---must also be other for each of them...For this reason they are
+  this common thing, other in species than each other. ... Therefore, it is necessary
+  that the difference be this otherness of the genus. For I call `difference of the
+  genus' an otherness which makes this same genus other. (Aristotle,
+  \emph{Metaphysics Iota} 8, 1057b35--1058a7)}
+- If human beings are different from other animals by virtue of the specific
+  difference of /rationality/, then the difference that rationality makes is not merely
+  'incidental' to the human animal, but rather is a difference of
+  /form/\sidenote[][]{``rational'' specifies the sort of frame that undergirds any
+  concrete description of what it is to be a human being. For \emph{it does not
+  specify a particular characteristic that we exhibit but our distinctive manner of
+  having characteristics}. This, I believe, is the significance of saying that
+  ``rational" characterizes the \emph{form} of human being. (Boyle 2012, 410;
+  original emphasis)}
+- Proponents of TR include Herder and Hegel\sidenote{The difference [rationality
+  makes] is not in levels or the addition of forces, but in a \emph{quite different
+  sort of orientation} and \emph{unfolding of all forces} (Herder 1772/2002,
+  83)}\sidenote{Religion, right, and ethical life belong to man alone, and that only
+  because he is a thinking essence. For that reason, \emph{thinking} in its broad
+  sense has not been inactive in these spheres, even at the level of feeling and
+  belief, or of representation; the activity and productions of thinking are
+  \emph{present} in them and are \emph{included} in them. ... feelings and
+  representations ... are \emph{determined} and \emph{permeated} by thinking (E §2,
+  Z)}
+
+** Commitments of TR:
+
+1. *No Addition*: Rational capacities are not added to an otherwise independently
+   identifiable stock of "irrational" or "arational" capacities
+2. *Individuation*: If an animal is rational then all of its essential animal capacities
+   (e.g. sense, desire) are either themselves rational or are dependent
+   on the presence of rational capacities for their individuation
+   (i.e. they are not "self-standing" capacities)
+3. *Actualization*: Possession of the capacities constitutive of rationality affects
+   one's other faculties/capacities (e.g. sense, desire) at least in terms of (/a/)
+   their conditions of actualization; (/b/) the content of such acts
+
+** Additive Theories of Rationality (AR)
+
+- The alternative to TR is an "additive" conception of rationality
+  (AR)\sidenote[][]{\emph{Additive theories of rationality}...are theories that
+  hold that an account of our capacity to reflect on perceptually-given reasons for
+  belief and desire-based reasons for action can begin with an account of what it is
+  to perceive and desire, in terms that do not presuppose any connection to the
+  capacity to reflect on reasons, and then can add an account of the capacity for
+  rational reflection, conceived as an independent capacity to ‘monitor’ and
+  ‘regulate’ our believing-on-the-basis-of-perception and our
+  acting-on-the-basis-of-desire (Boyle 2016, 527)}\sidenote{The additive
+  interpretation assumes that the presence of reason in humans leaves the character
+  of their sensibility untouched. Reason, on this interpretation, is something that
+  is ``added on'' to a capacity that is in all relevant respects the same as in
+  non-rational animals. (Land 2018, 1276)}
+- The distinction between TR and supposed to be exhaustive and exclusive such that
+  the rejection of TR entails acceptance of AR and /vice versa/
+- It is not obvious that all additive theories must take the same form. But all
+  additive theories reject, at the least, commitments (1)-(2) of TR
+
+\newthought{Question:} Does Kant endorse an additive theory of some kind, or does he endorse TR?
+
+* Kant & TR
+  :PROPERTIES:
+  :CUSTOM_ID: kant-tr
+  :END:
+
+** Specific Difference
+   :PROPERTIES:
+   :CUSTOM_ID: specific-difference
+   :END:
+
+- Kant's commitment to a specific difference between rational and other
+  animals does not entail that he accepts TR because commitment to a
+  specific difference does not obviously entail commitment to /all/ of
+  one's essential capacities being different
+- Acknowledging a specific difference seems, at least, to require that
+  the otherwise generically shared capacities of the specific kind of
+  being are specifically different in their conditions of actualization
+  and/or content of acts (i.e. TR's commitment (3))
+
+** Animal Representation
+   :PROPERTIES:
+   :CUSTOM_ID: animal-representation
+   :END:
+
+- Kant, when discussing representation in animals, never mentions that
+  their sensible representations are different /in kind/, only that they
+  are less sophisticated or not fit/eligible for certain kinds of
+  epistemic status\sidenote[][-.25in]{With
+  intuition the representation of a thing is always particular; an animal can also
+  have intuition, but the animal is not capable of having general concepts, which
+  requires the capacity {[}\emph{Vermögen}{]} to think. (\emph{Menschenkunde} 206
+  (1781/2))}\sidenote[][]{Animals cannot make concepts, there are sheer
+  {[}\emph{lauter}{]} intuitions with them (\emph{Metaphysik L\textsubscript{2}}
+  28:594 (1790/91); see also \emph{Logik Dohna-Wundlacken} 24:702 (1792); OP 21:82)}
+
+  # - Possible exceptions include a note from an initial draft of Kant's
+  #   /Anthropology/ and a student lecture
+  #   note\sidenote[][]{The cow, lacking understanding,
+  #     may well \textless perhaps\textgreater{} have something similar to what we call
+  #     representations (because, in terms of effects, they coincide \textless
+  #     greatly\textgreater{} with representations in humans) but which might be
+  #     completely different from them. (H 7:397)}\sidenote[][]{Now how can we
+  #     conceive animals as beings below human beings? {[}\ldots{]} {[}W{]}e can think
+  #     of things which are below us, whose representations are different in species
+  #     and not merely in degree. (\emph{Metaphysik Volckmann} 28:449 (1784/85))}
+
+- Kant describes the various levels or degrees of cognition in a way
+  that allows animals to enjoy a degree of (non-equivocal) cognition,
+  but not as sophisticated/advanced a one as rational beings
+  enjoy\sidenote[][-.5in]{To cognize,
+  \emph{percipere}, is to represent something in comparison with others and to have
+  insight into its identity or diversity from them. \ldots{} animals also cognize
+  their master, but they are not conscious of this. (\emph{Wiener Logic} 24:845-6
+  (1780--1))}\sidenote{The fourth: to be acquainted with something with
+  consciousness, i.e.~to cognize it (\emph{cognoscere}) {[}\emph{mit Bewußtsein etwas
+  kennen, d.h. erkennen}{]}. Animals are acquainted with objects too, but they do not
+  cognize them (JL 9:64; see also DWL 24:730-1; Notes on Logic 16:342-4 (mid/late
+  1760s))}
+
+\newthought{Question:} If Kant accepts TR why would he not indicate that
+mere animal representation was different in kind in his various
+discussions of it, and why would he present animal cognition as stage in
+human (rational cognition)?
+
+** Animality vs. Humanity
+   :PROPERTIES:
+   :CUSTOM_ID: animality-vs.-humanity
+   :END:
+
+- In a wide variety of Kant's published writings and lectures, he
+  emphasizes the tension and conflict between the 'animality'
+  (/Thierheit/) and the 'humanity' (/Menschheit/) of human
+  beings\sidenote[][-.5in]{The predisposition to animality in
+  the human being may be brought under the general title of physical or merely
+  mechanical self-love, i.e. a love for which reason is not required. It is
+  threefold: first, for self-preservation; second, for the propagation of the
+  species...third, for community with other human beings, i.e. the social drive. (Rel
+  6:26-27)}\sidenote{when reason began its business and, weak as it is, got into a
+  scuffle with animality in its whole strength, then there had to arise ills and,
+  what is worse, with more cultivated reason, vices, which were entirely alien to the
+  condition of ignorance and hence of innocence. (CBHH 8:115)}\sidenote{The inner
+  perfection of the human being consists in having in his control {[}\emph{Gewalt}{]}
+  the use of all of his faculties, in order to subjugate {[}\emph{zu unterwerfen}{]}
+  them to his free choice {[}\emph{freien Willkür}{]} (An 7:144; see also
+  \emph{Anthropologie Friedländer} 25:485 (1775/6)).}
+
+  - /Animality/ is specifically connected to our sensible faculties, and
+    especially our basic 'predispositions' or instinctual desires, such
+    as the desire to reproduce
+  - /Humanity/ indicates the presence of rational capacities and
+    (insofar as this is separate) the capacity for freedom
+
+- Kant also conceives of error in reasoning/judgment in terms of the
+  interaction of sensibility on the
+  intellect\sidenote{Error is neither in the understanding alone,
+  then, nor in the senses alone; instead, it always lies in the influence of the
+  senses on the understanding, when we do not distinguish well the influence of
+  sensibility on the understanding. (VL 24:825 (1780/81); cf. A294/B350; JL 9:53-4;
+  R2142 16:250 (1776-1781)}
+
+\newthought{Question:} If Kant accepts TR, why would animality be a
+source of /conflict/ with reason or a means of /error/ if rationality
+were /itself/ inflected in the nature of one's animal faculties?
+
+** Receptivity & Spontaneity
+   :PROPERTIES:
+   :CUSTOM_ID: receptivity-spontaneity
+   :END:
+
+- Kant considers receptivity and spontaneity as fundamental and opposed
+  capacities or powers of substances to bear
+  properties\sidenote[][]{Acting and effecting can be
+  assigned only to substances. Action is the determination of the power of a
+  substance as a cause of a certain accident <accidentis>. Causality <causalitas> is
+  the property of a substance insofar as it is considered as a cause of an accident
+  <accidentis> (\emph{Metaphysik Pölitz} 28:564-5 (1790/1); see also A204/B250;
+  R5289-90 18:144 (1776-78?); R5650 18:298-302 (1785-88))}
+
+  - Why "fundamental"?
+
+    - Kant understands all the other capacities of a being in terms of
+      their manifesting either a receptive or spontaneous power
+
+  - Why "opposed"?
+
+    - Kant cannonically characterizes them as
+      opposed\sidenote{If we will call the
+      receptivity of our mind to receive representations insofar as it is affected in
+      some way sensibility, then opposed to it {[}\emph{so ist dagegen}{]} is the
+      faculty for bringing forth representations itself, or the spontaneity of
+      cognition, the understanding. (A51/B75)}
+    - The determining ground of the actualization of a receptive
+      capacity is independent of the capacity itself while the
+      determining ground of an (absolutely) spontaneous capacity is
+      /not/ independent of the capacity itself
+
+      
+\newpage
+\newthought{Against a rational receptivity:}
+
+1. The determining ground of the actualization of a receptive capacity
+   is independent of the capacity itself
+2. The determining ground of an (absolutely) spontaneous capacity is
+   /not/ independent of the capacity itself
+3. All rational capacities are spontaneous
+4. All sensible capacities are receptive
+5. According to TR the exercise of a sensory capacity is itself the
+   exercise of a rational capacity, and thus /both/ receptive /and/
+   spontaneous
+6. $\therefore$ If TR is true the actualization of a sensory capacity is
+   both determined and not determined by an independent ground
+7. The actualization of a capacity /cannot/ be both determined and not
+   determined by an independent ground
+8. $\therefore$ TR is false (Modus Tollens, 6, 7)
+
+
+
+- Perhaps the proponent of TR will argue (against 7) that the very same
+  capacity can be receptive in one respect and spontaneous in another,
+  but then 
+   + i. why would Kant individuate faculties by virtue of their being either
+     receptive or spontaneous, and characterize these as "opposed" or "contrary"?
+   + ii. What would unify these different aspects as aspects of /one and the same
+     faculty/capacity/?
+  
+
+** Another Argument Against AR :noexport:
+1. If TR is true, then in a rational being, a sensory capacity is either rational or
+   depends for its individuation on some rational capacity.
+2. If a sensory capacity is rational, then it is both receptive and spontaneous
+3. A single capacity cannot be both receptive and spontaneous 
+4. \therefore A sensory capacity cannot be rational
+5. Capacities are individuated, at least in part, by the conditions of their actualization
+6. If a sensory capacity depends for its individuation on some rational capacity, then
+   the conditions of its actualization depend on those of the rational capacity.
+7. The conditions of actualization of a receptive capacity are opposed to those of a
+   rational capacity [defs of receptivity & spontaneity]
+8. \therefore The conditions of the actualization of a sensory capacity cannot depend on those
+   of a rational/spontaneous capacity
+9. \therefore A sensory capacity is neither rational nor do its individuation conditions
+   depend on rational capacities [Conjunction introduction, 4,8]
+10. \therefore TR is false [Modus Tollens, 1, 9]
+
+   
+* References  & Further Reading
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
+
+#+nocite: @kenny2003; @steward1997; @boyle2009a; @boyle2011a; @boyle2016; @boyle2017; @hieronymi2014; @land2018a; @land2018b 
+
+
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in} \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
+

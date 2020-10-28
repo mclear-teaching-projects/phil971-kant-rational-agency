@@ -1,0 +1,208 @@
+#+STARTUP: fnadjust
+#+TITLE: Self-Consciousness & Criticisms of Agential Belief
+#+DATE: Oct 20, 2020
+#+AUTHOR: Colin McLear | PHIL 971
+#+EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil971-kant-rational-agency/static/materials/handouts/10-kant-against-agency.pdf
+#+pandoc-emphasis-pre: "-\t ('\"{["
+#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]\\" 
+#+PANDOC_METADATA: numbersections:t secnumdepth:2 
+#+PANDOC_METADATA: "lfoot:PHIL 971 | Oct 20, 2020"
+#+PANDOC_METADATA: "lhead:Self-Consciousness & Criticisms of Agential Belief"
+#+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufte.tex
+#+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
+#+PANDOC_EXTENSIONS: org+raw_tex
+#+EXCLUDE_TAGS: noexport notes scrap todo
+#+LANGUAGE: en
+#+OPTIONS: ':t
+#+OPTIONS: prop:t
+
+* Burge on Reason and Self-Consciousness
+
+- Burge's Claim: :: 'I' plays a central and necesseary role in "fully
+  understanding" the concept of reason and reasoning
+
+
+A. Reasoning requires a point of view
+    - The Lichtenberg Objector is unable to explain how one thought might follow from
+     another, or why one thought might incompatible with
+     another.\sidenote[][]{‘Thinking is going on’, needs
+     ‘relativization’-intuitively, to a thinker or point of view. (Burge 2013, 388)}
+B. The concept of reason (and related concepts like propositional attitude, reason,
+   change of mind) requires the first-person concept
+    1. All reasons (i.e. rational evaluations) are also
+       reasons-to\sidenote[][]{reasons necessarily not only evaluate but have force
+       in forming, changing, confirming attitudes in accord with the reasons
+       (Burge2013, 389)}
+    2. So in order to have a reason to \phi one must, in some way, be motivated to
+       thereby \phi\sidenote[][]{I do not mean by ‘motivational’ to imply some
+       interposition of desire or motive or volition. I mean that to understand
+       reasons one must know how to use reasons, and indeed actually use them, to
+       support or change one’s own attitudes in one’s own thinking practice. To
+       understand the notion of reason, one must be susceptible to reasons. Reasons
+       must have force for one, and one must be able to appreciate that force.
+       Considerations seen as reasons must have some tendency to affect one’s
+       judgments and inferences according to the norms associated with the reasons.
+       And one must recognize that this is so. Having reasons and having some
+       capacity to be moved by them---to think or otherwise act on account of
+       them---are necessarily connected. (Burge2013, 389)}
+    3. In order to be rationally motivated to \phi one must be able to understand
+       that some rational evaluation as to \phi-ing applies in one's own case 
+    4. $\therefore$ Understanding that some rational evaluation applies to one's own case entails
+       that one has the first-person concept
+      
+      
+- \textsc{An Objection}: The argument is either unsound (because we should reject
+  (2-b) or circular/question-begging (because a motivational reason is not
+  necessarily a reason that motivates /me/)
+  
+  
+* Boyle on Rational Activity
+
+- Boyle's Claim: :: (Rational) Belief is under the direct or "intrinsic" agential control of the believer.
+- Two Kinds of cognitive control:
+   1. /Extrinsic/ control, in which the control over doxastic states is extrinsic to
+      having those states\sidenote[][]{my agential control over my beliefs is
+      extrinsic: I exercise it, not in believing itself, but in doing certain other
+      things that affect my beliefs. (Boyle 2009, 126)}
+   2. /Intrinsic/ control, in which control is exercised not (or not just) in the
+      production of the belief but in the activity of holding it.\sidenote[][]{we
+      exercise our capacity for cognitive self-determination, not primarily in doing
+      things that affect our beliefs, but in holding whatever beliefs we hold. (Boyle
+      2009, 127)}
+      
+
+** Against Extrinsic Control Theories
+
+- Causal variant:
+   + One exercises control in believing that P only by judging that P, whose effect
+     is (normally) the belief that P
+   + \textsc{Boyle's Objection}: As causes precede their effects, so judgment must precede belief, but
+     judging P *presupposes* believing P\sidenote[][]{judging that P surely requires not
+     merely affirming to myself that P (whatever that might mean) but affirming Pin
+     the conviction that it is true. My conscious act of judging P must be expressive
+     of my having settled on a view about whether P, namely: Yes, indeed, P. But it
+     is hard to see how this can mean anything less than: it must be expressive of my
+     believing that P. So it is hard to see how I can judge that P unless I believe
+     that P. (Boyle 2009, 130)}
+- Non-causal variant:
+   - One exercises control in believing that P by virtue of acquiring the disposition
+     to judge that P, where disposition and occurrent judgment are "internally"
+     related---i.e. the belief *is* the disposition to judge, which is its manifestation
+   - This seems immune to Boyle's objection, but still construes agency only in terms
+     of what the agent (voluntarily) does to bring about the acquisition of the
+     disposition, and so, /extrinsically/. 
+
+
+**  What is the real problem with "extrinsic control"?
+1. The extrinsic relation between the belief and the judgment?
+2. The position that control over doxastic states is at best indirect?
+3. The construal of belief as an inactive state? 
+     
+
+
+
+
+* Hieronymi On Reflection
+
+** Paradigmatic Features of Imputable Agency/Control[fn:1]
+
+- Awareness: :: We have in mind what we intend to do
+- Discretion: :: We can decide to do whatever we think worth doing
+
+[fn:1] We are, it seems, responsible for our intentional actions, if we are
+responsible for anything. Intentional action provides a kind of paradigm case of
+responsible activity. Intentional action also seems to involve, at least in its
+paradigm instances, a certain sort of “having in mind.” In the paradigm cases, we act
+intentionally by first deciding what to do and then doing what we decided. (Hieronymi
+2014, 4) 
+
+
+** Reflection & The Problem with Reflective Accounts of Control
+
+- The Reflective Model: :: reflection is a form of awareness and exercise of
+  discretion regarding one's attitudes\sidenote[][]{By appealing to reflection, or
+  hierarchy, we seem to re-create the sense of control—the awareness and the
+  discretion—of intentional action. The one who reflects is aware of and exercises
+  discretion with respect to that upon which she reflects. Thus, it seems, if we can
+  reflect upon and change ourselves, we enjoy a kind of control over ourselves similar
+  to the control exercised in intentional action. Less sophisticated creatures cannot
+  gain this kind of reflective distance, and therefore they are not responsible for
+  their thoughts or their actions in the way we are. (Hieronymi 2014, 7)} 
+
+- \textsc{The Problem}:
+  
+#+begin_quote
+I believe this reflective strategy is mistaken. My basic reason for thinking so is
+rather simple. The strategy appeals to reflection as a way of securing control over
+ourselves. [1] But merely being able to reflect upon a thing does not provide one with
+control over that thing. (Think of Kant’s creature from part 1 of the Groundwork,
+endowed with only theoretical reason, able only to contemplate its happy state while
+instinct controls its movements.) If one is to control something of which one is
+aware, one must also be able to change that thing—in particular, to bring it to
+accord with one’s thoughts about how it should be. [2] However, insofar as the reflective
+strategy secures our control over ourselves by appealing to the fact that we can
+reflect upon and change ourselves, it has, it seems, secured our control over
+ourselves by appeal to a self-directed action. But this will not do. If there was a
+question or problem about how or why we are responsible for our intentional actions,
+we cannot answer it by appeal to a self-directed intentional action. (Hieronymi 2014, 8)
+#+end_quote
+
+- There are two distinct (and independent) objections here:
+   1. The activity of reflection does not entail (causal) control/efficacy and vice
+      versa, so why do we need reflection for responsibility?
+   2. The appeal to reflection as a form of control is *circular*, since it is supposed
+      to be both that through which the responsibility of intentional action is
+      explained and is itself explained by intentional action 
+
+* Setiya's Deflationary Doxastic Agency
+
+- Static or dynamic belief?\sidenote[][-1.45in]{the distinction between verbs that take
+  perfective aspect and ones that do not has metaphysical import. Some of the things
+  we predicate of objects can be instantiated “perfectively” and in that sense done,
+  while others cannot. Unfortunately, there is no ideal terminology for the contrast
+  between the two. ... I will instead use the adjectives “static” and “dynamic.”
+  Shaking, buying, and starting are dynamic; being red, owning something, and knowing
+  that p are static. (Setiya 2013, 180-1)}
+   + Belief is static not dynamic\sidenote[][]{[b]elieving is static. To say that
+     someone believed that \emph{p} is not to report a completed act or event of believing,
+     but a standing condition (Setiya 2013, 181)}
+
+- Q: What does "belief is active" mean?
+   - It cannot mean "belief is dynamic"
+   - It cannot be due to features of "taking" in "dynamic inference"
+      + The "taking condition" on inference is false\sidenote[][-.25in]{The problem is that
+        the Taking Condition is false. An immediate source of doubt is the potential
+        conflation of dynamic inference with believing for a reason. It is incoherent
+        to say “I believe that it will rain because the clouds are grey—that is my
+        reason for believing it—though the fact that they are grey is not evidence
+        that it will rain.” When you believe that p on the ground that q, you believe
+        that p because you take the fact that q to support your belief. Hence the
+        incoherence. It does not follow from this, at least not directly, that one’s
+        belief cannot be justified by evidence one fails to recognize as such. (More
+        on this below.) Nor does it follow that inference in the dynamic sense is
+        subject to the Taking Condition. (Setiya 2013, 186)}
+      + Regress objection\sidenote[][]{In order to infer that p from the premise that
+        q, you must take the fact that q as evidence that p. In order to do so
+        rationally, you must infer this epistemic proposition from a further premise.
+        In order to make that inference, you need another belief, about the evidence
+        for the epistemic proposition. ... In order to be rational, this too must be
+        the product of dynamic inference. And so it goes. At every stage, you need a
+        prior inference, and the process can never begin. (Setiya 2013, 186)}
+   - So what does it mean?\sidenote[][]{We are looking for accounts of epistemic
+     agency on which it goes beyond the fact that we believe things for reasons, and
+     the fact that we form and revise beliefs, but does not involve intentional
+     belief-formation. What else could it be? (Setiya 2013, 184)}
+      + The deflationary reading: :: Believing (both the forming and revising of) is done for reasons
+
+  
+* References  & Further Reading
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
+
+#+nocite: @frankfurt1988; @velleman1992; @franklin2016; @boyle2009a; @boyle2011a; @burge2013; @williams1978; @parfit1987; @hieronymi2006; @hieronymi2009; @hieronymi2014; @setiya2010; @setiya2013
+
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in} \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
+

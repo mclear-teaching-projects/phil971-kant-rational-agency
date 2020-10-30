@@ -18,5 +18,5 @@ as well as the sense in which theoretical reason might be "autonomous".
 
 -   Schafer, "[A System of Rational Faculties: Additive or Transformative?](/materials/readings/schafer-transformative-rationality.pdf)"
 -   Mudd, "[The Demand for Systematicity and the Authority of Theoretical Reason in Kant](/materials/readings/mudd-systematicity.pdf)"
--   Mudd, "[Rethinking the Priority of Practical Reason in Kant](/materials/readings/mudd-priority.pdfr)"
+-   Mudd, "[Rethinking the Priority of Practical Reason in Kant](/materials/readings/mudd-priority.pdf)"
 -   Mudd, "Autonomy as the end of theoretical reason in Kant" (see listserv for link)

@@ -1569,8 +1569,153 @@ combination of awareness and discretion) as necessary for control/responsibility
 4. I think we addressed this one in class. 
 5. It might help to look at the SEP discussion of events and states.
    https://plato.stanford.edu/entries/events (see 2.1)
-   
-   
+** Week 12
+*** Reading Responses
+**** Janelle
+#+begin_quote
+if there is a separation between happiness and morality, is reason present in both
+domains?
+#+end_quote
+
+Happiness, in and of itself, need not be rationally (morally) constrained at all. But
+Kant thinks that the happiness one aims at as part of the highest good /is/ morally
+constrained. He says, of the happiness that is part of the highest good that it "is
+something that, though always pleasant to the possessor of it, is not of itself
+absolutely and in all respects good but always presupposes morally lawful conduct as
+its condition" (CPrR 5:111).
+
+#+begin_quote
+Recognizing that one’s action is consistent with the moral law is a feeling moved by
+pure practical reason, but the former is pathological, so in what way has reason
+transformed the pathological?
+#+end_quote
+
+Good question! I'm not clear how the proponent of TR is going to handle all of the
+places where Kant seems to present the "animal" or "pathological" as competing with
+morality.
+
+**** John
+#+begin_quote
+if the additive-transformative debate is essentially a disagreement about the
+‘metaphysical’ relations between reason and other non-rational faculties, won’t the
+Teleological Transformation view be dodging said question then by focusing on ends,
+rather than internal relations?
+#+end_quote
+
+That is an interesting point. Though if on thinks that the end toward which a
+capacity aims is part of the individuating conditions of the capacity, we seem to
+have a straightforward case of a "metaphysical" relation between reason and the other
+faculties. But Schafer seems to want to remain neutral as to the truth of the
+essentialist version of TR (i.e. "Transformation of Essential Nature"). So is the
+worry that if his version of TR doesn't entail a change in essential nature that it
+doesn't deserve to be called "transformative"? I guess this depends on what one means
+by "transformative" doesn't it? I take Schafer to be aiming at a version that gets
+some of what the essentialist version wants but not all of it.
+
+#+begin_quote
+If Persuasion exists as inadequate case of Fürwahrhalten, it is possible then to say
+that S can opt not to be governed by the principles of understanding, contrary to
+what is claimed?
+#+end_quote
+
+In the case of Persuasion, one is supposed to think that one is acting according to
+epistemic standards, only one has gone "off the rails" in one fashion or another. 
+
+#+begin_quote
+I thought the notion of “ideal cognition” is untenable as argued. I was wondering
+where (what page?) did Sasha address this in the preceding discussions. I seem to
+have missed it.
+#+end_quote
+
+I think the "ideal" here is just complete systematicity of knowledge, e.g.: "reason
+helps us gain knowledge of nature...by projecting the idea of systematic unity as the
+ideal goal toward which our cognition ought to strive...in its real or transcendental
+use reason not only seeks out conditions that would allow us to connect particular
+claims, it also seeks an ultimate condition or ground that would, hypothetically,
+allow us to connect all particular claims, thus creating a single, coherent whole of
+knowledge. This notion of an ultimate condition, containing within it the complete
+sum of all conditions, and capable of unifying all aspects of our knowledge, is
+reason’s fundamental idea. 9 It represents an ideal of explanatory closure in which
+nothing further remains to be explained" (80)
+
+**** Eunhong
+#+begin_quote
+Is it possible for us to possess a faculty for sensibility without possessing higher intellectual faculties? 
+#+end_quote
+
+Well, it is clear that Kant thinks this is the case with non-rational animals. Since
+human beings are supposed to be /rational/ animals, this is not possible.
+
+#+begin_quote
+My first question of Schafer’s moderate transformative view is whether Schafer's moderate view can really be regarded as the transformative view (As for me, it seems a little bit the additive view). 
+#+end_quote
+
+This is a good question! It all comes down to what one means by "transformation". If
+that entails an essentialist difference then it is unclear whether Schafer's
+"teleological transformation" is enough (unless a teleological difference entails a
+difference in essence).
+
+#+begin_quote
+I think the basic necessary condition for the transformative view is that the possession of rational capacities changes the essence or nature of one’s other capacities.
+#+end_quote
+
+I take it that this is part of what is up for debate. 
+**** Chen
+#+begin_quote
+It seems the positions of these rational capacities depend on how philosophers understand them. Are Schafer, Longuenesse and other philosophers discussing this problem of “unified system” based on the similar definitions of those critical terms or based on totally different understanding of those terms? 
+#+end_quote
+
+It is an interpretive problem as to how exactly the different capacities of the
+intellectual faculty are individuated. It doesn't help that Kant seems to change his
+mind about this over time. Schafer and Longuenesse (and others) agree that at least
+understanding, judgment, and reason are all part of the intellect. They also agree
+that the intellectual capacities (whatever they are) are all spontaneous rather than
+receptive. 
+
+#+begin_quote
+Is a “unified system” a system in which all other capacities are from one fundamentally critical capacity or a system in which all other capacities are for one ultimately critical capacity? 
+#+end_quote
+
+This is part of the debate right now -- i.e. how to characterize the dependence of
+faculties on one another, and of animal on rational faculties in particular. 
+
+#+begin_quote
+In “concepts of reason serve for comprehension, just as concepts of the understanding serve for understanding (of perceptions)” (p. 8), it seems without the capacity of reason, rational beings cannot have comprehension.
+#+end_quote
+
+Yes.
+
+#+begin_quote
+If “reason is aiming at the sort of systematic understanding of things that allows us to make sense of them” (p. 9), then is “reason” the ultimate end? 
+#+end_quote
+
+I don't think so. The end, on a view like Schafer's is comprehension/understanding
+(i.e. a systematic grasp of how all the individual parts of one's knowledge fit
+together). Reason determines the ends of the other faculties, but its own end is
+comprehension (again on a "cognitivist" view like that of Schafer). 
+
+#+begin_quote
+it seems without the faculty of desire, rational beings will not have the faculty of reason. Then should we understand the faculty of desire as a more fundamental capacity?
+#+end_quote
+
+I take it that Schafer is arguing that a rational being needs a faculty of desire.
+But that the faculty of desire is necessary does not mean that it is fundamental.
+Comapare: the existence of Scorates entails the existence of sigleton Soctrates (i.e.
+the set consisting of Socrates as the only element). But Socrates is the more
+fundamental being. 
+
+**** Trevor
+#+begin_quote
+When Kant talks about the a priori does he basically mean things you actively contribute to your experience instead of passively receive?
+#+end_quote
+
+Kant thinks that all of our a priori knowledge is based on what we as subjects
+contribute to experience. But this is compatible with thinking that we make a
+*receptive* contribution, in virtue of our "forms of sensibility"---viz. space and
+time.
+
+
+
 * Website
 ** Pages
 :PROPERTIES:
@@ -2144,11 +2289,30 @@ as well as the sense in which theoretical reason might be "autonomous".
 # - Mudd, 
 # - Kern, "The Teleology of Rational Capacities"
 
-*** TODO Week 13 - Reason as Understanding
+*** DONE Week 13 - Capacities, Teleology, & Knowledge
 SCHEDULED: <2020-11-10 Tue>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: capacities rationality teleology knowledge
+:EXPORT_FILE_NAME: week13
+:END:
+
+We'll continue our discussion of teleology this week by looking at Andrea Kern's
+Kant-inspired argument against contemporary virtue reliabilism. We'll also look at
+some of Karl Schafer's discussion of capacities in Kant's system more generally. 
+
+- Kern, "[[/materials/readings/kern-knowledge.pdf][The Teleology of Rational Capacities]]"
+- Schafer, "[[/materials/readings/schafer-capacities.pdf][Kant: constitutivism as capacities-first philosophy]]"
+- (Optional) Land, "[[/materials/readings/land-faculties.pdf][Epistemic agency and the self-knowledge of reason]]"
 
 *** TODO Week 14 - The Unity of Reason
 SCHEDULED: <2020-11-17 Tue>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: autonomy capacities comprehension knowledge principles PSR rationality teleology 
+:EXPORT_FILE_NAME: week14
+:END:
+
+
+
 ** Course Notes
 :PROPERTIES:
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :toc false :type post

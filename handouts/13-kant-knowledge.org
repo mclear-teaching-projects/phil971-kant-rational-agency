@@ -1,0 +1,135 @@
+#+STARTUP: fnadjust
+#+TITLE: Constitutivism, Teleology, & Knowledge
+#+DATE: Nov 10, 2020
+#+AUTHOR: Colin McLear | PHIL 971
+#+EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil971-kant-rational-agency/static/materials/handouts/13-kant-knowledge.pdf
+#+pandoc-emphasis-pre: "-\t ('\"{["
+#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]\\" 
+#+PANDOC_METADATA: numbersections:t secnumdepth:2 
+#+PANDOC_METADATA: "lfoot:PHIL 971 | Nov 10, 2020"
+#+PANDOC_METADATA: "lhead:Constitutivism, Teleology, & Knowledge"
+#+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufte.tex
+#+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
+#+PANDOC_EXTENSIONS: org+raw_tex
+#+EXCLUDE_TAGS: noexport notes scrap todo
+#+LANGUAGE: en
+#+OPTIONS: ':t
+#+OPTIONS: prop:t
+
+* Capacities
+
+- Core Constitutivist Claim: :: The fundamental norms that apply to X are explained by the nature of X.
+- Reason-First Constitutivism: :: The most fundamental norms that apply to us are grounded in our nature as rational beings or creatures with the capacity of reason.
+  
+
+- Schafer argues that Kant endorses a form of constitutivism---viz. "reason-first"
+  constitutivism\sidenote[][]{the normative principles that apply to the activities
+  of \emph{any} rational faculty will, for Kant, be grounded in that faculty’s nature
+  – and, in particular, the nature of its characteristic activity. Or, more
+  precisely, the principles in question will be grounded in the nature of the
+  relevant rational capacity while the status of these principles as \emph{normative}
+  will be grounded in the fact that this rational capacity is \emph{not} free of
+  external hinderance. (Schafer 2019, 187)}
+   - Is it right to think of Kant as articulating a form of constitutivism? In what
+     sense are norms derived from the nature of a capacity? 
+      + Is the "necessitation" of the norm based in sensibility?\sidenote[][]{if the
+        will is not \emph{in itself} completely in conformity with reason (as is
+        actually the case with human beings), then actions that are cognized as
+        objectively necessary are subjectively contingent, and the determination of
+        such a will in conformity with objective laws is \emph{necessitation}: that
+        is to say, the relation of objective laws to a will that is not thoroughly
+        good is represented as the determination of the will of a rational being
+        through grounds of reason, indeed, but grounds to which this will is not by
+        its nature necessarily obedient. (GII 4:413)}\sidenote[][]{But freedom of
+        choice cannot be defined - as some have tried to define it - as the capacity
+        to make a choice for or against the law (\emph{libertas
+        indifferentiae})\ldots Only freedom in relation to the internal lawgiving of
+        reason is really a capacity; the possibility of deviating from it is an
+        incapacity. How can that capacity be defined by {[}\emph{erklärt aus}{]} this
+        incapacity? It would be a definition that added to the practical concept the
+        exercise of it, as this is taught by experience, a hybrid definition
+        {[}\emph{Bastarderklärung}{]} (definitio \emph{hybrida}) that puts the
+        concept in a false light. (MM 6:226)}
+      + Why don't mere sensible capacities have norms if Kant endorses constitutivism?
+
+* Knowledge as a Rational Capacity
+
+- Virtue relibilism: :: knowledge is the result of the successful exercise of an epistemic
+  ability (or virtue)\sidenote[][]{knowledge is an instance of a more general
+  normative phenomenon – that of success through ability (or success through
+  excellence, or success through virtue) (Greco 2010, 3)}\sidenote[][]{Belief is a
+  kind of performance, which attains one level of success if it is true (or
+  accurate), a second level if it is competent (or adroit), and a third if its truth
+  manifests the believer’s competence (i.e., if it is apt). (Sosa 2011, 1)}
+
+** Three Claims of Virtue Reliabilism
+
+1. Believing is an activity, whose end is the truth.
+2. Capacities are general properties of subjects that explain the occurrence of acts that fulfill the end in terms of which the capacity is defined.
+3. Therefore, capacities that are defined as having the truth as their end make it intelligible how there can be beliefs that are non-accidentally true, i.e., that constitute knowledge.
+
+** The Problem with Virtue Reliabilism
+
+- A successful exercise of this capacity for y-ing consists in meeting the following three conditions:
+   1) The act agrees with the end of the capacity to y. ("accurate" act)
+   2) The act is a manifestation of the capacity to y.  ("adroit" act) 
+   3) (1) is true because (2) is true—i.e., the act agrees with the end of the
+      capacity to y because the act is a manifestation of the capacity to y. ("apt" act)
+
+      
+- \textsc{Problem}: According to virtue reliabilism, a capacity for knowledge can be
+  exercised perfectly well yet fail to be an act of knowing\sidenote[][]{virtue
+  epistemology holds that it is possible for an act to constitute a manifestation of
+  an epistemic capacity in the very same sense that an act of knowing does, yet
+  without itself being an act of knowing (Kern 2017, 245)}
+
+
+** Two Kinds of Causality
+
+   
+- Mechanical Causality: :: a connection in which the element that is regarded as the
+  effect cannot also serve as the cause of the element whose effect it is
+- Teleological Causality :: a causal connection in which the thing that is
+  represented as the cause is logically dependent on the thing that is represented as
+  the effect.
+
+  
+  
+- \textsc{Kern's Claim}: Only a kind of teleological causality can explain how a
+  capacity for knowledge is one whose acts are non-accidentally related to
+  truth\sidenote[][]{any line of thought that seeks to understand a capacity for
+  knowledge as analyzable into two logically independent elements—one that describes
+  the causality of the capacity and another that describes the agreement of its acts
+  with the end of the capacity—will be unable to lay claim to the idea of knowledge
+  as non-accidentally true belief. The idea of a non-accidentally true belief remains
+  unintelligible on such an account because it is impossible, in the context of such
+  an analysis, to explain the truth of a belief through the causality of the capacity
+  in question. (Kern 2017, 244)}
+   + To explain the non-accidental nature of (the capacity for) knowledge we need a
+     conception of the capacity that individuates manifestations of the capacity in
+     terms of the end of the capacity (i.e. truth)\sidenote[][]{Whereas a mechanistic
+     conception of capacities takes it to be possible to describe what it is for an
+     act to constitute a manifestation of a capacity without thereby making reference
+     to the telos of the capacity in question, a teleological conception of
+     capacities demands that one refer to the telos of the capacity in order to so
+     much as describe a given act as a manifestation of the capacity in question. It
+     follows that characterizations of acts as manifestations of capacities that
+     cannot be exercised under all possible circumstances must, accordingly, be
+     understood disjunctively: namely, either as perfect manifestations of the
+     capacity, which would then be identical with the perfect realization of its
+     telos, or as manifestations of the capacity that are faulty in one way or
+     another, which would amount to an imperfect realization of the capacity’s telos.
+     (Kern 2017, pp. 245-6)}
+  
+* References  & Further Reading
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
+
+#+nocite: @schafer2019; @schafer2017; @schafer2018a; @land2018a; @engstrom2009; @kern2017; @greco2010; @sosa2011; @sosa2015; @korsgaard2009; @smith2013c; @velleman2009
+
+
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in} \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
+

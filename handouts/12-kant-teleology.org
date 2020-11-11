@@ -1,0 +1,91 @@
+#+STARTUP: fnadjust
+#+TITLE: Teleology & Transformation
+#+DATE: Nov 3, 2020
+#+AUTHOR: Colin McLear | PHIL 971
+#+EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil971-kant-rational-agency/static/materials/handouts/12-kant-teleology.pdf
+#+pandoc-emphasis-pre: "-\t ('\"{["
+#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]\\" 
+#+PANDOC_METADATA: numbersections:t secnumdepth:2 
+#+PANDOC_METADATA: "lfoot:PHIL 971 | Nov 3, 2020"
+#+PANDOC_METADATA: "lhead:Teleology & Transformation"
+#+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufte.tex
+#+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
+#+PANDOC_EXTENSIONS: org+raw_tex
+#+EXCLUDE_TAGS: noexport notes scrap todo
+#+LANGUAGE: en
+#+OPTIONS: ':t
+#+OPTIONS: prop:t
+
+* Three Claims about Transformation
+1. *No Addition*: Rational capacities are not added to an otherwise independent stock
+   of non-rational capacities
+2. *Individuation*: If an animal is rational then all of its essential animal
+   capacities (e.g. sense, desire) are either themselves rational or are dependent on
+   the presence of rational capacities for their individuation (i.e. they are not
+   "self-standing" capacities)
+3. *Actualization*: Possession of the capacities constitutive of rationality affects
+   one's other faculties/capacities (e.g. sense, desire) at least in terms of (/a/)
+   their conditions of actualization; (/b/) the content of such acts
+
+* Two Kinds of "Rational Transformation"
+
+- Essentialist Rational Transformation: :: The possession of rational capacities
+  changes the essence or nature of one's other capacities (endorses 1-3)
+  
+- Actualist Rational Transformation :: The possession of rational capacities changes
+  the conditions of actualization and/or the content of the acts of one's other
+  capacities (endorses 1 and 3 only)
+
+
+* Schafer's "Moderate" Transformative View
+
+- Teleological Transformation: :: The presence of reason (and the other higher
+  intellectual faculties) does not leave the ends or standards of proper exercise of
+  sensibility in human beings “untouched”. Rather, the ends (and form of proper
+  exercise) of human sensibility is “transformed” by the presence in human beings of
+  both sensibility and reason.
+
+** The Argument from Teleology
+
+1. All capacities have "interests"\sidenote[][]{To every faculty of the mind one can
+   attribute an \emph{interest}, that is, a principle that contains the condition under
+   which alone its exercise is promoted. Reason, as the faculty of principles,
+   determines the interest of all the powers of the mind but itself determines
+   its own. The interest of its speculative use consists in the \emph{cognition} of the
+   object up to the highest a priori principles; that of its practical use consists
+   in the determination of the \emph{will} with respect to the final and complete end. That
+   which is required for the possibility of any use of reason as such, namely, that
+   its principles and affirmations must not contradict one another, constitutes no
+   part of its interest but is instead the condition of having reason at all; only
+   its extension, not mere consistency with itself, is reckoned as its interest.
+   (CPrR 5:119-20)}
+2. The interest of a capacity determines/constitutes its end or /telos/
+3. The interest of the capacity of reason is "comprehension" (/Begreifen/)
+4. The interest of reason determines, but is not determined by, the interests of all
+   of a being's other capacities
+5. $\therefore$ In a being with the capacity for reason there is a teleological
+   "reorientation" or "transformation" of the interests of one's capacities to align
+   with those of reason's interest in comprehension 
+
+
+
+- Q_1: Is Teleological Transformation an essentialist or actualist form of rational transformation?  
+   + The answer seems to entirely depend on whether interests play a role in
+     individuating capacities 
+- Q_2: Does Teleological Transformation obtain merely in virtue of the /possession/ of
+  reason, or does it also require that reason be actualized in various dispositions
+  to "autocracy" or self-mastery (e.g. through education and self-discipline)?
+  
+
+* References  & Further Reading
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
+
+#+nocite: @schafer2019; @schafer2017; @schafer2020a; @boyle2016; @boyle2017; @land2018a; @land2018b; @conant2016; @kern2017
+
+
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in} \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
+

@@ -1716,6 +1716,187 @@ time.
 
 
 
+
+** Week 13
+
+*** Reading responses
+
+**** Eunhong
+#+begin_quote
+The first question is whether Gettier Problem can be applied to Kant’s self-knowledge (I’m not sure self-knowledge is the same as the rational belief for Kant). The second question is whether the belief is self-conscious or not as what Land says. As Land says in his article (2018), Kant does not distinguish between belief and judgment. 
+#+end_quote
+
+The kind of faculty analysis Land proposes seems to assume that we *already* have the
+relevant self-knowledge, and that all we do is make it explicit. Part of the argument
+for this seems to be that the possession of implicit knowledge concerning the
+working of our rational capacities is necessary for explaining our activity of
+responding to reasons. Since we already have this knowledge implicitly it can't be
+"Gettiered". 
+
+It's an interesting question as to whether Kant distinguishes between "belief" (in
+the sense used in modern Anglophone philosophy to designate the most basic or general kind of
+doxastic state) and judgment. Kant has a conception of assent (/Fürwahrhalten/) that is
+the closes to our notion of a propositional attitude. Judgment is not assent, and
+Land unfortunately sidesteps the question of how the two are related (note 20). Does
+Kant distinguish between judgment as event and belief as state? This is also somewhat
+difficult to assess, since Kant holds that time is ideal. So there is a sense in
+which the judgment/belief distinction cannot be made fundamentally in terms of time
+or tense. It seems rather more plausible to me that Kant thinks of "beliefs" (or the
+closest analogue that those might have in his system---viz. forms of assent) as
+capacities to judge, and judgments as actualizations of those capacities.  
+
+
+
+**** John
+#+begin_quote
+in what way is the concept of capacity differentiated from the concept of faculty? Does Kant distinguish this? Does Schafer use them according to Kant’s usage?
+#+end_quote
+
+Here's Karl's note 12 on this: "Kant uses a variety of terms to refer to mental
+capacities or faculties – including Vermögen, Fähigkeit, and Kraft. There is
+considerable debate about the exact relationship between these, but in what follows I
+will generally use “capacity” and “faculty” interchangeably to refer to what Kant
+refers to by “Vermögen”" (p. 190). Using "faculty" and "capacity" strikes me as fair. 
+
+#+begin_quote
+In page 183, Schafer repeats his contention in p. 180 that practical reason takes a cognitive-then-metaphysical structure. My impression is that the order of cognition and order of metaphysical explanation stand on a relation of conjunction, not with respect to chronology. But Schafer seems to also imply that there is some priority awarded to the order of cognition. Why is this? If priority is necessary, what is its bearing (read: what for?, why is it relevant?) in this particular Kantian project?
+#+end_quote
+
+Karl's claim is that the fact of reason "displays the priority of our basic rational
+faculties in both the order of cognition and the order of metaphysical explanation."
+What he is saying is that capacities are both metaphysically fundamental, and
+epistemically fundamental. This isn't about "chronology" -- i.e. the notion of
+"prior" here isn't temporal but explanatory. Epistemic priority is relevant because
+Kant's project aims at explaining how we have various kinds of knowledge or
+comprehension, and Karl's position is that this is ultimately explained in terms of
+capacities. 
+
+#+begin_quote
+I guess I am a bit surprised to learn that sensibility also follows an internal principle too. Does this mean the receptive faculty of the mind, which is sensibility, follows some principle from what it receives, therefore externally? If it is internal, does this mean even sensibility follows some rule in receiving intuitions from the world? 
+#+end_quote
+
+Every capacity, as such, is going to have an "internal principle" (I would just say a
+"constitutive causal law") that distinguishes its activity from other capacities.
+Sensibility is no different. For Kant, sensibility is a receptive faculty, so it's
+causal law appeals to something distinct from the sensible faculty in its activity,
+and the most basic forms such laws take will concern space and time. 
+
+**** Trevor
+#+begin_quote
+First question, on page 178 Schafer introduces and quickly dismisses “Agency-First Constitutivism” with three objections. He doesn’t spell these out and I was curious about them. Could you possibly give us a quick rundown of what is supposed to be wrong here? I particularly think the problem he mentions regarding agency being more focused on practical rather than theoretical reason to be suspicious. If agency helps us with practical reasoning, why not all reasoning? He admits that these two views “converge” on the next page, but then why even bring up the objections?
+#+end_quote
+
+The discussion isn't meant to be definitive as Schafer has another article devoted
+to it. The point about practical vs. epistemic is merely that "Agency-first"
+constitutivism tends to focus on /practical/ reasoning rather than /epistemic/ reasoning.
+Schafer's aim is to provide a unified account, so he thinks that a constitutivism
+that focuses merely on one strand of reason is going to be unsatisfactory. I take it
+that he doesn't think appeals to "agency", understood as voluntary action, can help
+us understand epistemic activity. As he puts it in the other 2018 essay "I think that
+the proper starting point of the constitutivist project is best described—not as
+conception of agency per se—but rather as a general conception of rationality, of
+which rational agency is one form." (p. 71)
+
+#+begin_quote
+Second question, given what is said about Kant’s view of our capacity of cognition, what would Kant make of the phenomenon of blind-sight? Is anything being represented to the agent who experiences blind-sight or not? It seems like there is some sort of representation, but doesn’t seem to be one Kant recognizes.
+#+end_quote
+
+Clearly something is being represented by the blind-sighter. The assumption of the
+phenomenon is that they represent a fact without any phenomenal conscious access to
+the fact. If this is accurate to how blindsight works, the question is how it would
+be accommodated in Kant's framework. Kant allows that many (most?) of our
+representations are unconscious. He says "The field of sensuous intuitions and
+sensations of which we are not conscious, even though we can undoubtedly conclude
+that we have them; that is, obscure representations in the human being (and thus also
+in animals), is immense" (7:135). Kant does not, however, allow that there can
+unconscious cognition (in his technical sense in which cognition requires determinacy
+of its object). But this seems to fit with contemporary conception of the status of
+blindsight representation.
+
+
+**** Janelle
+#+begin_quote
+Is the way that Kant is using legislation ... the same way as legislation is normally understood? 
+#+end_quote
+
+Good question -- the way in which Kant uses the idea of "self-legislation" has been
+perplexing to many. I read "legislation" as, at minimum, "providing the law or rule".
+Both understanding and reason do this.
+
+#+begin_quote
+the understanding is the capacity that forms concepts, and because of this, all concepts are governed by understanding which is housed in reason?
+#+end_quote
+
+Understanding forms concepts and judgments. It's activity constitutes nature, as the
+sum of all appearances, in the sense of providing principles (e.g. causation) that
+organize all appearances in time and space. It is "housed" in reason only in the
+sense that its activity is directed towards giving material (judgments) to reason for
+the purpose of comprehension.   
+
+#+begin_quote
+I understand Kant rejects that we cannot know objects in and of themselves, but how are the faculties of the human mind (particularly in other humans and not one’s own) not considered objects?
+#+end_quote
+
+Usually what Kant means by "object" is "empirical object". The activity of our
+faculties is not something that is an empirical object of knowledge. Karl's strategy
+(like Land's) is to argue that the activity of these faculties is "self-conscious" in
+the sense that its activity is in principle available to the subject whose activity
+it is. The passage you point to on 185 indicates that the ends of the rational
+faculties are consciously accessible in the faculty's own activity.  
+
+Concerning the "surrogate" passage -- I don't see that this undermines a "capacities
+first" approach. And I don't see that it undermines the sense of "priority" at issue
+since compassion doens't provide a "reason" to act morally except in so far as one
+has developed reason. Instead it just helps "track" what morality requires without
+representing that as such. Another way to put this is that compassion encourages
+acting in accordance with what the moral law requires though it doesn't allow us to
+act /from/ or /in light of/ what the law requires. 
+
+#+begin_quote
+Are capacities and faculties interchangeable? This question is answered in the Kern reading, but I take it that the capacity tells us the actualization conditions of a faculty?
+#+end_quote
+
+See my answer to John on this. 
+
+**** Chen
+
+#+begin_quote
+[Regarding Kern,] I do not understand how “either perfect or imperfect agreement with the concept of
+knowledge” solves the problem of “luck”.
+#+end_quote
+
+As far as I understand Kern's argument, the claim seems to be that the capacity for
+knowledge is individuated in terms of its manifestation, which must itself be
+understood in terms of the end of non-accidentally true belief. So the claim is that
+*necessarily*, if the capacity is being exercised in good conditions, its exercise
+results in non-accidentally true belief. So on this view it is impossible to excise
+the capacity properly (i.e. skillfully and in good conditions) and have it be the
+case that one fails to know. This is in contrast with Sosa's view, according to which
+it is only /highly likely/ that the exercise of the capacity in good conditions results
+in knowledge.
+
+#+begin_quote
+). It is explained by Kern that there are differences between self-conscious teleological cause and non-self-conscious teleological cause. Does Kant solve this question by claiming that self-conscious teleological cause requires no creator?
+#+end_quote
+
+I think Kern goes beyond what Kant explicitly says here. But I take her move to be in
+saying that we have to individuate the capacity for knowledge in a way that requires
+that its exercise involve the consciousness (or representation -- this part is
+unclear) of the end for which the capacity is exercised -- i.e. non-accidentally true
+judgment. As she puts it, "A capacity for knowledge is one whose exercises fall under
+the concept of this capacity from the perspective of the subject whose capacity it
+is. It is a capacity whose exercises consist in an employment of the concept of that
+capacity by the subject who possesses it" (p. 252).
+
+#+begin_quote
+Kern also introduces the term “self-constituting capacity” that “a rational capacity for experiential knowledge is a capacity that constitutes itself by employing concepts of objects that make objects of experiential knowledge possible in the first place and, hence, that constitutes itself through a priori knowledge of itself as a capacity for experiential knowledge” (p. 256). But I am still confused. I have no idea of the “a priori knowledge”. Is it an inborn capacity? If we explain the capacity for experiential knowledge by “a priori knowledge”, how do we explain the latter? 
+#+end_quote
+
+I find this part of the view pretty obscure. In the next chapter she explicitly
+rejects the idea that it is an "inborn" capacity. She follows Aristotle in arguing
+that "rational capacities are not “innate” but “come by practice” (p. 258). She
+argues that this acquisition through practice is one of learning. But the details of
+how she understands this "learning" go beyond what I can discuss here. 
 * Website
 ** Pages
 :PROPERTIES:
@@ -2304,13 +2485,17 @@ some of Karl Schafer's discussion of capacities in Kant's system more generally.
 - Schafer, "[[/materials/readings/schafer-capacities.pdf][Kant: constitutivism as capacities-first philosophy]]"
 - (Optional) Land, "[[/materials/readings/land-faculties.pdf][Epistemic agency and the self-knowledge of reason]]"
 
-*** TODO Week 14 - The Unity of Reason
+*** DONE Week 14 - The Unity of Reason
 SCHEDULED: <2020-11-17 Tue>
 :PROPERTIES:
 :EXPORT_HUGO_TAGS: autonomy capacities comprehension knowledge principles PSR rationality teleology 
 :EXPORT_FILE_NAME: week14
 :END:
 
+This week we'll wrap up our discussion of reason, rationality, and teleology by looking at some work by Karl Schafer on the unity of practical and theoretical reason, or more traditionally, in terms of the connection between the "principle of sufficient reason" and the moral law. 
+
+- Schafer, "[[/materials/readings/schafer-ch7.pdf][The Principles of Theoretical Reason and the Principle of Sufficient Reason]]"
+- Schafer, "[[/materials/readings/schafer-ch9.pdf][The Principles of Practical Reason]]"
 
 
 ** Course Notes

@@ -30,7 +30,7 @@ an account of inference.
             paragraph on 8:13 to the end.
     -   _Critique of Practical Reason_: 5:94-101
 -   Secondary readings:
-    -   McLear, [Inference](https://www.dropbox.com/s/d3v0qnnc2nqt45f/inference.pdf?dl=0)
+    -   McLear, Inference
     -   McLear (Optional), “[On the Transcendental Freedom of the Intellect](https://philpapers.org/rec/MCLOTT)” (just §§4.2-4.3)
 -   Neta, “[The Basing Relation](/materials/readings/neta-basing.pdf)”
 -   Boghossian (Optional), “[What is Inference?](/materials/readings/boghossian-inference.pdf)”

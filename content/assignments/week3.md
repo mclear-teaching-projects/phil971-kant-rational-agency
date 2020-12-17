@@ -40,5 +40,5 @@ I want to focus our discussion around the following questions:
 -   Secondary readings:
     -   Kohl, "[Kant on Freedom of Empirical Thought](/materials/readings/kohl-kant-free-thought.pdf)"
     -   Cohen, “[Kant on Doxastic Voluntarism and its Implications for Epistemic Responsibility](/materials/readings/cohen-dox.pdf)”
-    -   (Optional) McLear, ["Control"](https://www.dropbox.com/s/4pp80jgue6mejwh/control.pdf?dl=0)
+    -   (Optional) McLear, "Control"
     -   (Optional) Korsgaard, “[Self-Constitution in the Ethics of Plato and Kant](/materials/readings/korsgaard-self-constitution.pdf)”

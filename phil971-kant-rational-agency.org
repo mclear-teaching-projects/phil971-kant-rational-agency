@@ -1897,6 +1897,109 @@ rejects the idea that it is an "inborn" capacity. She follows Aristotle in argui
 that "rational capacities are not “innate” but “come by practice” (p. 258). She
 argues that this acquisition through practice is one of learning. But the details of
 how she understands this "learning" go beyond what I can discuss here. 
+
+** Week 14
+
+*** Reading Responses
+**** John
+#+begin_quote
+I cannot seem to get what Schafer means by “continual expansion of the scope and
+depth of our theoretical cognition from comparative principles” (p. 200). ... In what
+way can I frame Belief (Glaube) to be expanding in scope and depth?
+#+end_quote
+
+#+begin_quote
+In page 209, Schafer contends,
+
+Kant’s discussion on the relationship between God’s existence and the demands of
+morality is meant to build up upon his prior discussion of the (admittedly very thin)
+sense in which the theoretical reason commits us to the idea that “God” exists.
+
+But if belief in God’s existence is essentially doctrinal belief, and it is
+essentially a Glaube, one that is subjectively sufficient but not objectively
+sufficient and therefore pursued for pragmatic ends, might this reading (quoted
+above) be a little difficult to defend. It seems to me belief in God still falls well
+within the parameters of practical reason. This makes it easier to see the continuity
+between belief in God and the demands of morality – for both of them are ends to
+which the practical reason is most apt to pursue. 
+#+end_quote
+
+I'm not sure what the question is here.
+
+#+begin_quote
+It seems plain that logical maxims, because of its theoretic nature, allows us to
+posit the unconditioned. But it’s not clear to me if hypothetical imperatives can do
+the same (or if it would even make sense to say that it can). If we suppose that the
+latter cannot give us access to the unconditioned, then our ‘access’ is one way –
+from logical maxims to hypothetical imperatives. So only with its link with logical
+maxim can hypothetical imperative be related to the unconditioned. The unity then
+becomes characteristically an asymmetrical relation to the unconditioned. But I am
+not sure if this is a plausible interpretation though.
+#+end_quote
+
+I don't understand this one either. 
+
+**** Eunhong
+#+begin_quote
+According to Schafer, Willaschek uses the meaning of “unconditioned” in a very weak
+way: only regulatively. Schafer thinks that we have to understand the principle
+stronger than Willaschek’s interpretation. However, I could not fully understand why
+we have to understand the principle in a stronger way. The evidence that Schafer
+suggests is as follows:
+ 
+“…in introducing the “supreme principle”, Kant explicitly claims that the “logical
+maxim” can only become a “principle of pure reason” – i.e. that it can only assume
+the role of a principle governing reason’s theoretical use-if “we assume” that the
+whole series of conditions, and so the unconditioned, is “given (i.e. contained in
+the object and its connection. Thus, the must straightforward reading of this passage
+is that the acceptance of the “logical maxim” requires the acceptance of the
+existence of the unconditioned.”
+ 
+Still, it seems to me that Kant says the “logical maxim” can have the possibility
+that can become a principle of pure reason. Even if the logical maxim can only assume
+the role of a principle governing reason’s theoretical use, I am not sure why it
+guarantees the existence of the unconditioned. We cannot think of the unconditioned
+directly.[5] The only thing we can think of is the assumed existence of the
+unconditioned, not the existence of the unconditioned. Therefore, I would like to
+know a more detailed explanation that Schafer’s objection to Willaschek’s views of
+principles.
+#+end_quote
+**** Chen
+#+begin_quote
+My question here is quite basic. Schafer develops the discussion around the concepts
+“conditioned” and “unconditioned”, but my understanding of them is very vague and
+uncertain, if I ever have any understanding. What on earth do “conditioned” and
+“unconditioned” mean? Why is the distinction important for Kant/Schafer? What are
+“conditions”? What is the relationship between “conditions” and the limits on our
+capacities for theoretical cognition and practical cognition?
+#+end_quote
+**** Janelle
+#+begin_quote
+Is, according to the Schaffer [sic.] view, the human being as such enough to get the
+practical end, or does it require the human being to cultivate the relevant faculties
+(and subsequently actualizing the capacities of those faculties).
+#+end_quote
+**** Trevor
+#+begin_quote
+If we can characterize reasons activity by referencing its “proper functioning”,
+doesn’t the ideality of space and time seem a little weird? If I am engaging in
+reasoning regarding space or time, those representations I have of space or time
+won’t actually pick out anything in the real world, so is it really functioning
+properly? Is the proper function of reason to accomplish (i)-(iii) (as mentioned on
+page 190) with regards to representations of things that don’t exist except in our
+minds?
+#+end_quote
+
+#+begin_quote
+I remember being told that the reason’s search for the unconditioned is basically a
+search for an ultimate cause. Given my simplistic understanding, I am not sure how to
+interpret Schafer’s view that we should properly interpret Kant as saying we must
+accept the existence of the unconditioned. Does that mean we must accept that there
+are ultimate causes generally or that there is some specific ultimate cause?
+Schafer’s language makes it sound like the latter but then I wonder why this is even
+a controversial interpretation of Kant when Kant specifically says that we must posit
+the existence of God, who would presumably fulfill this role as ultimate cause.
+#+end_quote
 * Website
 ** Pages
 :PROPERTIES:
@@ -2078,7 +2181,7 @@ itself or other beings.
       - There’s much more here than we can discuss in seminar, but directly relevant
         to his theory of causation.
 - Kant on Action & Agent
-   + McLear, “[[https://www.dropbox.com/s/8d6ar03pwhbstz6/substance.pdf?dl=0][Substance, Capacity, & Act]]”
+   + McLear, “Substance, Capacity, & Act”
       - This is my attempt to get clear on the some of the basic elements of Kant’s
         conception of an agent, and of activity. We’ll discuss issues relevant to
         §§1-2 in particular. 
@@ -2169,7 +2272,7 @@ I want to focus our discussion around the following questions:
 - Secondary readings:
    + Kohl, "[[/materials/readings/kohl-kant-free-thought.pdf][Kant on Freedom of Empirical Thought]]"
    + Cohen, “[[/materials/readings/cohen-dox.pdf][Kant on Doxastic Voluntarism and its Implications for Epistemic Responsibility]]”
-   + (Optional) McLear, [[https://www.dropbox.com/s/4pp80jgue6mejwh/control.pdf?dl=0]["Control"]]
+   + (Optional) McLear, "Control"
    + (Optional) Korsgaard, “[[/materials/readings/korsgaard-self-constitution.pdf][Self-Constitution in the Ethics of Plato and Kant]]”
      
   
@@ -2204,7 +2307,7 @@ an account of inference.
         paragraph on 8:13 to the end. 
    + /Critique of Practical Reason/: 5:94-101 
 - Secondary readings:
-   + McLear, [[https://www.dropbox.com/s/d3v0qnnc2nqt45f/inference.pdf?dl=0][Inference]]
+   + McLear, Inference
    + McLear (Optional), “[[https://philpapers.org/rec/MCLOTT][On the Transcendental Freedom of the Intellect]]” (just §§4.2-4.3)
 - Neta, “[[/materials/readings/neta-basing.pdf][The Basing Relation]]”
 - Boghossian (Optional), “[[/materials/readings/boghossian-inference.pdf][What is Inference?]]”  
@@ -2439,7 +2542,7 @@ capacity. We'll look at two takes on the issue, one for (Boyle), and one against
    + This is a useful intro to the basic idea behind the "transformative" view of rationality.
 - Boyle, "[[/materials/readings/boyle-rationality.pdf][Additive Theories of Rationality]]"
    + A more technical discussion, linking it up with arguments by McDowell. 
-- McLear, "[[/materials/readings/mclear-transformation.pdf][Rationality: What Difference Does It Make?]]"
+- McLear, "Rationality: What Difference Does It Make?"
    + I discuss the transformative conception of rationality specifically with respect
      to the interpretation of Kant
 - (Optional) Schafer, "[[/materials/readings/schafer-transformative-rationality.pdf][A System of Rational Faculties: Additive or Transformative?]]"

@@ -43,7 +43,7 @@ itself or other beings.
         -   There’s much more here than we can discuss in seminar, but directly relevant
             to his theory of causation.
 -   Kant on Action & Agent
-    -   McLear, “[Substance, Capacity, & Act](https://www.dropbox.com/s/8d6ar03pwhbstz6/substance.pdf?dl=0)”
+    -   McLear, “Substance, Capacity, & Act”
         -   This is my attempt to get clear on the some of the basic elements of Kant’s
             conception of an agent, and of activity. We’ll discuss issues relevant to
             §§1-2 in particular.

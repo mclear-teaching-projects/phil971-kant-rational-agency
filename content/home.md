@@ -5,7 +5,7 @@ author = false
 toc = false
 +++
 
-This is the homepage for **PHIL 971** – Kantian Conceptions of Rational Agency
+This is the homepage for **PHIL 971** – Kantian Conceptions of Rational Agency (**Fall 2020**)
 
 Kant famously considers moral agency to consist in acting from a grasp of rational
 principles as such. But what is a rational principle and what is it to act from such
